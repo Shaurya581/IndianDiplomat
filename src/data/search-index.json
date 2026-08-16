@@ -1,0 +1,2163 @@
+[
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "india",
+    "countryName": "India",
+    "countryFlag": "🇮🇳"
+  },
+  {
+    "type": "event",
+    "title": "Partition of British India",
+    "subtitle": "India and Pakistan become independent states; Partition triggers mass migration and communal violence, and an unresolved dispute over the princely state of Jammu & Kashmir.",
+    "year": 1947,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "event",
+    "title": "Second Indo-Pakistani War",
+    "subtitle": "War fought primarily over Kashmir, ending in a UN-mandated ceasefire and the Tashkent Declaration (1966).",
+    "year": 1965,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "event",
+    "title": "Indo-Pakistani War and Liberation of Bangladesh",
+    "subtitle": "India intervenes in the Bangladesh Liberation War; Pakistani forces surrender in Dhaka, leading to the independent state of Bangladesh.",
+    "year": 1971,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "event",
+    "title": "Simla Agreement",
+    "subtitle": "India and Pakistan agree to resolve differences bilaterally and establish the Line of Control in Kashmir.",
+    "year": 1972,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "event",
+    "title": "Kargil War",
+    "subtitle": "Pakistani forces and militants occupy positions on the Indian side of the Line of Control in Kargil; Indian forces recapture the heights after weeks of fighting.",
+    "year": 1999,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "event",
+    "title": "Pulwama Attack and Balakot Airstrike",
+    "subtitle": "A suicide bombing kills 40 Indian paramilitary personnel in Pulwama; India conducts airstrikes in Balakot, Pakistan, in response. Trade and diplomatic ties are downgraded sharply afterward.",
+    "year": 2019,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "agreement",
+    "title": "Indus Waters Treaty",
+    "subtitle": "World Bank-brokered treaty governing the sharing of the Indus river system; India held it in abeyance following the April 2025 Pahalgam terror attack.",
+    "year": 1960,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "agreement",
+    "title": "Simla Agreement",
+    "subtitle": "Post-1971 war framework committing both countries to bilateral resolution of disputes and defining the Line of Control.",
+    "year": 1972,
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "pakistan",
+    "countryName": "Pakistan",
+    "countryFlag": "🇵🇰"
+  },
+  {
+    "type": "event",
+    "title": "Bangladesh Liberation War",
+    "subtitle": "India provides military and diplomatic support to the Bangladesh liberation movement, intervening decisively against Pakistan.",
+    "year": 1971,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "event",
+    "title": "Treaty of Friendship, Cooperation and Peace",
+    "subtitle": "India and Bangladesh sign a 25-year friendship treaty shortly after independence.",
+    "year": 1972,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "event",
+    "title": "Ganges Water Treaty",
+    "subtitle": "A 30-year treaty on sharing Ganges waters at the Farakka Barrage is signed.",
+    "year": 1996,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "event",
+    "title": "Land Boundary Agreement Implementation",
+    "subtitle": "India and Bangladesh exchange enclaves, resolving a decades-old border dispute via the 100th Constitutional Amendment.",
+    "year": 2015,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "event",
+    "title": "Fall of the Hasina Government",
+    "subtitle": "Sheikh Hasina resigns amid mass protests and takes refuge in India; an interim government under Muhammad Yunus assumes charge, complicating bilateral ties.",
+    "year": 2024,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "agreement",
+    "title": "Land Boundary Agreement",
+    "subtitle": "Exchange of enclaves along the India-Bangladesh border.",
+    "year": 2015,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "agreement",
+    "title": "Ganges Water Treaty",
+    "subtitle": "Sharing arrangement for Ganges river waters at Farakka.",
+    "year": 1996,
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "bangladesh",
+    "countryName": "Bangladesh",
+    "countryFlag": "🇧🇩"
+  },
+  {
+    "type": "event",
+    "title": "Treaty of Peace and Friendship",
+    "subtitle": "India and Nepal sign a treaty establishing open borders and reciprocal rights of movement, residence and property for citizens.",
+    "year": 1950,
+    "countryId": "nepal",
+    "countryName": "Nepal",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "type": "event",
+    "title": "Border Blockade",
+    "subtitle": "Months-long disruption of supplies at the India-Nepal border coincides with unrest over Nepal's new constitution, straining ties.",
+    "year": 2015,
+    "countryId": "nepal",
+    "countryName": "Nepal",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "type": "event",
+    "title": "Kalapani-Lipulekh Map Dispute",
+    "subtitle": "Nepal issues a revised political map including Kalapani, Lipulekh and Limpiyadhura, which India administers; the dispute remains unresolved.",
+    "year": 2020,
+    "countryId": "nepal",
+    "countryName": "Nepal",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "type": "agreement",
+    "title": "Treaty of Peace and Friendship",
+    "subtitle": "Foundational treaty granting citizens of each country reciprocal rights.",
+    "year": 1950,
+    "countryId": "nepal",
+    "countryName": "Nepal",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "type": "agreement",
+    "title": "Power Trade Agreement",
+    "subtitle": "Framework for cross-border electricity trade and hydropower development.",
+    "year": 2014,
+    "countryId": "nepal",
+    "countryName": "Nepal",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "nepal",
+    "countryName": "Nepal",
+    "countryFlag": "🇳🇵"
+  },
+  {
+    "type": "event",
+    "title": "Treaty of Friendship",
+    "subtitle": "India and Bhutan sign a treaty of peace and friendship, later revised in 2007 to grant Bhutan greater sovereignty in foreign policy while preserving close cooperation.",
+    "year": 1949,
+    "countryId": "bhutan",
+    "countryName": "Bhutan",
+    "countryFlag": "🇧🇹"
+  },
+  {
+    "type": "event",
+    "title": "Doklam Standoff",
+    "subtitle": "Indian troops intervene to halt Chinese road construction in Doklam, territory disputed between Bhutan and China near the strategic Siliguri Corridor, leading to a tense 73-day standoff.",
+    "year": 2017,
+    "countryId": "bhutan",
+    "countryName": "Bhutan",
+    "countryFlag": "🇧🇹"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Bhutan Friendship Treaty (revised)",
+    "subtitle": "Updated treaty affirming close cooperation while expanding Bhutan's foreign-policy autonomy.",
+    "year": 2007,
+    "countryId": "bhutan",
+    "countryName": "Bhutan",
+    "countryFlag": "🇧🇹"
+  },
+  {
+    "type": "agreement",
+    "title": "Hydropower cooperation agreements",
+    "subtitle": "Framework agreements underpinning Indian-financed hydropower projects including Tala, Chukha and Punatsangchhu.",
+    "year": 2006,
+    "countryId": "bhutan",
+    "countryName": "Bhutan",
+    "countryFlag": "🇧🇹"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "bhutan",
+    "countryName": "Bhutan",
+    "countryFlag": "🇧🇹"
+  },
+  {
+    "type": "leader",
+    "title": "Jigme Khesar Namgyel Wangchuck",
+    "subtitle": "King (Druk Gyalpo) of Bhutan",
+    "countryId": "bhutan",
+    "countryName": "Bhutan",
+    "countryFlag": "🇧🇹"
+  },
+  {
+    "type": "event",
+    "title": "Indo-Sri Lanka Accord and IPKF Deployment",
+    "subtitle": "India deploys the Indian Peace Keeping Force to Sri Lanka to help implement a Tamil devolution accord amid civil war; the mission withdraws in 1990 after significant casualties.",
+    "year": 1987,
+    "countryId": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "countryFlag": "🇱🇰"
+  },
+  {
+    "type": "event",
+    "title": "India-Sri Lanka Free Trade Agreement",
+    "subtitle": "ISFTA comes into force, becoming one of India's earliest bilateral free trade agreements.",
+    "year": 2000,
+    "countryId": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "countryFlag": "🇱🇰"
+  },
+  {
+    "type": "event",
+    "title": "Economic Crisis Support",
+    "subtitle": "India extends over $4 billion in credit lines, currency swaps and fuel assistance as Sri Lanka faces its worst economic crisis since independence.",
+    "year": 2022,
+    "countryId": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "countryFlag": "🇱🇰"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Sri Lanka Free Trade Agreement (ISFTA)",
+    "subtitle": "Bilateral free trade agreement covering goods trade between the two countries.",
+    "year": 2000,
+    "countryId": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "countryFlag": "🇱🇰"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "sri-lanka",
+    "countryName": "Sri Lanka",
+    "countryFlag": "🇱🇰"
+  },
+  {
+    "type": "event",
+    "title": "Operation Cactus",
+    "subtitle": "Indian armed forces intervene rapidly to foil a coup attempt against the Maldivian government, cementing India's role as regional security guarantor.",
+    "year": 1988,
+    "countryId": "maldives",
+    "countryName": "Maldives",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "type": "event",
+    "title": "Muizzu Election and \"India Out\" Campaign",
+    "subtitle": "Mohamed Muizzu is elected president on a platform seeking the withdrawal of Indian military personnel, marking a diplomatic realignment toward China.",
+    "year": 2023,
+    "countryId": "maldives",
+    "countryName": "Maldives",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "type": "event",
+    "title": "Diplomatic Reset",
+    "subtitle": "Following friction over remarks by Maldivian officials, both governments work to stabilise relations through high-level visits and economic assistance.",
+    "year": 2024,
+    "countryId": "maldives",
+    "countryName": "Maldives",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Economic and Maritime Security Partnership",
+    "subtitle": "Framework agreement reaffirming economic and maritime cooperation amid the broader diplomatic reset.",
+    "year": 2024,
+    "countryId": "maldives",
+    "countryName": "Maldives",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "maldives",
+    "countryName": "Maldives",
+    "countryFlag": "🇲🇻"
+  },
+  {
+    "type": "event",
+    "title": "Zaranj-Delaram Highway",
+    "subtitle": "India completes construction of a strategic highway linking Afghanistan to Iran's Chabahar port, bypassing Pakistan.",
+    "year": 2009,
+    "countryId": "afghanistan",
+    "countryName": "Afghanistan",
+    "countryFlag": "🇦🇫"
+  },
+  {
+    "type": "event",
+    "title": "Afghan Parliament Building",
+    "subtitle": "India completes construction of the new Afghan Parliament complex in Kabul as a landmark development assistance project.",
+    "year": 2015,
+    "countryId": "afghanistan",
+    "countryName": "Afghanistan",
+    "countryFlag": "🇦🇫"
+  },
+  {
+    "type": "event",
+    "title": "Taliban Takeover",
+    "subtitle": "The Taliban retakes Kabul as US and NATO forces withdraw; India evacuates its embassy staff and suspends formal diplomatic presence.",
+    "year": 2021,
+    "countryId": "afghanistan",
+    "countryName": "Afghanistan",
+    "countryFlag": "🇦🇫"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "afghanistan",
+    "countryName": "Afghanistan",
+    "countryFlag": "🇦🇫"
+  },
+  {
+    "type": "event",
+    "title": "Panchsheel Agreement",
+    "subtitle": "India and China sign an agreement enshrining five principles of peaceful coexistence, part of the \"Hindi-Chini Bhai-Bhai\" era.",
+    "year": 1954,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "event",
+    "title": "Sino-Indian War",
+    "subtitle": "War breaks out over disputed Himalayan border territory; China declares a unilateral ceasefire after making significant advances, leaving lasting distrust.",
+    "year": 1962,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "event",
+    "title": "Rajiv Gandhi's Beijing Visit",
+    "subtitle": "The first Indian prime ministerial visit to China since 1954 begins a normalization of ties.",
+    "year": 1988,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "event",
+    "title": "Doklam Standoff",
+    "subtitle": "A 73-day military standoff near the Bhutan-China-India tri-junction after Indian troops halt Chinese road construction.",
+    "year": 2017,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "event",
+    "title": "Galwan Valley Clash",
+    "subtitle": "A violent hand-to-hand clash in the Galwan Valley kills 20 Indian and an undisclosed number of Chinese soldiers — the first fatal India-China border incident since 1975.",
+    "year": 2020,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "event",
+    "title": "Border Patrolling Agreement",
+    "subtitle": "India and China reach an agreement on patrolling arrangements in remaining friction points, enabling a partial disengagement and resumption of some high-level contact.",
+    "year": 2024,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "agreement",
+    "title": "Border Peace and Tranquility Agreement",
+    "subtitle": "Early confidence-building framework for managing the undemarcated border pending final settlement.",
+    "year": 1993,
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "leader",
+    "title": "Xi Jinping",
+    "subtitle": "President of the People's Republic of China",
+    "countryId": "china",
+    "countryName": "China",
+    "countryFlag": "🇨🇳"
+  },
+  {
+    "type": "event",
+    "title": "Global Partnership between India and Japan",
+    "subtitle": "India and Japan elevate ties to a Global Partnership during PM Yoshiro Mori's visit.",
+    "year": 2000,
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "event",
+    "title": "Strategic and Global Partnership",
+    "subtitle": "Relations are further upgraded during PM Manmohan Singh's visit to Tokyo.",
+    "year": 2006,
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "event",
+    "title": "Special Strategic and Global Partnership",
+    "subtitle": "Ties are elevated again, with Japan committing a low-interest loan for the Mumbai-Ahmedabad High Speed Rail (bullet train) project.",
+    "year": 2015,
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "event",
+    "title": "Act East Forum",
+    "subtitle": "India and Japan launch a forum to coordinate infrastructure development in India's northeastern states.",
+    "year": 2017,
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Japan Civil Nuclear Agreement",
+    "subtitle": "Agreement enabling civil nuclear cooperation despite India being outside the NPT.",
+    "year": 2016,
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "agreement",
+    "title": "Mumbai-Ahmedabad High Speed Rail financing",
+    "subtitle": "Japan International Cooperation Agency loan financing India's first bullet train corridor.",
+    "year": 2015,
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "japan",
+    "countryName": "Japan",
+    "countryFlag": "🇯🇵"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India and South Korea formally establish diplomatic relations.",
+    "year": 1973,
+    "countryId": "south-korea",
+    "countryName": "South Korea",
+    "countryFlag": "🇰🇷"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Economic Partnership Agreement (CEPA)",
+    "subtitle": "A bilateral trade agreement comes into force, phasing down tariffs across a wide range of goods and services.",
+    "year": 2010,
+    "countryId": "south-korea",
+    "countryName": "South Korea",
+    "countryFlag": "🇰🇷"
+  },
+  {
+    "type": "event",
+    "title": "Special Strategic Partnership",
+    "subtitle": "Ties are upgraded during President Park Geun-hye's visit to India.",
+    "year": 2015,
+    "countryId": "south-korea",
+    "countryName": "South Korea",
+    "countryFlag": "🇰🇷"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Economic Partnership Agreement",
+    "subtitle": "Bilateral trade agreement now under review for an upgrade to expand coverage.",
+    "year": 2010,
+    "countryId": "south-korea",
+    "countryName": "South Korea",
+    "countryFlag": "🇰🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "south-korea",
+    "countryName": "South Korea",
+    "countryFlag": "🇰🇷"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India and North Korea establish formal diplomatic relations, though engagement has remained minimal.",
+    "year": 1973,
+    "countryId": "north-korea",
+    "countryName": "North Korea",
+    "countryFlag": "🇰🇵"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "north-korea",
+    "countryName": "North Korea",
+    "countryFlag": "🇰🇵"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India becomes one of the first countries outside the Soviet bloc to establish diplomatic relations with Mongolia.",
+    "year": 1955,
+    "countryId": "mongolia",
+    "countryName": "Mongolia",
+    "countryFlag": "🇲🇳"
+  },
+  {
+    "type": "event",
+    "title": "\"Spiritual Neighbour\" Visit",
+    "subtitle": "PM Modi becomes the first Indian prime minister to visit Mongolia, extending a $1 billion line of credit including for an oil refinery.",
+    "year": 2015,
+    "countryId": "mongolia",
+    "countryName": "Mongolia",
+    "countryFlag": "🇲🇳"
+  },
+  {
+    "type": "agreement",
+    "title": "Line of Credit for Mongolia Oil Refinery",
+    "subtitle": "Indian concessional financing to help Mongolia build its first domestic oil refinery.",
+    "year": 2015,
+    "countryId": "mongolia",
+    "countryName": "Mongolia",
+    "countryFlag": "🇲🇳"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "mongolia",
+    "countryName": "Mongolia",
+    "countryFlag": "🇲🇳"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India and Vietnam formalise diplomatic relations amid Cold War-era non-aligned solidarity.",
+    "year": 1972,
+    "countryId": "vietnam",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "Ties are elevated to a Strategic Partnership.",
+    "year": 2007,
+    "countryId": "vietnam",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Strategic Partnership",
+    "subtitle": "Relations are upgraded further during PM Modi's visit to Hanoi, alongside a $500 million defence line of credit.",
+    "year": 2016,
+    "countryId": "vietnam",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Strategic Partnership",
+    "subtitle": "Framework elevating political, defence and economic cooperation.",
+    "year": 2016,
+    "countryId": "vietnam",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "type": "agreement",
+    "title": "Defence Line of Credit",
+    "subtitle": "$500 million credit line to support Vietnamese defence acquisitions from India.",
+    "year": 2016,
+    "countryId": "vietnam",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "vietnam",
+    "countryName": "Vietnam",
+    "countryFlag": "🇻🇳"
+  },
+  {
+    "type": "event",
+    "title": "Treaty of Friendship",
+    "subtitle": "India and Indonesia sign a treaty of friendship shortly after both gaining independence.",
+    "year": 1951,
+    "countryId": "indonesia",
+    "countryName": "Indonesia",
+    "countryFlag": "🇮🇩"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Indonesia elevate ties to a Strategic Partnership.",
+    "year": 2005,
+    "countryId": "indonesia",
+    "countryName": "Indonesia",
+    "countryFlag": "🇮🇩"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Strategic Partnership and Sabang Port Access",
+    "subtitle": "Ties are further elevated, and Indonesia grants India access to the strategically located Sabang port near the Malacca Strait.",
+    "year": 2018,
+    "countryId": "indonesia",
+    "countryName": "Indonesia",
+    "countryFlag": "🇮🇩"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Strategic Partnership",
+    "subtitle": "Framework covering defence, maritime, trade and connectivity cooperation.",
+    "year": 2018,
+    "countryId": "indonesia",
+    "countryName": "Indonesia",
+    "countryFlag": "🇮🇩"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "indonesia",
+    "countryName": "Indonesia",
+    "countryFlag": "🇮🇩"
+  },
+  {
+    "type": "event",
+    "title": "BrahMos Missile Export Deal",
+    "subtitle": "The Philippines signs a $375 million deal to acquire the India-Russia jointly developed BrahMos supersonic cruise missile, India's first major missile export.",
+    "year": 2022,
+    "countryId": "philippines",
+    "countryName": "Philippines",
+    "countryFlag": "🇵🇭"
+  },
+  {
+    "type": "agreement",
+    "title": "BrahMos Supersonic Cruise Missile Deal",
+    "subtitle": "Philippines' acquisition of shore-based anti-ship BrahMos missile batteries from India.",
+    "year": 2022,
+    "countryId": "philippines",
+    "countryName": "Philippines",
+    "countryFlag": "🇵🇭"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "philippines",
+    "countryName": "Philippines",
+    "countryFlag": "🇵🇭"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Economic Cooperation Agreement (CECA)",
+    "subtitle": "India signs its first comprehensive economic partnership agreement with an ASEAN country.",
+    "year": 2005,
+    "countryId": "singapore",
+    "countryName": "Singapore",
+    "countryFlag": "🇸🇬"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Singapore elevate relations to a Strategic Partnership.",
+    "year": 2015,
+    "countryId": "singapore",
+    "countryName": "Singapore",
+    "countryFlag": "🇸🇬"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Economic Cooperation Agreement",
+    "subtitle": "India's first major bilateral trade and investment agreement with an ASEAN nation.",
+    "year": 2005,
+    "countryId": "singapore",
+    "countryName": "Singapore",
+    "countryFlag": "🇸🇬"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "singapore",
+    "countryName": "Singapore",
+    "countryFlag": "🇸🇬"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Economic Cooperation Agreement",
+    "subtitle": "India-Malaysia CECA enters into force, liberalising trade in goods and services.",
+    "year": 2010,
+    "countryId": "malaysia",
+    "countryName": "Malaysia",
+    "countryFlag": "🇲🇾"
+  },
+  {
+    "type": "event",
+    "title": "Diplomatic Friction over Kashmir Remarks",
+    "subtitle": "Malaysian PM Mahathir Mohamad's UN remarks on Kashmir prompt informal Indian trade pushback on Malaysian palm oil.",
+    "year": 2019,
+    "countryId": "malaysia",
+    "countryName": "Malaysia",
+    "countryFlag": "🇲🇾"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Economic Cooperation Agreement",
+    "subtitle": "Bilateral trade and investment liberalisation agreement.",
+    "year": 2010,
+    "countryId": "malaysia",
+    "countryName": "Malaysia",
+    "countryFlag": "🇲🇾"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "malaysia",
+    "countryName": "Malaysia",
+    "countryFlag": "🇲🇾"
+  },
+  {
+    "type": "event",
+    "title": "Free Trade Framework Agreement",
+    "subtitle": "India and Thailand sign an early-harvest trade liberalisation framework, a precursor to broader ASEAN engagement.",
+    "year": 2003,
+    "countryId": "thailand",
+    "countryName": "Thailand",
+    "countryFlag": "🇹🇭"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Thailand elevate ties to a Strategic Partnership.",
+    "year": 2012,
+    "countryId": "thailand",
+    "countryName": "Thailand",
+    "countryFlag": "🇹🇭"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Myanmar-Thailand Trilateral Highway",
+    "subtitle": "Overland connectivity project linking India's northeast to Southeast Asia, still under phased completion.",
+    "year": 2002,
+    "countryId": "thailand",
+    "countryName": "Thailand",
+    "countryFlag": "🇹🇭"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "thailand",
+    "countryName": "Thailand",
+    "countryFlag": "🇹🇭"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Strategic Partnership",
+    "subtitle": "India and the UAE upgrade relations to a Comprehensive Strategic Partnership during PM Modi's visit.",
+    "year": 2015,
+    "countryId": "uae",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Economic Partnership Agreement (CEPA)",
+    "subtitle": "India-UAE CEPA enters into force, one of India's fastest-negotiated and most comprehensive modern trade agreements.",
+    "year": 2022,
+    "countryId": "uae",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "type": "event",
+    "title": "UPI-Domestic Card Payment Linkage",
+    "subtitle": "India and the UAE link digital payment systems, enabling India's UPI to operate in the UAE.",
+    "year": 2023,
+    "countryId": "uae",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Economic Partnership Agreement",
+    "subtitle": "Comprehensive tariff-reduction and services agreement, among the most extensive India has concluded.",
+    "year": 2022,
+    "countryId": "uae",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "uae",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "type": "leader",
+    "title": "Sheikh Mohamed bin Zayed Al Nahyan",
+    "subtitle": "President of the United Arab Emirates",
+    "countryId": "uae",
+    "countryName": "United Arab Emirates",
+    "countryFlag": "🇦🇪"
+  },
+  {
+    "type": "event",
+    "title": "Delhi Declaration",
+    "subtitle": "King Abdullah's visit to India, the first by a Saudi monarch in decades, produces a framework for strategic energy and security cooperation.",
+    "year": 2006,
+    "countryId": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "type": "event",
+    "title": "Riyadh Declaration",
+    "subtitle": "India and Saudi Arabia elevate ties to a Strategic Partnership during PM Manmohan Singh's visit.",
+    "year": 2010,
+    "countryId": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership Council Established",
+    "subtitle": "India and Saudi Arabia establish a Strategic Partnership Council to institutionalise high-level coordination, mirroring frameworks Riyadh has with other major powers.",
+    "year": 2019,
+    "countryId": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "type": "agreement",
+    "title": "Strategic Partnership Council Agreement",
+    "subtitle": "Institutional framework for ministerial-level coordination across political, security, and economic tracks.",
+    "year": 2019,
+    "countryId": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "type": "leader",
+    "title": "Mohammed bin Salman Al Saud",
+    "subtitle": "Crown Prince and Prime Minister of Saudi Arabia",
+    "countryId": "saudi-arabia",
+    "countryName": "Saudi Arabia",
+    "countryFlag": "🇸🇦"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership Declaration",
+    "subtitle": "India and Qatar elevate relations during PM Modi's visit to Doha.",
+    "year": 2015,
+    "countryId": "qatar",
+    "countryName": "Qatar",
+    "countryFlag": "🇶🇦"
+  },
+  {
+    "type": "event",
+    "title": "Detention of Former Indian Navy Personnel",
+    "subtitle": "Eight former Indian Navy personnel are detained in Qatar on espionage-related charges, initially sentenced to death.",
+    "year": 2022,
+    "countryId": "qatar",
+    "countryName": "Qatar",
+    "countryFlag": "🇶🇦"
+  },
+  {
+    "type": "event",
+    "title": "Release of Former Navy Personnel",
+    "subtitle": "Following sustained diplomatic engagement, Qatar commutes the sentences and the men are released and return to India.",
+    "year": 2024,
+    "countryId": "qatar",
+    "countryName": "Qatar",
+    "countryFlag": "🇶🇦"
+  },
+  {
+    "type": "agreement",
+    "title": "LNG Supply Agreement",
+    "subtitle": "Long-term renegotiated agreement for Qatari LNG supply to India at revised, more favourable terms.",
+    "year": 2015,
+    "countryId": "qatar",
+    "countryName": "Qatar",
+    "countryFlag": "🇶🇦"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "qatar",
+    "countryName": "Qatar",
+    "countryFlag": "🇶🇦"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Oman establish a Strategic Partnership covering defence and energy.",
+    "year": 2008,
+    "countryId": "oman",
+    "countryName": "Oman",
+    "countryFlag": "🇴🇲"
+  },
+  {
+    "type": "event",
+    "title": "Duqm Port and Military Access Agreement",
+    "subtitle": "Oman grants India logistical access to the Port of Duqm, strengthening India's Indian Ocean naval reach.",
+    "year": 2018,
+    "countryId": "oman",
+    "countryName": "Oman",
+    "countryFlag": "🇴🇲"
+  },
+  {
+    "type": "agreement",
+    "title": "Duqm Port Access Agreement",
+    "subtitle": "Framework granting the Indian Navy logistical support and access at the Port of Duqm.",
+    "year": 2018,
+    "countryId": "oman",
+    "countryName": "Oman",
+    "countryFlag": "🇴🇲"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "oman",
+    "countryName": "Oman",
+    "countryFlag": "🇴🇲"
+  },
+  {
+    "type": "event",
+    "title": "Delhi Declaration",
+    "subtitle": "India and Iran sign a roadmap for strategic cooperation during President Khatami's visit as Republic Day chief guest.",
+    "year": 2003,
+    "countryId": "iran",
+    "countryName": "Iran",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "type": "event",
+    "title": "Chabahar Port Agreement",
+    "subtitle": "India signs a trilateral agreement with Iran and Afghanistan to develop Chabahar Port, providing a route to Afghanistan and Central Asia bypassing Pakistan.",
+    "year": 2016,
+    "countryId": "iran",
+    "countryName": "Iran",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "type": "event",
+    "title": "Halt of Oil Imports",
+    "subtitle": "India ends imports of Iranian crude oil after the United States terminates sanctions waivers.",
+    "year": 2019,
+    "countryId": "iran",
+    "countryName": "Iran",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "type": "event",
+    "title": "Long-Term Chabahar Port Operating Agreement",
+    "subtitle": "India signs a 10-year agreement to operate the Shahid Beheshti terminal at Chabahar Port.",
+    "year": 2024,
+    "countryId": "iran",
+    "countryName": "Iran",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "type": "agreement",
+    "title": "Chabahar Port Long-Term Operating Agreement",
+    "subtitle": "Ten-year agreement for India's state-run port operator to run the Shahid Beheshti terminal.",
+    "year": 2024,
+    "countryId": "iran",
+    "countryName": "Iran",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "iran",
+    "countryName": "Iran",
+    "countryFlag": "🇮🇷"
+  },
+  {
+    "type": "event",
+    "title": "Post-War Diplomatic Re-engagement",
+    "subtitle": "India re-establishes full diplomatic engagement with Iraq following the 2003 war, expanding energy trade over the following decade.",
+    "year": 2003,
+    "countryId": "iraq",
+    "countryName": "Iraq",
+    "countryFlag": "🇮🇶"
+  },
+  {
+    "type": "event",
+    "title": "Mosul Hostage Crisis",
+    "subtitle": "ISIS forces capture 39 Indian construction workers in Mosul; India confirms their deaths in 2018 after a prolonged search and identification effort.",
+    "year": 2014,
+    "countryId": "iraq",
+    "countryName": "Iraq",
+    "countryFlag": "🇮🇶"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "iraq",
+    "countryName": "Iraq",
+    "countryFlag": "🇮🇶"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Full Diplomatic Relations",
+    "subtitle": "India and Israel establish full diplomatic relations after decades of limited engagement following India's independence.",
+    "year": 1992,
+    "countryId": "israel",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "type": "event",
+    "title": "First Indian Prime Ministerial Visit",
+    "subtitle": "PM Modi becomes the first Indian prime minister to visit Israel, marking a symbolic deepening of ties.",
+    "year": 2017,
+    "countryId": "israel",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "type": "event",
+    "title": "I2U2 Grouping Formed",
+    "subtitle": "India, Israel, the UAE and the US launch the I2U2 grouping to coordinate infrastructure and technology investment.",
+    "year": 2021,
+    "countryId": "israel",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "type": "event",
+    "title": "Gaza War and Indian Workforce Deployment",
+    "subtitle": "Following the October 7 Hamas attack and subsequent Gaza war, India expresses condemnation of terrorism while calling for humanitarian access; thousands of Indian workers subsequently take up construction jobs in Israel amid labour shortages.",
+    "year": 2023,
+    "countryId": "israel",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "type": "agreement",
+    "title": "Agriculture Cooperation MoU / Centres of Excellence",
+    "subtitle": "Framework establishing Indo-Israel Agriculture Project Centres of Excellence across Indian states.",
+    "year": 2006,
+    "countryId": "israel",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "israel",
+    "countryName": "Israel",
+    "countryFlag": "🇮🇱"
+  },
+  {
+    "type": "event",
+    "title": "Erdogan's UNGA Kashmir Remarks",
+    "subtitle": "President Erdogan raises Kashmir at the UN General Assembly, drawing formal Indian protest.",
+    "year": 2019,
+    "countryId": "turkiye",
+    "countryName": "Türkiye",
+    "countryFlag": "🇹🇷"
+  },
+  {
+    "type": "event",
+    "title": "Operation Dost Earthquake Relief",
+    "subtitle": "India dispatches search-and-rescue teams and humanitarian aid to Türkiye following the devastating February 2023 earthquakes, under \"Operation Dost.\"",
+    "year": 2023,
+    "countryId": "turkiye",
+    "countryName": "Türkiye",
+    "countryFlag": "🇹🇷"
+  },
+  {
+    "type": "event",
+    "title": "Drone Supply Reports Deepen Distrust",
+    "subtitle": "Reports of Turkish-origin drones and matériel linked to Pakistan during a period of heightened India-Pakistan tension draw sharp criticism in India, alongside an informal consumer-level boycott of Turkish tourism and trade.",
+    "year": 2025,
+    "countryId": "turkiye",
+    "countryName": "Türkiye",
+    "countryFlag": "🇹🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "turkiye",
+    "countryName": "Türkiye",
+    "countryFlag": "🇹🇷"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and the UK establish a Strategic Partnership covering trade, defence and education.",
+    "year": 2004,
+    "countryId": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Strategic Partnership and Roadmap 2030",
+    "subtitle": "India and the UK launch a \"Roadmap 2030\" elevating ties to a Comprehensive Strategic Partnership and setting a course toward a free trade agreement.",
+    "year": 2021,
+    "countryId": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧"
+  },
+  {
+    "type": "event",
+    "title": "India-UK Free Trade Agreement Signed",
+    "subtitle": "After years of negotiation, India and the UK sign a Comprehensive Economic and Trade Agreement, one of the UK's largest post-Brexit trade deals.",
+    "year": 2025,
+    "countryId": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧"
+  },
+  {
+    "type": "agreement",
+    "title": "India-UK Comprehensive Economic and Trade Agreement",
+    "subtitle": "Bilateral free trade agreement covering goods, services and investment, concluded after nearly three years of negotiation.",
+    "year": 2025,
+    "countryId": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧"
+  },
+  {
+    "type": "leader",
+    "title": "Keir Starmer",
+    "subtitle": "Prime Minister of the United Kingdom",
+    "countryId": "united-kingdom",
+    "countryName": "United Kingdom",
+    "countryFlag": "🇬🇧"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and France become one of India's earliest Strategic Partnerships, notably continuing even after India's 1998 nuclear tests.",
+    "year": 1998,
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "event",
+    "title": "Scorpene Submarine Deal",
+    "subtitle": "India signs a deal for six French-designed Scorpene-class submarines to be built in India under the P-75 project.",
+    "year": 2005,
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "event",
+    "title": "International Solar Alliance Launched",
+    "subtitle": "India and France co-launch the International Solar Alliance at the Paris climate conference (COP21).",
+    "year": 2015,
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "event",
+    "title": "Rafale Fighter Jet Deal",
+    "subtitle": "India signs a government-to-government deal for 36 Dassault Rafale fighter jets worth approximately €7.8 billion.",
+    "year": 2016,
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "agreement",
+    "title": "Rafale Fighter Jet Agreement",
+    "subtitle": "Procurement of 36 Rafale multirole fighter aircraft for the Indian Air Force.",
+    "year": 2016,
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "agreement",
+    "title": "International Solar Alliance Framework Agreement",
+    "subtitle": "India-France co-founded initiative to mobilise solar energy deployment across sun-rich nations.",
+    "year": 2015,
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Emmanuel Macron",
+    "subtitle": "President of France",
+    "countryId": "france",
+    "countryName": "France",
+    "countryFlag": "🇫🇷"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Germany establish a Strategic Partnership.",
+    "year": 2000,
+    "countryId": "germany",
+    "countryName": "Germany",
+    "countryFlag": "🇩🇪"
+  },
+  {
+    "type": "event",
+    "title": "Migration and Mobility Partnership Agreement",
+    "subtitle": "India and Germany sign an agreement to facilitate skilled migration amid Germany's labour shortages.",
+    "year": 2022,
+    "countryId": "germany",
+    "countryName": "Germany",
+    "countryFlag": "🇩🇪"
+  },
+  {
+    "type": "event",
+    "title": "Green and Sustainable Development Partnership",
+    "subtitle": "Germany commits substantial financing toward Indian green hydrogen and renewable energy projects.",
+    "year": 2023,
+    "countryId": "germany",
+    "countryName": "Germany",
+    "countryFlag": "🇩🇪"
+  },
+  {
+    "type": "agreement",
+    "title": "Migration and Mobility Partnership Agreement",
+    "subtitle": "Framework easing skilled-worker migration between India and Germany.",
+    "year": 2022,
+    "countryId": "germany",
+    "countryName": "Germany",
+    "countryFlag": "🇩🇪"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "germany",
+    "countryName": "Germany",
+    "countryFlag": "🇩🇪"
+  },
+  {
+    "type": "event",
+    "title": "Enrica Lexie Incident",
+    "subtitle": "Italian marines aboard the tanker Enrica Lexie shoot and kill two Indian fishermen off the Kerala coast, triggering a prolonged bilateral legal dispute.",
+    "year": 2012,
+    "countryId": "italy",
+    "countryName": "Italy",
+    "countryFlag": "🇮🇹"
+  },
+  {
+    "type": "event",
+    "title": "Permanent Court of Arbitration Ruling",
+    "subtitle": "An international tribunal rules on jurisdiction and compensation in the Enrica Lexie case, allowing both governments to normalise relations.",
+    "year": 2020,
+    "countryId": "italy",
+    "countryName": "Italy",
+    "countryFlag": "🇮🇹"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Italy elevate ties to a Strategic Partnership during PM Meloni's visit.",
+    "year": 2023,
+    "countryId": "italy",
+    "countryName": "Italy",
+    "countryFlag": "🇮🇹"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Italy Strategic Partnership",
+    "subtitle": "Framework agreement expanding defence, trade and technology cooperation.",
+    "year": 2023,
+    "countryId": "italy",
+    "countryName": "Italy",
+    "countryFlag": "🇮🇹"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "italy",
+    "countryName": "Italy",
+    "countryFlag": "🇮🇹"
+  },
+  {
+    "type": "event",
+    "title": "C295 Aircraft Manufacturing Agreement",
+    "subtitle": "Tata Advanced Systems and Airbus Spain finalise a deal to manufacture C295 military transport aircraft in Vadodara, India — the first time a private Indian company will assemble military aircraft domestically.",
+    "year": 2022,
+    "countryId": "spain",
+    "countryName": "Spain",
+    "countryFlag": "🇪🇸"
+  },
+  {
+    "type": "agreement",
+    "title": "C295 Transport Aircraft Programme",
+    "subtitle": "Airbus-Tata joint programme to manufacture C295 aircraft in India for the Indian Air Force and export markets.",
+    "year": 2022,
+    "countryId": "spain",
+    "countryName": "Spain",
+    "countryFlag": "🇪🇸"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "spain",
+    "countryName": "Spain",
+    "countryFlag": "🇪🇸"
+  },
+  {
+    "type": "event",
+    "title": "Indo-Soviet Treaty of Peace, Friendship and Cooperation",
+    "subtitle": "India and the Soviet Union sign a treaty of friendship shortly before the Bangladesh Liberation War, cementing Cold War-era strategic alignment.",
+    "year": 1971,
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "event",
+    "title": "\"Special and Privileged Strategic Partnership\" Declared",
+    "subtitle": "India and Russia formalise a Strategic Partnership during President Putin's visit, later elevated to \"special and privileged\" status in 2010.",
+    "year": 2000,
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "event",
+    "title": "S-400 Triumf Air Defence Deal",
+    "subtitle": "India signs a $5.4 billion deal for the S-400 missile defence system despite the risk of US sanctions under CAATSA.",
+    "year": 2018,
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "event",
+    "title": "Surge in Discounted Crude Oil Imports",
+    "subtitle": "Following Western sanctions after Russia's invasion of Ukraine, India sharply increases imports of discounted Russian crude, making Russia its top oil supplier by volume.",
+    "year": 2022,
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "agreement",
+    "title": "S-400 Triumf Air Defence System",
+    "subtitle": "Procurement of the long-range S-400 surface-to-air missile system.",
+    "year": 2018,
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "agreement",
+    "title": "Kudankulam Nuclear Power Plant Agreements",
+    "subtitle": "Russian-assisted construction of India's largest nuclear power plant, with additional reactor units under development.",
+    "year": 2008,
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "leader",
+    "title": "Vladimir Putin",
+    "subtitle": "President of Russia",
+    "countryId": "russia",
+    "countryName": "Russia",
+    "countryFlag": "🇷🇺"
+  },
+  {
+    "type": "event",
+    "title": "Operation Ganga",
+    "subtitle": "India launches a large-scale evacuation of over 20,000 Indian students from Ukraine following Russia's full-scale invasion.",
+    "year": 2022,
+    "countryId": "ukraine",
+    "countryName": "Ukraine",
+    "countryFlag": "🇺🇦"
+  },
+  {
+    "type": "event",
+    "title": "PM Modi's Visit to Kyiv",
+    "subtitle": "PM Modi visits Kyiv, the first visit by an Indian prime minister since Ukraine's independence, days after also visiting Moscow — signalling India's balancing approach.",
+    "year": 2024,
+    "countryId": "ukraine",
+    "countryName": "Ukraine",
+    "countryFlag": "🇺🇦"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "ukraine",
+    "countryName": "Ukraine",
+    "countryFlag": "🇺🇦"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership on Water",
+    "subtitle": "India and the Netherlands deepen cooperation on water management and river-basin technology.",
+    "year": 2021,
+    "countryId": "netherlands",
+    "countryName": "Netherlands",
+    "countryFlag": "🇳🇱"
+  },
+  {
+    "type": "event",
+    "title": "Semiconductor Cooperation MoU",
+    "subtitle": "India and the Netherlands sign an agreement to cooperate on semiconductor supply chains, given the Netherlands' role in chip-equipment manufacturing (ASML).",
+    "year": 2023,
+    "countryId": "netherlands",
+    "countryName": "Netherlands",
+    "countryFlag": "🇳🇱"
+  },
+  {
+    "type": "agreement",
+    "title": "Semiconductor Supply Chain MoU",
+    "subtitle": "Framework for cooperation on semiconductor manufacturing equipment and supply chains.",
+    "year": 2023,
+    "countryId": "netherlands",
+    "countryName": "Netherlands",
+    "countryFlag": "🇳🇱"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "netherlands",
+    "countryName": "Netherlands",
+    "countryFlag": "🇳🇱"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India and Belgium establish diplomatic relations shortly after Indian independence.",
+    "year": 1947,
+    "countryId": "belgium",
+    "countryName": "Belgium",
+    "countryFlag": "🇧🇪"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "belgium",
+    "countryName": "Belgium",
+    "countryFlag": "🇧🇪"
+  },
+  {
+    "type": "event",
+    "title": "India-EFTA Trade and Economic Partnership Agreement (TEPA)",
+    "subtitle": "India signs a trade and investment agreement with the European Free Trade Association (Switzerland, Norway, Iceland, Liechtenstein), with EFTA states committing to a $100 billion investment target over 15 years in exchange for phased tariff cuts.",
+    "year": 2024,
+    "countryId": "switzerland",
+    "countryName": "Switzerland",
+    "countryFlag": "🇨🇭"
+  },
+  {
+    "type": "agreement",
+    "title": "India-EFTA Trade and Economic Partnership Agreement",
+    "subtitle": "Trade and investment agreement between India and the four EFTA states, led by Switzerland.",
+    "year": 2024,
+    "countryId": "switzerland",
+    "countryName": "Switzerland",
+    "countryFlag": "🇨🇭"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "switzerland",
+    "countryName": "Switzerland",
+    "countryFlag": "🇨🇭"
+  },
+  {
+    "type": "event",
+    "title": "India-Sweden Innovation Partnership",
+    "subtitle": "India and Sweden launch a joint innovation partnership focused on sustainability, smart cities and clean technology.",
+    "year": 2018,
+    "countryId": "sweden",
+    "countryName": "Sweden",
+    "countryFlag": "🇸🇪"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Sweden Innovation Partnership",
+    "subtitle": "Framework for joint innovation projects, particularly in sustainability and clean technology.",
+    "year": 2018,
+    "countryId": "sweden",
+    "countryName": "Sweden",
+    "countryFlag": "🇸🇪"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "sweden",
+    "countryName": "Sweden",
+    "countryFlag": "🇸🇪"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Regular Political Dialogue",
+    "subtitle": "India and Norway institute regular high-level political consultations.",
+    "year": 2006,
+    "countryId": "norway",
+    "countryName": "Norway",
+    "countryFlag": "🇳🇴"
+  },
+  {
+    "type": "event",
+    "title": "India-Norway Ocean Dialogue",
+    "subtitle": "The two countries launch cooperation on sustainable ocean and \"Blue Economy\" management.",
+    "year": 2019,
+    "countryId": "norway",
+    "countryName": "Norway",
+    "countryFlag": "🇳🇴"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "norway",
+    "countryName": "Norway",
+    "countryFlag": "🇳🇴"
+  },
+  {
+    "type": "event",
+    "title": "Refuge for Polish Civilians at Balachadi",
+    "subtitle": "The princely state of Nawanagar shelters hundreds of Polish refugee children and civilians fleeing World War II, an episode still commemorated by both nations as \"Little Poland.\"",
+    "year": 1942,
+    "countryId": "poland",
+    "countryName": "Poland",
+    "countryFlag": "🇵🇱"
+  },
+  {
+    "type": "event",
+    "title": "Evacuation Transit Support",
+    "subtitle": "Poland serves as a key transit point for Indian citizens evacuated from Ukraine under Operation Ganga following Russia's invasion.",
+    "year": 2022,
+    "countryId": "poland",
+    "countryName": "Poland",
+    "countryFlag": "🇵🇱"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "poland",
+    "countryName": "Poland",
+    "countryFlag": "🇵🇱"
+  },
+  {
+    "type": "event",
+    "title": "Next Steps in Strategic Partnership",
+    "subtitle": "India and the US launch a framework for expanded cooperation in civil nuclear energy, space and high-technology trade.",
+    "year": 2005,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "event",
+    "title": "Civil Nuclear Cooperation Agreement (123 Agreement)",
+    "subtitle": "A landmark agreement ends India's three-decade nuclear isolation, enabling civilian nuclear trade despite India remaining outside the NPT.",
+    "year": 2008,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "event",
+    "title": "Major Defense Partner Designation and LEMOA",
+    "subtitle": "The US designates India a \"Major Defense Partner,\" and both sides sign the Logistics Exchange Memorandum of Agreement (LEMOA), the first of four foundational defence pacts.",
+    "year": 2016,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "event",
+    "title": "BECA Signed, Completing Foundational Defence Agreements",
+    "subtitle": "India and the US sign the Basic Exchange and Cooperation Agreement (BECA), completing a suite of interoperability agreements alongside LEMOA (2016) and COMCASA (2018).",
+    "year": 2020,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "event",
+    "title": "Initiative on Critical and Emerging Technology (iCET)",
+    "subtitle": "India and the US launch iCET to deepen cooperation on semiconductors, AI, space and defence technology.",
+    "year": 2022,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "event",
+    "title": "Tariff Dispute",
+    "subtitle": "The US imposes tariffs on a range of Indian exports, citing trade deficits and India's continued purchase of discounted Russian oil amid the Ukraine war.",
+    "year": 2025,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "agreement",
+    "title": "Civil Nuclear Cooperation Agreement (123 Agreement)",
+    "subtitle": "Landmark agreement enabling civil nuclear trade between India and the US.",
+    "year": 2008,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "agreement",
+    "title": "COMCASA",
+    "subtitle": "Communications Compatibility and Security Agreement enabling secure military communications interoperability.",
+    "year": 2018,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "agreement",
+    "title": "BECA",
+    "subtitle": "Basic Exchange and Cooperation Agreement for geospatial intelligence sharing.",
+    "year": 2020,
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "leader",
+    "title": "Donald Trump",
+    "subtitle": "President of the United States",
+    "countryId": "united-states",
+    "countryName": "United States",
+    "countryFlag": "🇺🇸"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations Deepen",
+    "subtitle": "India and Canada expand formal diplomatic and consular engagement through the early Cold War period.",
+    "year": 1973,
+    "countryId": "canada",
+    "countryName": "Canada",
+    "countryFlag": "🇨🇦"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Canada elevate ties to a Strategic Partnership during PM Modi's visit to Ottawa.",
+    "year": 2015,
+    "countryId": "canada",
+    "countryName": "Canada",
+    "countryFlag": "🇨🇦"
+  },
+  {
+    "type": "event",
+    "title": "Nijjar Killing and Diplomatic Rupture",
+    "subtitle": "PM Trudeau alleges \"credible\" links between Indian agents and the killing of Khalistani separatist Hardeep Singh Nijjar in British Columbia; both countries expel diplomats and downgrade ties.",
+    "year": 2023,
+    "countryId": "canada",
+    "countryName": "Canada",
+    "countryFlag": "🇨🇦"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "canada",
+    "countryName": "Canada",
+    "countryFlag": "🇨🇦"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Privileged Partnership Dialogue",
+    "subtitle": "India and Mexico institute a framework for expanded political and economic dialogue.",
+    "year": 2007,
+    "countryId": "mexico",
+    "countryName": "Mexico",
+    "countryFlag": "🇲🇽"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "mexico",
+    "countryName": "Mexico",
+    "countryFlag": "🇲🇽"
+  },
+  {
+    "type": "event",
+    "title": "IBSA Dialogue Forum Founded",
+    "subtitle": "India, Brazil and South Africa launch the IBSA grouping to coordinate positions among major Global South democracies.",
+    "year": 2003,
+    "countryId": "brazil",
+    "countryName": "Brazil",
+    "countryFlag": "🇧🇷"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Brazil elevate bilateral ties to a Strategic Partnership.",
+    "year": 2010,
+    "countryId": "brazil",
+    "countryName": "Brazil",
+    "countryFlag": "🇧🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "brazil",
+    "countryName": "Brazil",
+    "countryFlag": "🇧🇷"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Argentina elevate ties to a Strategic Partnership.",
+    "year": 2019,
+    "countryId": "argentina",
+    "countryName": "Argentina",
+    "countryFlag": "🇦🇷"
+  },
+  {
+    "type": "event",
+    "title": "Lithium Mining Investment",
+    "subtitle": "An Indian public-sector consortium (KABIL) secures stakes in Argentine lithium blocks to secure battery-grade mineral supply.",
+    "year": 2023,
+    "countryId": "argentina",
+    "countryName": "Argentina",
+    "countryFlag": "🇦🇷"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "argentina",
+    "countryName": "Argentina",
+    "countryFlag": "🇦🇷"
+  },
+  {
+    "type": "event",
+    "title": "Preferential Trade Agreement",
+    "subtitle": "India and Chile sign a Preferential Trade Agreement, later expanded in scope.",
+    "year": 2006,
+    "countryId": "chile",
+    "countryName": "Chile",
+    "countryFlag": "🇨🇱"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Chile Preferential Trade Agreement",
+    "subtitle": "Tariff-preference agreement covering a range of goods, expanded in subsequent years.",
+    "year": 2006,
+    "countryId": "chile",
+    "countryName": "Chile",
+    "countryFlag": "🇨🇱"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "chile",
+    "countryName": "Chile",
+    "countryFlag": "🇨🇱"
+  },
+  {
+    "type": "event",
+    "title": "Gandhi's Arrival in South Africa",
+    "subtitle": "Mohandas Gandhi arrives in South Africa, where over the next two decades he develops the philosophy and tactics of nonviolent resistance later central to India's independence movement.",
+    "year": 1893,
+    "countryId": "south-africa",
+    "countryName": "South Africa",
+    "countryFlag": "🇿🇦"
+  },
+  {
+    "type": "event",
+    "title": "Restoration of Full Diplomatic Relations",
+    "subtitle": "India and South Africa restore full diplomatic relations following the end of apartheid, having supported the anti-apartheid movement for decades.",
+    "year": 1994,
+    "countryId": "south-africa",
+    "countryName": "South Africa",
+    "countryFlag": "🇿🇦"
+  },
+  {
+    "type": "event",
+    "title": "IBSA Dialogue Forum Founded",
+    "subtitle": "India, Brazil and South Africa launch the IBSA grouping to coordinate Global South positions.",
+    "year": 2003,
+    "countryId": "south-africa",
+    "countryName": "South Africa",
+    "countryFlag": "🇿🇦"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "south-africa",
+    "countryName": "South Africa",
+    "countryFlag": "🇿🇦"
+  },
+  {
+    "type": "event",
+    "title": "Non-Aligned Movement Solidarity",
+    "subtitle": "PM Nehru and President Nasser jointly help found the Non-Aligned Movement, anchoring decades of India-Egypt political solidarity.",
+    "year": 1955,
+    "countryId": "egypt",
+    "countryName": "Egypt",
+    "countryFlag": "🇪🇬"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership Established",
+    "subtitle": "President Abdel Fattah el-Sisi attends India's Republic Day as chief guest, and both nations elevate ties to a Strategic Partnership.",
+    "year": 2023,
+    "countryId": "egypt",
+    "countryName": "Egypt",
+    "countryFlag": "🇪🇬"
+  },
+  {
+    "type": "agreement",
+    "title": "India-Egypt Strategic Partnership",
+    "subtitle": "Framework agreement covering trade, defence, and cultural cooperation.",
+    "year": 2023,
+    "countryId": "egypt",
+    "countryName": "Egypt",
+    "countryFlag": "🇪🇬"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "egypt",
+    "countryName": "Egypt",
+    "countryFlag": "🇪🇬"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India and Nigeria establish diplomatic relations shortly after Nigerian independence.",
+    "year": 1962,
+    "countryId": "nigeria",
+    "countryName": "Nigeria",
+    "countryFlag": "🇳🇬"
+  },
+  {
+    "type": "event",
+    "title": "Offshore Patrol Vessel Export",
+    "subtitle": "Nigeria takes delivery of an Indian-built offshore patrol vessel, reflecting growing defence-industrial cooperation.",
+    "year": 2022,
+    "countryId": "nigeria",
+    "countryName": "Nigeria",
+    "countryFlag": "🇳🇬"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "nigeria",
+    "countryName": "Nigeria",
+    "countryFlag": "🇳🇬"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India establishes a diplomatic mission in Nairobi even prior to Kenyan independence, reflecting the historic Indian community presence dating to railway construction in the 1890s.",
+    "year": 1948,
+    "countryId": "kenya",
+    "countryName": "Kenya",
+    "countryFlag": "🇰🇪"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "kenya",
+    "countryName": "Kenya",
+    "countryFlag": "🇰🇪"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations",
+    "subtitle": "India and Ethiopia establish diplomatic relations shortly after Indian independence.",
+    "year": 1948,
+    "countryId": "ethiopia",
+    "countryName": "Ethiopia",
+    "countryFlag": "🇪🇹"
+  },
+  {
+    "type": "event",
+    "title": "Pan-African e-Network Project",
+    "subtitle": "India extends telemedicine and tele-education connectivity to Ethiopia under the Pan-African e-Network initiative.",
+    "year": 2011,
+    "countryId": "ethiopia",
+    "countryName": "Ethiopia",
+    "countryFlag": "🇪🇹"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "ethiopia",
+    "countryName": "Ethiopia",
+    "countryFlag": "🇪🇹"
+  },
+  {
+    "type": "event",
+    "title": "Establishment of Diplomatic Relations at Independence",
+    "subtitle": "India establishes diplomatic relations with Mauritius immediately upon its independence, reflecting deep historic ties to its majority Indian-origin population.",
+    "year": 1968,
+    "countryId": "mauritius",
+    "countryName": "Mauritius",
+    "countryFlag": "🇲🇺"
+  },
+  {
+    "type": "event",
+    "title": "Agalega Island Infrastructure Agreement",
+    "subtitle": "India and Mauritius agree to develop infrastructure on Agalega Island to support maritime domain awareness in the western Indian Ocean.",
+    "year": 2015,
+    "countryId": "mauritius",
+    "countryName": "Mauritius",
+    "countryFlag": "🇲🇺"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Economic Cooperation and Partnership Agreement",
+    "subtitle": "India and Mauritius sign India's first trade agreement with an African nation.",
+    "year": 2021,
+    "countryId": "mauritius",
+    "countryName": "Mauritius",
+    "countryFlag": "🇲🇺"
+  },
+  {
+    "type": "agreement",
+    "title": "Comprehensive Economic Cooperation and Partnership Agreement",
+    "subtitle": "India's first trade agreement with any African nation.",
+    "year": 2021,
+    "countryId": "mauritius",
+    "countryName": "Mauritius",
+    "countryFlag": "🇲🇺"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "mauritius",
+    "countryName": "Mauritius",
+    "countryFlag": "🇲🇺"
+  },
+  {
+    "type": "event",
+    "title": "Strategic Partnership",
+    "subtitle": "India and Australia establish a Strategic Partnership.",
+    "year": 2009,
+    "countryId": "australia",
+    "countryName": "Australia",
+    "countryFlag": "🇦🇺"
+  },
+  {
+    "type": "event",
+    "title": "Comprehensive Strategic Partnership",
+    "subtitle": "Ties are elevated to a Comprehensive Strategic Partnership during a virtual summit amid the COVID-19 pandemic.",
+    "year": 2020,
+    "countryId": "australia",
+    "countryName": "Australia",
+    "countryFlag": "🇦🇺"
+  },
+  {
+    "type": "event",
+    "title": "Economic Cooperation and Trade Agreement (ECTA)",
+    "subtitle": "An interim trade agreement enters into force, sharply reducing tariffs on a wide range of goods ahead of a fuller Comprehensive Economic Cooperation Agreement.",
+    "year": 2022,
+    "countryId": "australia",
+    "countryName": "Australia",
+    "countryFlag": "🇦🇺"
+  },
+  {
+    "type": "agreement",
+    "title": "Economic Cooperation and Trade Agreement",
+    "subtitle": "Interim bilateral trade agreement significantly reducing tariffs, precursor to a fuller CECA.",
+    "year": 2022,
+    "countryId": "australia",
+    "countryName": "Australia",
+    "countryFlag": "🇦🇺"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "australia",
+    "countryName": "Australia",
+    "countryFlag": "🇦🇺"
+  },
+  {
+    "type": "event",
+    "title": "Renewed Trade Negotiations",
+    "subtitle": "India and New Zealand hold renewed discussions toward a bilateral free trade agreement after talks first launched in 2010.",
+    "year": 2016,
+    "countryId": "new-zealand",
+    "countryName": "New Zealand",
+    "countryFlag": "🇳🇿"
+  },
+  {
+    "type": "leader",
+    "title": "Narendra Modi",
+    "subtitle": "Prime Minister of India",
+    "countryId": "new-zealand",
+    "countryName": "New Zealand",
+    "countryFlag": "🇳🇿"
+  }
+]

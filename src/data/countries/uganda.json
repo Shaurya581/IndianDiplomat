@@ -1,0 +1,54 @@
+{
+  "id": "uganda",
+  "name": "Uganda",
+  "capital": "Kampala",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇺🇬",
+  "iso2": "UG",
+  "iso3": "UGA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Uganda maintain a substantial relationship with a historic Indian-origin business community (notably re-established after Idi Amin's 1972 expulsion order was later reversed) and growing trade.",
+  "diplomaticRelationsEstablished": "1965",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic diaspora and trade ties",
+      "description": "A significant Indian-origin business community anchors deep commercial links."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

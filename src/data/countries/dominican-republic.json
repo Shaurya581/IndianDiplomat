@@ -1,0 +1,49 @@
+{
+  "id": "dominican-republic",
+  "name": "Dominican Republic",
+  "capital": "Santo Domingo",
+  "region": "Caribbean",
+  "subregion": "Caribbean",
+  "flag": "🇩🇴",
+  "iso2": "DO",
+  "iso3": "DOM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 52,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 52,
+      "strategic": 52,
+      "economic": 52,
+      "defence": 52,
+      "political": 52,
+      "technology": 52,
+      "energy": 52,
+      "peopleToPeople": 52,
+      "multilateral": 52,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "India and the Dominican Republic maintain modest, growing relations with expanding pharmaceutical and textile trade.",
+  "diplomaticRelationsEstablished": "1980",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

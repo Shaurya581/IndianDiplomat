@@ -1,0 +1,129 @@
+{
+  "id": "south-africa",
+  "name": "South Africa",
+  "capital": "Pretoria",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇿🇦",
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "tier": "major",
+  "relationship": {
+    "overall": 59,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 78,
+      "strategic": 65,
+      "economic": 60,
+      "defence": 35,
+      "political": 75,
+      "technology": 45,
+      "energy": 30,
+      "peopleToPeople": 60,
+      "multilateral": 80,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India and South Africa share a historic bond dating to Mahatma Gandhi's formative years in South Africa (1893-1914), and today cooperate closely through BRICS, IBSA, and shared Global South advocacy.",
+  "diplomaticRelationsEstablished": "1993",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic solidarity",
+      "description": "Shared anti-colonial and anti-apartheid legacy anchors deep political trust."
+    },
+    {
+      "area": "Minerals trade",
+      "description": "South Africa is a major supplier of gold, coal and manganese to India."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued BRICS and Global South coordination",
+      "description": "India and South Africa continued close coordination within BRICS (including on its 2024 expansion) and other Global South forums.",
+      "whyItMatters": "Reinforces the historic political trust underpinning one of India's closest African partnerships."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1893,
+      "title": "Gandhi's Arrival in South Africa",
+      "category": "Diplomacy",
+      "description": "Mohandas Gandhi arrives in South Africa, where over the next two decades he develops the philosophy and tactics of nonviolent resistance later central to India's independence movement."
+    },
+    {
+      "year": 1994,
+      "title": "Restoration of Full Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and South Africa restore full diplomatic relations following the end of apartheid, having supported the anti-apartheid movement for decades."
+    },
+    {
+      "year": 2003,
+      "title": "IBSA Dialogue Forum Founded",
+      "category": "Diplomacy",
+      "description": "India, Brazil and South Africa launch the IBSA grouping to coordinate Global South positions."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [
+    {
+      "name": "IBSAMAR",
+      "type": "Joint Naval Exercise",
+      "description": "Trilateral naval exercise between India, Brazil and South Africa."
+    }
+  ],
+  "trade": {
+    "exports": "~$8 billion",
+    "imports": "~$6 billion",
+    "total": "~$14 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, vehicles, machinery",
+    "majorImports": "Gold, coal, manganese ore",
+    "majorSectors": "Minerals, pharmaceuticals, automobiles"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BRICS",
+      "detail": "Joint founding member."
+    },
+    {
+      "organization": "IBSA",
+      "detail": "Joint founding member alongside Brazil."
+    },
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

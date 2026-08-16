@@ -1,0 +1,54 @@
+{
+  "id": "ireland",
+  "name": "Ireland",
+  "capital": "Dublin",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇮🇪",
+  "iso2": "IE",
+  "iso3": "IRL",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India and Ireland share growing economic ties, anchored by significant Irish investment in Indian IT and pharmaceutical sectors and a large Indian student population in Ireland.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Education and IT investment",
+      "description": "A growing number of Indian students study in Ireland, alongside Irish tech-sector investment in India."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

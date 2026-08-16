@@ -1,0 +1,121 @@
+{
+  "id": "singapore",
+  "name": "Singapore",
+  "capital": "Singapore",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇸🇬",
+  "iso2": "SG",
+  "iso3": "SGP",
+  "tier": "major",
+  "relationship": {
+    "overall": 75,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 80,
+      "strategic": 78,
+      "economic": 90,
+      "defence": 70,
+      "political": 75,
+      "technology": 80,
+      "energy": 45,
+      "peopleToPeople": 70,
+      "multilateral": 65,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "Singapore is one of India's most important economic partners — a leading source of foreign investment into India and its first comprehensive trade agreement with an ASEAN nation.",
+  "diplomaticRelationsEstablished": "1965",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Foreign direct investment",
+      "description": "Singapore is consistently among the largest sources of FDI into India, partly via investment routing."
+    },
+    {
+      "area": "Fintech and digital payments",
+      "description": "UPI-PayNow linkage enables real-time cross-border retail payments."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued fintech and investment ties deepen",
+      "description": "The UPI-PayNow digital payment linkage and Singaporean investment into Indian infrastructure and startups continued expanding.",
+      "whyItMatters": "Reinforces Singapore's role as one of India's most important economic and financial gateways."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2005,
+      "title": "Comprehensive Economic Cooperation Agreement (CECA)",
+      "category": "Trade",
+      "description": "India signs its first comprehensive economic partnership agreement with an ASEAN country."
+    },
+    {
+      "year": 2015,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Singapore elevate relations to a Strategic Partnership."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Economic Cooperation Agreement",
+      "year": 2005,
+      "category": "Trade",
+      "description": "India's first major bilateral trade and investment agreement with an ASEAN nation.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "SIMBEX",
+      "type": "Joint Naval Exercise",
+      "description": "One of India's longest-running bilateral naval exercises, held annually since 1994."
+    }
+  ],
+  "trade": {
+    "exports": "~$18 billion",
+    "imports": "~$16 billion",
+    "total": "~$34 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Mineral fuels, electronics, precious stones",
+    "majorImports": "Electronics, refined petroleum, chemicals",
+    "majorSectors": "Financial services, FDI, electronics"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "ASEAN",
+      "detail": "Key India partner in the Act East Policy."
+    },
+    {
+      "organization": "G20",
+      "detail": "Cooperate closely on digital public infrastructure and fintech."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

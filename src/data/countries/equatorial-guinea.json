@@ -1,0 +1,49 @@
+{
+  "id": "equatorial-guinea",
+  "name": "Equatorial Guinea",
+  "capital": "Malabo",
+  "region": "Africa",
+  "subregion": "Central Africa",
+  "flag": "🇬🇶",
+  "iso2": "GQ",
+  "iso3": "GNQ",
+  "tier": "standard",
+  "relationship": {
+    "overall": 45,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 45,
+      "strategic": 45,
+      "economic": 45,
+      "defence": 45,
+      "political": 45,
+      "technology": 45,
+      "energy": 45,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India and Equatorial Guinea maintain a modest, energy-linked relationship, with some crude oil trade.",
+  "diplomaticRelationsEstablished": "1974",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

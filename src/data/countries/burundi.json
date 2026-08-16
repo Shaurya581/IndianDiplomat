@@ -1,0 +1,49 @@
+{
+  "id": "burundi",
+  "name": "Burundi",
+  "capital": "Gitega",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇧🇮",
+  "iso2": "BI",
+  "iso3": "BDI",
+  "tier": "standard",
+  "relationship": {
+    "overall": 45,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 45,
+      "strategic": 45,
+      "economic": 45,
+      "defence": 45,
+      "political": 45,
+      "technology": 45,
+      "energy": 45,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India and Burundi maintain modest diplomatic relations, with limited trade and development cooperation.",
+  "diplomaticRelationsEstablished": "1963",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

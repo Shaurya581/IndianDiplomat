@@ -1,0 +1,49 @@
+{
+  "id": "bulgaria",
+  "name": "Bulgaria",
+  "capital": "Sofia",
+  "region": "Europe",
+  "subregion": "Balkans",
+  "flag": "🇧🇬",
+  "iso2": "BG",
+  "iso3": "BGR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Bulgaria maintain steady, low-friction relations rooted in historic Cold War-era ties, with modest trade today.",
+  "diplomaticRelationsEstablished": "1954",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

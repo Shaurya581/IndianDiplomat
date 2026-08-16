@@ -1,0 +1,116 @@
+{
+  "id": "afghanistan",
+  "name": "Afghanistan",
+  "capital": "Kabul",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇦🇫",
+  "iso2": "AF",
+  "iso3": "AFG",
+  "tier": "major",
+  "relationship": {
+    "overall": 32,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 35,
+      "strategic": 45,
+      "economic": 25,
+      "defence": 20,
+      "political": 30,
+      "technology": 30,
+      "energy": 15,
+      "peopleToPeople": 55,
+      "multilateral": 25,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India built extensive development ties with Afghanistan's republic-era governments, but the 2021 Taliban takeover forced a recalibration; India maintains a technical mission in Kabul without formal recognition of the Taliban government.",
+  "complexity": "India does not formally recognise the Taliban administration, but has re-engaged through a \"technical mission\" in Kabul reopened in 2022 to manage humanitarian assistance and monitor security developments.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Humanitarian assistance",
+      "description": "India has supplied wheat, medicines and vaccines through Pakistani land transit and other routes since 2021."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Non-recognition of the Taliban",
+      "description": "India has not formally recognised the Taliban government, limiting the scope of official engagement."
+    },
+    {
+      "title": "Security and humanitarian access",
+      "description": "Ongoing instability constrains project delivery and personnel safety."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Technical mission continues limited engagement",
+      "description": "India's technical mission in Kabul, reopened in 2022, continued managing humanitarian assistance without formal recognition of the Taliban government.",
+      "whyItMatters": "Reflects a cautious, transactional re-engagement rather than a full normalization of ties."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2009,
+      "title": "Zaranj-Delaram Highway",
+      "category": "Diplomacy",
+      "description": "India completes construction of a strategic highway linking Afghanistan to Iran's Chabahar port, bypassing Pakistan."
+    },
+    {
+      "year": 2015,
+      "title": "Afghan Parliament Building",
+      "category": "Diplomacy",
+      "description": "India completes construction of the new Afghan Parliament complex in Kabul as a landmark development assistance project."
+    },
+    {
+      "year": 2021,
+      "title": "Taliban Takeover",
+      "category": "Conflict",
+      "description": "The Taliban retakes Kabul as US and NATO forces withdraw; India evacuates its embassy staff and suspends formal diplomatic presence.",
+      "impact": "India paused development projects and diplomatic presence, later reopening a limited technical mission in 2022."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.7 billion",
+    "imports": "~$0.2 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, tea, sugar",
+    "majorImports": "Dry fruits, medicinal herbs, gum",
+    "majorSectors": "Humanitarian assistance, connectivity"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "SAARC",
+      "detail": "Member, though SAARC engagement has been largely dormant since 2016."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

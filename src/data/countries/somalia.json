@@ -1,0 +1,59 @@
+{
+  "id": "somalia",
+  "name": "Somalia",
+  "capital": "Mogadishu",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇸🇴",
+  "iso2": "SO",
+  "iso3": "SOM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 35,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 35,
+      "strategic": 35,
+      "economic": 35,
+      "defence": 35,
+      "political": 35,
+      "technology": 35,
+      "energy": 35,
+      "peopleToPeople": 35,
+      "multilateral": 35,
+      "momentum": 35
+    }
+  },
+  "shortSummary": "India's engagement with Somalia has been shaped mainly by counter-piracy naval operations off its coast, given the country's prolonged instability.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Counter-piracy operations",
+      "description": "The Indian Navy has conducted counter-piracy patrols in waters off the Somali coast."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Prolonged instability",
+      "description": "Somalia's security situation severely limits broader bilateral engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

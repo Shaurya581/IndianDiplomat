@@ -1,0 +1,49 @@
+{
+  "id": "guinea-bissau",
+  "name": "Guinea-Bissau",
+  "capital": "Bissau",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇬🇼",
+  "iso2": "GW",
+  "iso3": "GNB",
+  "tier": "standard",
+  "relationship": {
+    "overall": 42,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 42,
+      "strategic": 42,
+      "economic": 42,
+      "defence": 42,
+      "political": 42,
+      "technology": 42,
+      "energy": 42,
+      "peopleToPeople": 42,
+      "multilateral": 42,
+      "momentum": 42
+    }
+  },
+  "shortSummary": "India and Guinea-Bissau maintain modest diplomatic relations with limited trade.",
+  "diplomaticRelationsEstablished": "1974",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

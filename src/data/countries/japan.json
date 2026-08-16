@@ -1,0 +1,162 @@
+{
+  "id": "japan",
+  "name": "Japan",
+  "capital": "Tokyo",
+  "region": "East Asia",
+  "subregion": "East Asia",
+  "flag": "🇯🇵",
+  "iso2": "JP",
+  "iso3": "JPN",
+  "tier": "major",
+  "relationship": {
+    "overall": 84,
+    "level": "EXCELLENT",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 90,
+      "strategic": 92,
+      "economic": 80,
+      "defence": 80,
+      "political": 85,
+      "technology": 90,
+      "energy": 55,
+      "peopleToPeople": 75,
+      "multilateral": 90,
+      "momentum": 75
+    }
+  },
+  "shortSummary": "India and Japan share a \"Special Strategic and Global Partnership,\" anchored by large-scale Japanese development financing, the Mumbai-Ahmedabad bullet train project, and close QUAD coordination.",
+  "diplomaticRelationsEstablished": "1952",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Infrastructure financing",
+      "description": "Japan is among India's largest bilateral development-loan providers, funding metro, freight corridor and rail projects."
+    },
+    {
+      "area": "Semiconductors and critical technology",
+      "description": "Joint initiatives on semiconductor supply chains and critical minerals."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Bullet train project delays",
+      "description": "Land acquisition and implementation delays have pushed back the flagship high-speed rail timeline."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued QUAD and Act East Forum coordination",
+      "description": "India and Japan sustained close coordination through the QUAD grouping and the Act East Forum on northeastern India infrastructure projects.",
+      "whyItMatters": "Reinforces one of India's most stable and deeply institutionalized major-power partnerships."
+    },
+    {
+      "date": "2025",
+      "title": "Bullet train project progresses amid continued delays",
+      "description": "Construction on the Mumbai-Ahmedabad High Speed Rail corridor continued, though land acquisition issues kept the project behind its original timeline.",
+      "whyItMatters": "The flagship infrastructure project remains a visible, if delayed, symbol of the deepening economic partnership."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2000,
+      "title": "Global Partnership between India and Japan",
+      "category": "Diplomacy",
+      "description": "India and Japan elevate ties to a Global Partnership during PM Yoshiro Mori's visit."
+    },
+    {
+      "year": 2006,
+      "title": "Strategic and Global Partnership",
+      "category": "Diplomacy",
+      "description": "Relations are further upgraded during PM Manmohan Singh's visit to Tokyo."
+    },
+    {
+      "year": 2015,
+      "title": "Special Strategic and Global Partnership",
+      "category": "Summit",
+      "description": "Ties are elevated again, with Japan committing a low-interest loan for the Mumbai-Ahmedabad High Speed Rail (bullet train) project."
+    },
+    {
+      "year": 2017,
+      "title": "Act East Forum",
+      "category": "Diplomacy",
+      "description": "India and Japan launch a forum to coordinate infrastructure development in India's northeastern states."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Japan Civil Nuclear Agreement",
+      "year": 2016,
+      "category": "Nuclear",
+      "description": "Agreement enabling civil nuclear cooperation despite India being outside the NPT.",
+      "status": "Active"
+    },
+    {
+      "name": "Mumbai-Ahmedabad High Speed Rail financing",
+      "year": 2015,
+      "category": "Infrastructure",
+      "description": "Japan International Cooperation Agency loan financing India's first bullet train corridor.",
+      "status": "Under construction"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Malabar Exercise",
+      "type": "Joint Naval Exercise",
+      "description": "Japan is a permanent participant alongside India, the US and Australia in this multilateral naval exercise."
+    },
+    {
+      "name": "Acquisition and Cross-Servicing Agreement (ACSA)",
+      "type": "Logistics Agreement",
+      "description": "Reciprocal logistics support agreement between the Indian and Japanese armed forces."
+    }
+  ],
+  "trade": {
+    "exports": "~$7.9 billion",
+    "imports": "~$12.5 billion",
+    "total": "~$20 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, iron and steel, marine products",
+    "majorImports": "Machinery, electronics, iron and steel products",
+    "majorSectors": "Infrastructure financing, automobiles, electronics"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "QUAD",
+      "detail": "Founding member alongside India, the US and Australia, focused on a free and open Indo-Pacific."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

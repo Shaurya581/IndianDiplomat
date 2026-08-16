@@ -1,0 +1,54 @@
+{
+  "id": "rwanda",
+  "name": "Rwanda",
+  "capital": "Kigali",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇷🇼",
+  "iso2": "RW",
+  "iso3": "RWA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Rwanda maintain a growing relationship, with Indian development assistance and a small but notable Indian business presence.",
+  "diplomaticRelationsEstablished": "1963",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Development assistance",
+      "description": "India has extended lines of credit for infrastructure projects."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

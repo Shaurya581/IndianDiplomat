@@ -1,0 +1,54 @@
+{
+  "id": "jamaica",
+  "name": "Jamaica",
+  "capital": "Kingston",
+  "region": "Caribbean",
+  "subregion": "Caribbean",
+  "flag": "🇯🇲",
+  "iso2": "JM",
+  "iso3": "JAM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Jamaica maintain warm relations underpinned by a historic Indo-Jamaican community descended from 19th-century indentured labourers.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indo-Caribbean diaspora",
+      "description": "A significant Indo-Jamaican community anchors deep cultural ties."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

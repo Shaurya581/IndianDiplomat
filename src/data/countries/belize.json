@@ -1,0 +1,49 @@
+{
+  "id": "belize",
+  "name": "Belize",
+  "capital": "Belmopan",
+  "region": "Central America",
+  "subregion": "Central America",
+  "flag": "🇧🇿",
+  "iso2": "BZ",
+  "iso3": "BLZ",
+  "tier": "standard",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 50,
+      "economic": 50,
+      "defence": 50,
+      "political": 50,
+      "technology": 50,
+      "energy": 50,
+      "peopleToPeople": 50,
+      "multilateral": 50,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "India and Belize maintain modest diplomatic relations with limited trade, engaged mainly through Commonwealth and CARICOM-adjacent forums.",
+  "diplomaticRelationsEstablished": "1988",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

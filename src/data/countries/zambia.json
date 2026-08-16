@@ -1,0 +1,54 @@
+{
+  "id": "zambia",
+  "name": "Zambia",
+  "capital": "Lusaka",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇿🇲",
+  "iso2": "ZM",
+  "iso3": "ZMB",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Zambia maintain warm Commonwealth-linked relations, with Indian investment in copper mining and pharmaceuticals.",
+  "diplomaticRelationsEstablished": "1965",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Mining investment",
+      "description": "Indian firms have invested in Zambian copper mining operations."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

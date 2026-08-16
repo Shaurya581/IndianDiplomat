@@ -1,0 +1,104 @@
+{
+  "id": "iraq",
+  "name": "Iraq",
+  "capital": "Baghdad",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇮🇶",
+  "iso2": "IQ",
+  "iso3": "IRQ",
+  "tier": "major",
+  "relationship": {
+    "overall": 46,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 45,
+      "economic": 60,
+      "defence": 25,
+      "political": 50,
+      "technology": 25,
+      "energy": 80,
+      "peopleToPeople": 50,
+      "multilateral": 30,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "Iraq is consistently among India's top crude oil suppliers, though the relationship remains largely transactional and centred on energy, with limited strategic or defence dimensions.",
+  "diplomaticRelationsEstablished": "1952",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Crude oil supply",
+      "description": "Iraq is consistently one of India's top two crude oil suppliers."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Regional instability",
+      "description": "Periodic conflict and political instability in Iraq pose risks to Indian workers and energy contracts."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Iraq remains a top-two crude oil supplier",
+      "description": "Iraq continued to be one of India's largest sources of crude oil imports, with the relationship remaining largely transactional and energy-focused.",
+      "whyItMatters": "Confirms the relationship's continued centrality to India's energy security, with limited broader strategic expansion."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2003,
+      "title": "Post-War Diplomatic Re-engagement",
+      "category": "Diplomacy",
+      "description": "India re-establishes full diplomatic engagement with Iraq following the 2003 war, expanding energy trade over the following decade."
+    },
+    {
+      "year": 2014,
+      "title": "Mosul Hostage Crisis",
+      "category": "Security",
+      "description": "ISIS forces capture 39 Indian construction workers in Mosul; India confirms their deaths in 2018 after a prolonged search and identification effort."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$2 billion",
+    "imports": "~$24 billion",
+    "total": "~$26 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Cereals, machinery, dairy products",
+    "majorImports": "Crude petroleum",
+    "majorSectors": "Crude oil imports"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "OPEC dialogue",
+      "detail": "India engages Iraq bilaterally as a major oil producer outside formal OPEC membership."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

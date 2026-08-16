@@ -1,0 +1,55 @@
+{
+  "id": "laos",
+  "name": "Laos",
+  "officialName": "Lao People's Democratic Republic",
+  "capital": "Vientiane",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇱🇦",
+  "iso2": "LA",
+  "iso3": "LAO",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India-Laos ties are modest but steady, engaged mainly through the Mekong-Ganga Cooperation framework and India's Act East Policy.",
+  "diplomaticRelationsEstablished": "1956",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Mekong-Ganga Cooperation",
+      "description": "Joint member of this India-led framework linking South and Southeast Asia."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

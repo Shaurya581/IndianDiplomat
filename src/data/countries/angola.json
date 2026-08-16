@@ -1,0 +1,54 @@
+{
+  "id": "angola",
+  "name": "Angola",
+  "capital": "Luanda",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇦🇴",
+  "iso2": "AO",
+  "iso3": "AGO",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Angola maintain a growing energy-focused relationship, with Angola among India's notable African crude oil suppliers.",
+  "diplomaticRelationsEstablished": "1975",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Crude oil trade",
+      "description": "Angola is one of India's important African sources of crude oil."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

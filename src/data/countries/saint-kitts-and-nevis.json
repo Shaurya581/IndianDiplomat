@@ -1,0 +1,49 @@
+{
+  "id": "saint-kitts-and-nevis",
+  "name": "Saint Kitts and Nevis",
+  "capital": "Basseterre",
+  "region": "Caribbean",
+  "subregion": "Caribbean",
+  "flag": "🇰🇳",
+  "iso2": "KN",
+  "iso3": "KNA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 50,
+      "economic": 50,
+      "defence": 50,
+      "political": 50,
+      "technology": 50,
+      "energy": 50,
+      "peopleToPeople": 50,
+      "multilateral": 50,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "India and Saint Kitts and Nevis maintain warm Commonwealth ties, engaged through the India-CARICOM framework.",
+  "diplomaticRelationsEstablished": "1983",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "south-korea",
+  "name": "South Korea",
+  "officialName": "Republic of Korea",
+  "capital": "Seoul",
+  "region": "East Asia",
+  "subregion": "East Asia",
+  "flag": "🇰🇷",
+  "iso2": "KR",
+  "iso3": "KOR",
+  "tier": "major",
+  "relationship": {
+    "overall": 65,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 70,
+      "strategic": 65,
+      "economic": 75,
+      "defence": 55,
+      "political": 65,
+      "technology": 80,
+      "energy": 45,
+      "peopleToPeople": 60,
+      "multilateral": 55,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "India and South Korea maintain a Special Strategic Partnership underpinned by large Korean industrial investment — Samsung, Hyundai and LG operate major Indian manufacturing bases — and a bilateral trade agreement in force since 2010.",
+  "diplomaticRelationsEstablished": "1973",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Manufacturing investment",
+      "description": "Samsung, Hyundai, Kia and LG operate major manufacturing and R&D facilities in India."
+    },
+    {
+      "area": "Shipbuilding and defence manufacturing",
+      "description": "Growing cooperation on shipbuilding technology transfer."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Trade imbalance",
+      "description": "India runs a persistent trade deficit with South Korea, concentrated in electronics and machinery."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Talks on upgrading the CEPA trade agreement continue",
+      "description": "India and South Korea continued discussions on modernizing their 2010 trade agreement to expand coverage.",
+      "whyItMatters": "Reflects steady, unspectacular progress in one of India's most commercially significant East Asian partnerships."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1973,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and South Korea formally establish diplomatic relations."
+    },
+    {
+      "year": 2010,
+      "title": "Comprehensive Economic Partnership Agreement (CEPA)",
+      "category": "Trade",
+      "description": "A bilateral trade agreement comes into force, phasing down tariffs across a wide range of goods and services."
+    },
+    {
+      "year": 2015,
+      "title": "Special Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "Ties are upgraded during President Park Geun-hye's visit to India."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Economic Partnership Agreement",
+      "year": 2010,
+      "category": "Trade",
+      "description": "Bilateral trade agreement now under review for an upgrade to expand coverage.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$5 billion",
+    "imports": "~$16.5 billion",
+    "total": "~$21.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, iron and steel, marine products",
+    "majorImports": "Electronics, machinery, auto components",
+    "majorSectors": "Electronics, automobiles, shipbuilding"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "East Asia Summit",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

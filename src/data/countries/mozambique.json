@@ -1,0 +1,54 @@
+{
+  "id": "mozambique",
+  "name": "Mozambique",
+  "capital": "Maputo",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇲🇿",
+  "iso2": "MZ",
+  "iso3": "MOZ",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Mozambique maintain a substantial relationship anchored by Indian investment in Mozambican natural gas projects and a historic Indian-origin trading community.",
+  "diplomaticRelationsEstablished": "1975",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Natural gas investment",
+      "description": "Indian state-run firms hold stakes in major Mozambican offshore gas projects."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

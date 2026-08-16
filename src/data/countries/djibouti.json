@@ -1,0 +1,54 @@
+{
+  "id": "djibouti",
+  "name": "Djibouti",
+  "capital": "Djibouti City",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇩🇯",
+  "iso2": "DJ",
+  "iso3": "DJI",
+  "tier": "standard",
+  "relationship": {
+    "overall": 52,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 52,
+      "strategic": 52,
+      "economic": 52,
+      "defence": 52,
+      "political": 52,
+      "technology": 52,
+      "energy": 52,
+      "peopleToPeople": 52,
+      "multilateral": 52,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "Djibouti's strategic location at the Bab-el-Mandeb strait makes it relevant to Indian naval and anti-piracy operations in the region, though bilateral ties remain modest.",
+  "diplomaticRelationsEstablished": "1978",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Maritime strategic relevance",
+      "description": "Djibouti's location near key shipping lanes is relevant to Indian naval operations."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

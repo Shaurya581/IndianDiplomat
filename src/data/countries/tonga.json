@@ -1,0 +1,54 @@
+{
+  "id": "tonga",
+  "name": "Tonga",
+  "capital": "Nuku'alofa",
+  "region": "Oceania",
+  "subregion": "Pacific Islands",
+  "flag": "🇹🇴",
+  "iso2": "TO",
+  "iso3": "TON",
+  "tier": "standard",
+  "relationship": {
+    "overall": 52,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 52,
+      "strategic": 52,
+      "economic": 52,
+      "defence": 52,
+      "political": 52,
+      "technology": 52,
+      "energy": 52,
+      "peopleToPeople": 52,
+      "multilateral": 52,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "India engages Tonga through the FIPIC framework, including disaster relief support after the 2022 volcanic eruption and tsunami.",
+  "diplomaticRelationsEstablished": "1976",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Disaster relief",
+      "description": "India provided humanitarian assistance following the 2022 Hunga Tonga eruption and tsunami."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

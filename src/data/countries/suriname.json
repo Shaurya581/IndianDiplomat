@@ -1,0 +1,54 @@
+{
+  "id": "suriname",
+  "name": "Suriname",
+  "capital": "Paramaribo",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇸🇷",
+  "iso2": "SR",
+  "iso3": "SUR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 60,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 60,
+      "economic": 60,
+      "defence": 60,
+      "political": 60,
+      "technology": 60,
+      "energy": 60,
+      "peopleToPeople": 60,
+      "multilateral": 60,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "Suriname's large Indo-Surinamese population (roughly 27% of the population) anchors a historically warm relationship with India.",
+  "diplomaticRelationsEstablished": "1976",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indo-Surinamese diaspora",
+      "description": "A significant population of Indian descent underpins deep cultural ties."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

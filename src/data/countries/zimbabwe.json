@@ -1,0 +1,49 @@
+{
+  "id": "zimbabwe",
+  "name": "Zimbabwe",
+  "capital": "Harare",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇿🇼",
+  "iso2": "ZW",
+  "iso3": "ZWE",
+  "tier": "standard",
+  "relationship": {
+    "overall": 52,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 52,
+      "strategic": 52,
+      "economic": 52,
+      "defence": 52,
+      "political": 52,
+      "technology": 52,
+      "energy": 52,
+      "peopleToPeople": 52,
+      "multilateral": 52,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "India and Zimbabwe maintain steady relations, with Indian lines of credit supporting agricultural and infrastructure projects.",
+  "diplomaticRelationsEstablished": "1980",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

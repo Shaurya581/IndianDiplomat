@@ -1,0 +1,89 @@
+{
+  "id": "north-korea",
+  "name": "North Korea",
+  "officialName": "Democratic People's Republic of Korea",
+  "capital": "Pyongyang",
+  "region": "East Asia",
+  "subregion": "East Asia",
+  "flag": "🇰🇵",
+  "iso2": "KP",
+  "iso3": "PRK",
+  "tier": "major",
+  "relationship": {
+    "overall": 19,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 25,
+      "strategic": 20,
+      "economic": 15,
+      "defence": 10,
+      "political": 15,
+      "technology": 10,
+      "energy": 10,
+      "peopleToPeople": 30,
+      "multilateral": 20,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "India maintains only minimal diplomatic relations with North Korea, largely constrained by United Nations sanctions and North Korea's close alignment with Pakistan and China on regional issues.",
+  "complexity": "India adheres strictly to UN Security Council sanctions regimes on North Korea, limiting trade and diplomatic engagement to a bare minimum.",
+  "diplomaticRelationsEstablished": "1973",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "UN sanctions regime",
+      "description": "International sanctions sharply limit the scope of any bilateral engagement."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Relationship remains minimal under sanctions constraints",
+      "description": "India continued to maintain only a bare diplomatic presence, constrained by UN Security Council sanctions on North Korea's weapons programmes.",
+      "whyItMatters": "No material change — the relationship remains structurally limited by the international sanctions regime."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1973,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and North Korea establish formal diplomatic relations, though engagement has remained minimal."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "Minimal",
+    "imports": "Minimal",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Requires verification",
+    "majorImports": "Requires verification",
+    "majorSectors": "Trade constrained by UN sanctions"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "United Nations",
+      "detail": "India enforces UN Security Council sanctions on North Korea's weapons programmes."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

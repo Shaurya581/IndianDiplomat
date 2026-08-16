@@ -1,0 +1,172 @@
+{
+  "id": "china",
+  "name": "China",
+  "officialName": "People's Republic of China",
+  "capital": "Beijing",
+  "region": "East Asia",
+  "subregion": "East Asia",
+  "flag": "🇨🇳",
+  "iso2": "CN",
+  "iso3": "CHN",
+  "tier": "major",
+  "relationship": {
+    "overall": 31,
+    "level": "POOR",
+    "status": "Adversarial",
+    "dimensions": {
+      "diplomatic": 30,
+      "strategic": 20,
+      "economic": 55,
+      "defence": 10,
+      "political": 25,
+      "technology": 30,
+      "energy": 30,
+      "peopleToPeople": 25,
+      "multilateral": 65,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India and China maintain a heavily trade-linked but strategically adversarial relationship, dominated by an unresolved and heavily militarised Himalayan border and deep mutual distrust following the 2020 Galwan clash.",
+  "complexity": "The 2020 Galwan Valley clash — the first fatal border confrontation in over four decades — froze high-level political engagement for years. Trade remains large and heavily imbalanced in China's favour even as troops remain forward-deployed along the Line of Actual Control.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Multilateral coordination",
+      "description": "Both cooperate within BRICS, SCO and G20 despite bilateral friction."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Unresolved Line of Actual Control",
+      "description": "The India-China border remains undemarcated across multiple sectors, with recurring stand-offs."
+    },
+    {
+      "title": "Trade deficit",
+      "description": "India runs one of its largest bilateral trade deficits with China, concentrated in electronics and industrial inputs."
+    },
+    {
+      "title": "China-Pakistan axis",
+      "description": "China's deep military and economic ties with Pakistan, including CPEC through Pakistan-administered Kashmir, are a persistent Indian concern."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Border patrolling agreement enables partial disengagement",
+      "description": "India and China reached an agreement on patrolling arrangements at remaining friction points along the Line of Actual Control, enabling limited troop disengagement and a cautious resumption of some high-level contact.",
+      "whyItMatters": "The first concrete de-escalation step since the 2020 Galwan clash, though large-scale troop deployments and mutual distrust persist."
+    },
+    {
+      "date": "2025",
+      "title": "Resumption of direct flights and limited people-to-people exchanges",
+      "description": "Direct flight connectivity and some visa/exchange channels saw incremental easing as part of the broader post-2024 disengagement track.",
+      "whyItMatters": "A modest normalization signal, though the underlying border dispute and trade imbalance remain unresolved."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1954,
+      "title": "Panchsheel Agreement",
+      "category": "Treaty",
+      "description": "India and China sign an agreement enshrining five principles of peaceful coexistence, part of the \"Hindi-Chini Bhai-Bhai\" era."
+    },
+    {
+      "year": 1962,
+      "title": "Sino-Indian War",
+      "category": "Conflict",
+      "description": "War breaks out over disputed Himalayan border territory; China declares a unilateral ceasefire after making significant advances, leaving lasting distrust."
+    },
+    {
+      "year": 1988,
+      "title": "Rajiv Gandhi's Beijing Visit",
+      "category": "Diplomacy",
+      "description": "The first Indian prime ministerial visit to China since 1954 begins a normalization of ties."
+    },
+    {
+      "year": 2017,
+      "title": "Doklam Standoff",
+      "category": "Security",
+      "description": "A 73-day military standoff near the Bhutan-China-India tri-junction after Indian troops halt Chinese road construction."
+    },
+    {
+      "year": 2020,
+      "title": "Galwan Valley Clash",
+      "category": "Conflict",
+      "description": "A violent hand-to-hand clash in the Galwan Valley kills 20 Indian and an undisclosed number of Chinese soldiers — the first fatal India-China border incident since 1975.",
+      "impact": "Triggered a multi-year military stand-off, troop build-ups, and a freeze on high-level political visits; India banned dozens of Chinese mobile apps."
+    },
+    {
+      "year": 2024,
+      "title": "Border Patrolling Agreement",
+      "category": "Diplomacy",
+      "description": "India and China reach an agreement on patrolling arrangements in remaining friction points, enabling a partial disengagement and resumption of some high-level contact."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Border Peace and Tranquility Agreement",
+      "year": 1993,
+      "category": "Treaty",
+      "description": "Early confidence-building framework for managing the undemarcated border pending final settlement.",
+      "status": "Active, frequently tested"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$16 billion",
+    "imports": "~$101 billion",
+    "total": "~$118 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Iron ore, cotton, organic chemicals",
+    "majorImports": "Electronics, machinery, active pharmaceutical ingredients, solar cells",
+    "majorSectors": "Electronics, machinery, pharmaceuticals inputs"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BRICS",
+      "detail": "Joint founding member, cooperating on multilateral economic issues despite bilateral tension."
+    },
+    {
+      "organization": "SCO",
+      "detail": "Joint member of the Shanghai Cooperation Organisation."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member, with periodic friction over regional issues."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Xi Jinping",
+      "position": "President of the People's Republic of China",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

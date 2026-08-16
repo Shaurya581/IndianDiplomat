@@ -1,0 +1,165 @@
+{
+  "id": "pakistan",
+  "name": "Pakistan",
+  "capital": "Islamabad",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇵🇰",
+  "iso2": "PK",
+  "iso3": "PAK",
+  "tier": "major",
+  "relationship": {
+    "overall": 11,
+    "level": "POOR",
+    "status": "Adversarial",
+    "dimensions": {
+      "diplomatic": 15,
+      "strategic": 10,
+      "economic": 5,
+      "defence": 5,
+      "political": 10,
+      "technology": 10,
+      "energy": 5,
+      "peopleToPeople": 35,
+      "multilateral": 20,
+      "momentum": 15
+    }
+  },
+  "shortSummary": "India and Pakistan share a fraught relationship rooted in the 1947 Partition, the unresolved status of Jammu & Kashmir, and repeated wars. Formal trade and high-level diplomatic engagement have been largely suspended since 2019.",
+  "complexity": "Four wars (1947, 1965, 1971, 1999 Kargil), cross-border terrorism, and the Kashmir dispute dominate the relationship. Diplomatic and trade ties were downgraded sharply after the 2019 Pulwama attack and India's revocation of Article 370.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indus water-sharing",
+      "description": "Technical cooperation historically administered through the Permanent Indus Commission, now suspended."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Kashmir dispute",
+      "description": "Unresolved territorial dispute over Jammu & Kashmir remains the central obstacle to normalization."
+    },
+    {
+      "title": "Cross-border terrorism",
+      "description": "India cites Pakistan-based militant groups as a recurring source of attacks on Indian soil."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2025-04",
+      "title": "Pahalgam terror attack and Indus Waters Treaty held in abeyance",
+      "description": "Following a terror attack in Pahalgam, India held the 1960 Indus Waters Treaty in abeyance, one of the most significant unilateral steps taken in the treaty's history.",
+      "whyItMatters": "Marked a sharp escalation, removing a decades-old mechanism that had survived multiple prior wars, and signalling a fundamentally more confrontational Indian posture."
+    },
+    {
+      "date": "2025",
+      "title": "Heightened military tension",
+      "description": "Bilateral tension escalated further through 2025, with reports of cross-border incidents and international concern over the risk of wider conflict between the two nuclear-armed neighbours.",
+      "whyItMatters": "Underscores that the relationship remains the most volatile and dangerous in India's neighbourhood."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1947,
+      "title": "Partition of British India",
+      "category": "Conflict",
+      "description": "India and Pakistan become independent states; Partition triggers mass migration and communal violence, and an unresolved dispute over the princely state of Jammu & Kashmir."
+    },
+    {
+      "year": 1965,
+      "title": "Second Indo-Pakistani War",
+      "category": "Conflict",
+      "description": "War fought primarily over Kashmir, ending in a UN-mandated ceasefire and the Tashkent Declaration (1966)."
+    },
+    {
+      "year": 1971,
+      "title": "Indo-Pakistani War and Liberation of Bangladesh",
+      "category": "Conflict",
+      "description": "India intervenes in the Bangladesh Liberation War; Pakistani forces surrender in Dhaka, leading to the independent state of Bangladesh."
+    },
+    {
+      "year": 1972,
+      "title": "Simla Agreement",
+      "category": "Treaty",
+      "description": "India and Pakistan agree to resolve differences bilaterally and establish the Line of Control in Kashmir."
+    },
+    {
+      "year": 1999,
+      "title": "Kargil War",
+      "category": "Conflict",
+      "description": "Pakistani forces and militants occupy positions on the Indian side of the Line of Control in Kargil; Indian forces recapture the heights after weeks of fighting."
+    },
+    {
+      "year": 2019,
+      "title": "Pulwama Attack and Balakot Airstrike",
+      "category": "Conflict",
+      "description": "A suicide bombing kills 40 Indian paramilitary personnel in Pulwama; India conducts airstrikes in Balakot, Pakistan, in response. Trade and diplomatic ties are downgraded sharply afterward.",
+      "impact": "India revoked Pakistan's Most Favoured Nation trade status; Pakistan suspended trade and downgraded diplomatic relations."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Indus Waters Treaty",
+      "year": 1960,
+      "category": "Treaty",
+      "description": "World Bank-brokered treaty governing the sharing of the Indus river system; India held it in abeyance following the April 2025 Pahalgam terror attack.",
+      "status": "Held in abeyance (2025)"
+    },
+    {
+      "name": "Simla Agreement",
+      "year": 1972,
+      "category": "Treaty",
+      "description": "Post-1971 war framework committing both countries to bilateral resolution of disputes and defining the Line of Control.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "Negligible / informal",
+    "imports": "Negligible / informal",
+    "total": "Under $1 billion (informal/indirect)",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Requires verification",
+    "majorImports": "Requires verification",
+    "majorSectors": "Formal direct trade largely suspended since 2019"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "SAARC",
+      "detail": "Both founding members, though SAARC summitry has been effectively frozen since 2016 due to bilateral tensions."
+    },
+    {
+      "organization": "United Nations",
+      "detail": "Frequently opposing positions, particularly on Kashmir at the UN Security Council and UNHRC."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Verification of registered bilateral and multilateral treaties.",
+      "publisher": "United Nations Treaty Collection",
+      "url": "https://treaties.un.org",
+      "type": "international-org"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

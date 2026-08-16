@@ -1,0 +1,132 @@
+{
+  "id": "saudi-arabia",
+  "name": "Saudi Arabia",
+  "capital": "Riyadh",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇸🇦",
+  "iso2": "SA",
+  "iso3": "SAU",
+  "tier": "major",
+  "relationship": {
+    "overall": 72,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 78,
+      "strategic": 78,
+      "economic": 82,
+      "defence": 55,
+      "political": 75,
+      "technology": 55,
+      "energy": 80,
+      "peopleToPeople": 88,
+      "multilateral": 65,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "Saudi Arabia is a top oil supplier and a growing strategic partner, formalized through the 2019 Strategic Partnership Council, with a large Indian expatriate workforce underpinning deep people-to-people ties.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Energy security",
+      "description": "Saudi Arabia is among India's largest crude oil and LPG suppliers."
+    },
+    {
+      "area": "Expatriate workforce",
+      "description": "Over 2 million Indian workers are employed in Saudi Arabia, generating substantial remittances."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Strategic Partnership Council ministerial meetings continue",
+      "description": "India and Saudi Arabia continued institutionalized ministerial coordination under the 2019 Strategic Partnership Council framework.",
+      "whyItMatters": "Reflects a maturing relationship increasingly institutionalized beyond energy trade alone."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2006,
+      "title": "Delhi Declaration",
+      "category": "Diplomacy",
+      "description": "King Abdullah's visit to India, the first by a Saudi monarch in decades, produces a framework for strategic energy and security cooperation."
+    },
+    {
+      "year": 2010,
+      "title": "Riyadh Declaration",
+      "category": "Diplomacy",
+      "description": "India and Saudi Arabia elevate ties to a Strategic Partnership during PM Manmohan Singh's visit."
+    },
+    {
+      "year": 2019,
+      "title": "Strategic Partnership Council Established",
+      "category": "Diplomacy",
+      "description": "India and Saudi Arabia establish a Strategic Partnership Council to institutionalise high-level coordination, mirroring frameworks Riyadh has with other major powers."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Strategic Partnership Council Agreement",
+      "year": 2019,
+      "category": "Diplomacy",
+      "description": "Institutional framework for ministerial-level coordination across political, security, and economic tracks.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Al-Mohed Al-Hindi",
+      "type": "Joint Naval Exercise",
+      "description": "Bilateral naval exercise between India and Saudi Arabia."
+    }
+  ],
+  "trade": {
+    "exports": "~$11.5 billion",
+    "imports": "~$31.5 billion",
+    "total": "~$43 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Basmati rice, engineering goods, textiles",
+    "majorImports": "Crude petroleum, LPG, fertilisers",
+    "majorSectors": "Petroleum, remittances, construction labour"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "India-Middle East-Europe Economic Corridor (IMEC)",
+      "detail": "Saudi Arabia is a key node in the connectivity corridor announced at the 2023 G20."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Mohammed bin Salman Al Saud",
+      "position": "Crown Prince and Prime Minister of Saudi Arabia",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

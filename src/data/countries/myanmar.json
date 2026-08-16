@@ -1,0 +1,59 @@
+{
+  "id": "myanmar",
+  "name": "Myanmar",
+  "capital": "Naypyidaw",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇲🇲",
+  "iso2": "MM",
+  "iso3": "MMR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Complex",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India engages Myanmar pragmatically for connectivity and border security despite deep concern over the country's civil conflict since the 2021 military coup, balancing the Kaladan and Trilateral Highway projects against instability along their shared border.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Connectivity infrastructure",
+      "description": "The Kaladan Multi-Modal Transit Transport Project and India-Myanmar-Thailand Trilateral Highway link India's northeast to Southeast Asia."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Post-coup instability",
+      "description": "Myanmar's civil conflict since the 2021 coup has disrupted connectivity projects and pushed refugees across the border into India's northeast."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

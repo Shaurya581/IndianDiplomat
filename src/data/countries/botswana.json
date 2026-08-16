@@ -1,0 +1,54 @@
+{
+  "id": "botswana",
+  "name": "Botswana",
+  "capital": "Gaborone",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇧🇼",
+  "iso2": "BW",
+  "iso3": "BWA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Botswana maintain warm Commonwealth-linked relations, with a stable diamond-linked trade relationship.",
+  "diplomaticRelationsEstablished": "1966",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Diamond trade",
+      "description": "Botswana's diamond industry connects to India's gem-cutting and polishing sector."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

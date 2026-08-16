@@ -1,0 +1,115 @@
+{
+  "id": "netherlands",
+  "name": "Netherlands",
+  "capital": "Amsterdam",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇳🇱",
+  "iso2": "NL",
+  "iso3": "NLD",
+  "tier": "major",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 55,
+      "economic": 78,
+      "defence": 40,
+      "political": 60,
+      "technology": 65,
+      "energy": 30,
+      "peopleToPeople": 50,
+      "multilateral": 50,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "The Netherlands is a major hub for Indian outward investment and one of the largest sources of FDI into India, alongside growing cooperation on semiconductors and water management.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Investment routing",
+      "description": "The Netherlands is among the top sources of FDI into India, partly reflecting its role as a European investment hub."
+    },
+    {
+      "area": "Water management",
+      "description": "Dutch expertise supports Indian river and flood-management projects."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Semiconductor cooperation deepens",
+      "description": "India and the Netherlands continued implementing their 2023 semiconductor supply-chain MoU, relevant given the Netherlands' role in chip-equipment manufacturing.",
+      "whyItMatters": "Positions the Netherlands as a growing technology partner alongside its established role as an investment hub."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2021,
+      "title": "Strategic Partnership on Water",
+      "category": "Diplomacy",
+      "description": "India and the Netherlands deepen cooperation on water management and river-basin technology."
+    },
+    {
+      "year": 2023,
+      "title": "Semiconductor Cooperation MoU",
+      "category": "Technology",
+      "description": "India and the Netherlands sign an agreement to cooperate on semiconductor supply chains, given the Netherlands' role in chip-equipment manufacturing (ASML)."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Semiconductor Supply Chain MoU",
+      "year": 2023,
+      "category": "Technology",
+      "description": "Framework for cooperation on semiconductor manufacturing equipment and supply chains.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$11 billion",
+    "imports": "~$5 billion",
+    "total": "~$16 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, chemicals, textiles",
+    "majorImports": "Machinery, chemicals, electronics",
+    "majorSectors": "FDI routing, petroleum, semiconductors"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "International Solar Alliance",
+      "detail": "Netherlands is a partner country."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cambodia",
+  "name": "Cambodia",
+  "capital": "Phnom Penh",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇰🇭",
+  "iso2": "KH",
+  "iso3": "KHM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 64,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 64,
+      "strategic": 64,
+      "economic": 64,
+      "defence": 64,
+      "political": 64,
+      "technology": 64,
+      "energy": 64,
+      "peopleToPeople": 64,
+      "multilateral": 64,
+      "momentum": 64
+    }
+  },
+  "shortSummary": "India and Cambodia share cultural ties rooted in shared Hindu-Buddhist heritage, with India funding restoration work at the Angkor Wat temple complex.",
+  "diplomaticRelationsEstablished": "1952",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Heritage conservation",
+      "description": "The Archaeological Survey of India has led restoration work at Angkor Wat and other temple sites for decades."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

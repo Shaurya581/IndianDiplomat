@@ -1,0 +1,54 @@
+{
+  "id": "greece",
+  "name": "Greece",
+  "capital": "Athens",
+  "region": "Europe",
+  "subregion": "Balkans",
+  "flag": "🇬🇷",
+  "iso2": "GR",
+  "iso3": "GRC",
+  "tier": "standard",
+  "relationship": {
+    "overall": 64,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 64,
+      "strategic": 64,
+      "economic": 64,
+      "defence": 64,
+      "political": 64,
+      "technology": 64,
+      "energy": 64,
+      "peopleToPeople": 64,
+      "multilateral": 64,
+      "momentum": 64
+    }
+  },
+  "shortSummary": "India and Greece elevated ties to a Strategic Partnership in 2023, with growing defence-industrial and maritime cooperation, and shared concern over Turkish regional assertiveness.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Strategic Partnership",
+      "description": "Elevated in 2023, covering defence, trade and maritime cooperation."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

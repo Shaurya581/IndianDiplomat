@@ -1,0 +1,58 @@
+{
+  "id": "fiji",
+  "name": "Fiji",
+  "capital": "Suva",
+  "region": "Oceania",
+  "subregion": "Pacific Islands",
+  "flag": "🇫🇯",
+  "iso2": "FJ",
+  "iso3": "FJI",
+  "tier": "standard",
+  "relationship": {
+    "overall": 65,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 65,
+      "economic": 65,
+      "defence": 65,
+      "political": 65,
+      "technology": 65,
+      "energy": 65,
+      "peopleToPeople": 65,
+      "multilateral": 65,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "Fiji's large Indo-Fijian population (historically over a third of the country) anchors one of India's closest Pacific relationships, engaged through the FIPIC (Forum for India-Pacific Islands Cooperation) framework.",
+  "diplomaticRelationsEstablished": "1970",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indo-Fijian diaspora",
+      "description": "A historic Indian-origin population, descended from 19th-century indentured labourers, underpins deep cultural ties."
+    },
+    {
+      "area": "FIPIC",
+      "description": "Fiji has hosted and participated in India's Pacific Islands outreach summits."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "seychelles",
+  "name": "Seychelles",
+  "capital": "Victoria",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇸🇨",
+  "iso2": "SC",
+  "iso3": "SYC",
+  "tier": "standard",
+  "relationship": {
+    "overall": 68,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 68,
+      "strategic": 68,
+      "economic": 68,
+      "defence": 68,
+      "political": 68,
+      "technology": 68,
+      "energy": 68,
+      "peopleToPeople": 68,
+      "multilateral": 68,
+      "momentum": 68
+    }
+  },
+  "shortSummary": "Seychelles is one of India's closest Indian Ocean partners, with deep maritime security cooperation through the Colombo Security Conclave and Indian-funded coastal surveillance infrastructure.",
+  "diplomaticRelationsEstablished": "1976",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Maritime security cooperation",
+      "description": "India has funded coastal radar and surveillance infrastructure supporting Seychelles' Indian Ocean security."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "uruguay",
+  "name": "Uruguay",
+  "capital": "Montevideo",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇺🇾",
+  "iso2": "UY",
+  "iso3": "URY",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Uruguay maintain steady, friendly relations with modest but growing pharmaceutical and IT-sector trade.",
+  "diplomaticRelationsEstablished": "1953",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

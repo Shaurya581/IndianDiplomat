@@ -1,0 +1,49 @@
+{
+  "id": "cabo-verde",
+  "name": "Cabo Verde",
+  "capital": "Praia",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇨🇻",
+  "iso2": "CV",
+  "iso3": "CPV",
+  "tier": "standard",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 50,
+      "economic": 50,
+      "defence": 50,
+      "political": 50,
+      "technology": 50,
+      "energy": 50,
+      "peopleToPeople": 50,
+      "multilateral": 50,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "India and Cabo Verde maintain modest, friendly relations with limited trade.",
+  "diplomaticRelationsEstablished": "1976",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

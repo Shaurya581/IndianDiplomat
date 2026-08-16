@@ -1,0 +1,97 @@
+{
+  "id": "mexico",
+  "name": "Mexico",
+  "capital": "Mexico City",
+  "region": "North America",
+  "subregion": "North America",
+  "flag": "🇲🇽",
+  "iso2": "MX",
+  "iso3": "MEX",
+  "tier": "major",
+  "relationship": {
+    "overall": 45,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 45,
+      "economic": 65,
+      "defence": 20,
+      "political": 50,
+      "technology": 45,
+      "energy": 20,
+      "peopleToPeople": 40,
+      "multilateral": 40,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "Mexico has emerged as a growing trade partner for India, particularly in pharmaceuticals and automotive components, though the relationship remains modest relative to India's other major partnerships.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Pharmaceuticals trade",
+      "description": "India is a major supplier of generic pharmaceuticals to Mexico."
+    },
+    {
+      "area": "Automotive supply chains",
+      "description": "Growing two-way trade in auto components."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Pharmaceutical and auto-component trade grows",
+      "description": "Bilateral trade in generic pharmaceuticals and automotive components continued its steady growth.",
+      "whyItMatters": "A modest but expanding relationship without major political friction."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2007,
+      "title": "Establishment of Privileged Partnership Dialogue",
+      "category": "Diplomacy",
+      "description": "India and Mexico institute a framework for expanded political and economic dialogue."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$6 billion",
+    "imports": "~$3.5 billion",
+    "total": "~$9.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, vehicles and components, chemicals",
+    "majorImports": "Crude petroleum, auto components, silver",
+    "majorSectors": "Pharmaceuticals, automobiles"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

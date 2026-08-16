@@ -1,0 +1,169 @@
+{
+  "id": "bangladesh",
+  "name": "Bangladesh",
+  "capital": "Dhaka",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇧🇩",
+  "iso2": "BD",
+  "iso3": "BGD",
+  "tier": "major",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Complex",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 65,
+      "defence": 45,
+      "political": 45,
+      "technology": 45,
+      "energy": 30,
+      "peopleToPeople": 60,
+      "multilateral": 45,
+      "momentum": 30
+    }
+  },
+  "shortSummary": "India played a decisive role in Bangladesh's 1971 independence and built a close partnership through the Sheikh Hasina era, but relations have become more complex since the August 2024 political transition in Dhaka.",
+  "complexity": "Ties were historically close under Sheikh Hasina, who took refuge in India after being ousted in August 2024. The interim government under Muhammad Yunus has taken a more cautious posture toward New Delhi, straining an otherwise deep relationship.",
+  "diplomaticRelationsEstablished": "1971",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Connectivity",
+      "description": "Rail, road and inland waterway links to India's northeast transit through Bangladesh."
+    },
+    {
+      "area": "Energy",
+      "description": "Cross-border power transmission and Indian-financed energy projects."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Political transition uncertainty",
+      "description": "The interim government's posture toward India remains less predictable than under the previous administration."
+    },
+    {
+      "title": "Teesta water sharing",
+      "description": "A long-pending river water-sharing agreement remains unresolved."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024-08",
+      "title": "Fall of the Hasina government",
+      "description": "Sheikh Hasina resigned amid mass protests and took refuge in India; an interim government under Muhammad Yunus assumed charge in Dhaka.",
+      "whyItMatters": "Ended a 15-year period of unusually close India-Bangladesh alignment and introduced significant uncertainty into one of India's most important regional relationships."
+    },
+    {
+      "date": "2025",
+      "title": "Relations remain cautious under the interim government",
+      "description": "Engagement between New Delhi and the interim Dhaka administration continued but with a more guarded tone, including friction over Hasina's status and minority-rights rhetoric.",
+      "whyItMatters": "The relationship has shifted from a strategic anchor to one requiring active, careful management."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1971,
+      "title": "Bangladesh Liberation War",
+      "category": "Conflict",
+      "description": "India provides military and diplomatic support to the Bangladesh liberation movement, intervening decisively against Pakistan."
+    },
+    {
+      "year": 1972,
+      "title": "Treaty of Friendship, Cooperation and Peace",
+      "category": "Treaty",
+      "description": "India and Bangladesh sign a 25-year friendship treaty shortly after independence."
+    },
+    {
+      "year": 1996,
+      "title": "Ganges Water Treaty",
+      "category": "Treaty",
+      "description": "A 30-year treaty on sharing Ganges waters at the Farakka Barrage is signed."
+    },
+    {
+      "year": 2015,
+      "title": "Land Boundary Agreement Implementation",
+      "category": "Treaty",
+      "description": "India and Bangladesh exchange enclaves, resolving a decades-old border dispute via the 100th Constitutional Amendment."
+    },
+    {
+      "year": 2024,
+      "title": "Fall of the Hasina Government",
+      "category": "Diplomacy",
+      "description": "Sheikh Hasina resigns amid mass protests and takes refuge in India; an interim government under Muhammad Yunus assumes charge, complicating bilateral ties.",
+      "impact": "Bilateral relationship enters a more uncertain phase amid rhetoric over minority rights and Hasina's extradition."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Land Boundary Agreement",
+      "year": 2015,
+      "category": "Treaty",
+      "description": "Exchange of enclaves along the India-Bangladesh border.",
+      "status": "Active"
+    },
+    {
+      "name": "Ganges Water Treaty",
+      "year": 1996,
+      "category": "Treaty",
+      "description": "Sharing arrangement for Ganges river waters at Farakka.",
+      "status": "Active, due for renewal"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Bilateral military exercises (SAMPRITI)",
+      "type": "Joint Exercise",
+      "description": "Annual army-to-army exercise between India and Bangladesh."
+    }
+  ],
+  "trade": {
+    "exports": "~$11 billion",
+    "imports": "~$2 billion",
+    "total": "~$13 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Cotton, textiles, cereals, machinery",
+    "majorImports": "Readymade garments, jute, fish",
+    "majorSectors": "Textiles, energy, connectivity infrastructure"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BIMSTEC",
+      "detail": "Joint member working on regional connectivity and trade facilitation."
+    },
+    {
+      "organization": "SAARC",
+      "detail": "Founding member alongside India."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

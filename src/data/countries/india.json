@@ -1,0 +1,72 @@
+{
+  "id": "india",
+  "name": "India",
+  "officialName": "Republic of India",
+  "capital": "New Delhi",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇮🇳",
+  "iso2": "IN",
+  "iso3": "IND",
+  "tier": "major",
+  "relationship": {
+    "overall": 100,
+    "level": "EXCELLENT",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 100,
+      "strategic": 100,
+      "economic": 100,
+      "defence": 100,
+      "political": 100,
+      "technology": 100,
+      "energy": 100,
+      "peopleToPeople": 100,
+      "multilateral": 100,
+      "momentum": 100
+    }
+  },
+  "shortSummary": "India is the world's most populous country and largest democracy, pursuing a foreign policy of strategic autonomy and multi-alignment — deepening ties with the United States, Europe, Japan and Australia through the QUAD while sustaining historic partnerships with Russia, and positioning itself as a leading voice of the Global South.",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [
+    {
+      "organization": "QUAD",
+      "detail": "Founding member alongside the United States, Japan and Australia."
+    },
+    {
+      "organization": "BRICS",
+      "detail": "Founding member."
+    },
+    {
+      "organization": "G20",
+      "detail": "Member; hosted the presidency in 2023."
+    },
+    {
+      "organization": "SCO",
+      "detail": "Member of the Shanghai Cooperation Organisation."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministry of External Affairs",
+      "publisher": "Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

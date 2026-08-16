@@ -1,0 +1,138 @@
+{
+  "id": "australia",
+  "name": "Australia",
+  "capital": "Canberra",
+  "region": "Oceania",
+  "subregion": "Oceania",
+  "flag": "🇦🇺",
+  "iso2": "AU",
+  "iso3": "AUS",
+  "tier": "major",
+  "relationship": {
+    "overall": 78,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 82,
+      "strategic": 88,
+      "economic": 75,
+      "defence": 75,
+      "political": 80,
+      "technology": 70,
+      "energy": 55,
+      "peopleToPeople": 85,
+      "multilateral": 88,
+      "momentum": 78
+    }
+  },
+  "shortSummary": "Australia and India share a Comprehensive Strategic Partnership, a 2022 trade agreement, and close QUAD coordination, underpinned by one of the largest Indian student and diaspora populations in the developed world.",
+  "diplomaticRelationsEstablished": "1944",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Critical minerals",
+      "description": "Australia is a key supplier of lithium and rare-earth minerals for India's clean-energy manufacturing."
+    },
+    {
+      "area": "Education",
+      "description": "Indian students form one of the largest international student cohorts in Australia."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "ECTA implementation and critical minerals cooperation deepen",
+      "description": "Implementation of the 2022 Economic Cooperation and Trade Agreement continued, alongside growing critical-minerals and education cooperation.",
+      "whyItMatters": "One of India's fastest-deepening major-power relationships, anchored by the QUAD and shared Indo-Pacific interests."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2009,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Australia establish a Strategic Partnership."
+    },
+    {
+      "year": 2020,
+      "title": "Comprehensive Strategic Partnership",
+      "category": "Summit",
+      "description": "Ties are elevated to a Comprehensive Strategic Partnership during a virtual summit amid the COVID-19 pandemic."
+    },
+    {
+      "year": 2022,
+      "title": "Economic Cooperation and Trade Agreement (ECTA)",
+      "category": "Trade",
+      "description": "An interim trade agreement enters into force, sharply reducing tariffs on a wide range of goods ahead of a fuller Comprehensive Economic Cooperation Agreement."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Economic Cooperation and Trade Agreement",
+      "year": 2022,
+      "category": "Trade",
+      "description": "Interim bilateral trade agreement significantly reducing tariffs, precursor to a fuller CECA.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Malabar Exercise",
+      "type": "Joint Naval Exercise",
+      "description": "Permanent participant alongside India, the US and Japan."
+    },
+    {
+      "name": "AUSINDEX",
+      "type": "Joint Naval Exercise",
+      "description": "Bilateral India-Australia naval exercise."
+    }
+  ],
+  "trade": {
+    "exports": "~$8 billion",
+    "imports": "~$16 billion",
+    "total": "~$24 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Refined petroleum, pharmaceuticals, engineering goods",
+    "majorImports": "Coal, gold, copper ores, critical minerals",
+    "majorSectors": "Coal, critical minerals, education services"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "QUAD",
+      "detail": "Founding member alongside the US and Japan."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

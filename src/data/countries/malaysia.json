@@ -1,0 +1,127 @@
+{
+  "id": "malaysia",
+  "name": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇲🇾",
+  "iso2": "MY",
+  "iso3": "MYS",
+  "tier": "major",
+  "relationship": {
+    "overall": 54,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 65,
+      "defence": 50,
+      "political": 50,
+      "technology": 45,
+      "energy": 35,
+      "peopleToPeople": 75,
+      "multilateral": 50,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Malaysia maintain substantial trade and a large diaspora-linked people-to-people relationship, though ties saw friction in 2019-20 after Malaysian leaders publicly criticised India's Kashmir and citizenship policies.",
+  "complexity": "Comments by then-PM Mahathir Mohamad on Kashmir and the Citizenship Amendment Act in 2019-20 triggered informal Indian trade friction, including reduced palm oil purchases; ties have since stabilised.",
+  "diplomaticRelationsEstablished": "1957",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Palm oil trade",
+      "description": "India is one of the largest export markets for Malaysian palm oil."
+    },
+    {
+      "area": "Diaspora ties",
+      "description": "A large ethnic Indian community in Malaysia anchors strong people-to-people links."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Political rhetoric sensitivity",
+      "description": "Periodic friction over Malaysian commentary on India's domestic policies affects trade sentiment."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Trade ties stabilize after earlier political friction",
+      "description": "Bilateral trade, including palm oil purchases, continued to recover after the 2019-20 friction over political commentary.",
+      "whyItMatters": "Shows the relationship's underlying economic ballast reasserting itself after a period of strain."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2010,
+      "title": "Comprehensive Economic Cooperation Agreement",
+      "category": "Trade",
+      "description": "India-Malaysia CECA enters into force, liberalising trade in goods and services."
+    },
+    {
+      "year": 2019,
+      "title": "Diplomatic Friction over Kashmir Remarks",
+      "category": "Diplomacy",
+      "description": "Malaysian PM Mahathir Mohamad's UN remarks on Kashmir prompt informal Indian trade pushback on Malaysian palm oil."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Economic Cooperation Agreement",
+      "year": 2010,
+      "category": "Trade",
+      "description": "Bilateral trade and investment liberalisation agreement.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Harimau Shakti",
+      "type": "Joint Exercise",
+      "description": "Bilateral army exercise between India and Malaysia."
+    }
+  ],
+  "trade": {
+    "exports": "~$8.5 billion",
+    "imports": "~$8 billion",
+    "total": "~$16.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, chemicals, iron and steel",
+    "majorImports": "Palm oil, refined petroleum, electronics",
+    "majorSectors": "Palm oil, petroleum, electronics"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "ASEAN",
+      "detail": "Engaged through India's Act East Policy."
+    },
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

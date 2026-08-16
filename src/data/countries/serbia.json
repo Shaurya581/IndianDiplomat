@@ -1,0 +1,54 @@
+{
+  "id": "serbia",
+  "name": "Serbia",
+  "capital": "Belgrade",
+  "region": "Europe",
+  "subregion": "Balkans",
+  "flag": "🇷🇸",
+  "iso2": "RS",
+  "iso3": "SRB",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Serbia maintain historically warm relations rooted in the Non-Aligned Movement, with India supportive of Serbia's position on Kosovo's status.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic NAM ties",
+      "description": "India's traditional support for Serbian territorial integrity dates to the Non-Aligned Movement era."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "egypt",
+  "name": "Egypt",
+  "capital": "Cairo",
+  "region": "Africa",
+  "subregion": "North Africa",
+  "flag": "🇪🇬",
+  "iso2": "EG",
+  "iso3": "EGY",
+  "tier": "major",
+  "relationship": {
+    "overall": 60,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 78,
+      "strategic": 70,
+      "economic": 60,
+      "defence": 45,
+      "political": 78,
+      "technology": 40,
+      "energy": 35,
+      "peopleToPeople": 45,
+      "multilateral": 55,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "India and Egypt, historic Non-Aligned Movement partners since the Nehru-Nasser era, elevated ties to a Strategic Partnership in 2023 when President Sisi served as India's Republic Day chief guest.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Suez Canal trade route",
+      "description": "Egypt's Suez Canal is critical to India's trade with Europe and the Mediterranean."
+    },
+    {
+      "area": "Historic NAM solidarity",
+      "description": "Long-standing political trust rooted in shared Non-Aligned Movement leadership."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2023-2024",
+      "title": "Strategic Partnership implementation continues",
+      "description": "Following the 2023 elevation to a Strategic Partnership during President Sisi's Republic Day visit, both sides continued expanding trade and defence engagement.",
+      "whyItMatters": "Consolidates a historic Non-Aligned Movement relationship into a more concrete modern partnership."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1955,
+      "title": "Non-Aligned Movement Solidarity",
+      "category": "Diplomacy",
+      "description": "PM Nehru and President Nasser jointly help found the Non-Aligned Movement, anchoring decades of India-Egypt political solidarity."
+    },
+    {
+      "year": 2023,
+      "title": "Strategic Partnership Established",
+      "category": "Summit",
+      "description": "President Abdel Fattah el-Sisi attends India's Republic Day as chief guest, and both nations elevate ties to a Strategic Partnership."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Egypt Strategic Partnership",
+      "year": 2023,
+      "category": "Diplomacy",
+      "description": "Framework agreement covering trade, defence, and cultural cooperation.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Exercise Cyclone",
+      "type": "Joint Exercise",
+      "description": "Bilateral special forces exercise between India and Egypt."
+    }
+  ],
+  "trade": {
+    "exports": "~$3.7 billion",
+    "imports": "~$2 billion",
+    "total": "~$5.7 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, engineering goods, textiles",
+    "majorImports": "Crude petroleum, fertilisers, minerals",
+    "majorSectors": "Petroleum, fertilisers, Suez Canal trade transit"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Non-Aligned Movement",
+      "detail": "Founding partners."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

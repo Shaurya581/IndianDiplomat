@@ -1,0 +1,59 @@
+{
+  "id": "lebanon",
+  "name": "Lebanon",
+  "capital": "Beirut",
+  "region": "Middle East",
+  "subregion": "Levant",
+  "flag": "🇱🇧",
+  "iso2": "LB",
+  "iso3": "LBN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Balanced",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India maintains modest diplomatic ties with Lebanon and has long contributed troops to the UN peacekeeping force (UNIFIL) in southern Lebanon, amid concern over the country's political and economic instability.",
+  "diplomaticRelationsEstablished": "1954",
+  "majorAreasOfCooperation": [
+    {
+      "area": "UN peacekeeping",
+      "description": "Indian troops have served in UNIFIL for decades."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Regional instability",
+      "description": "Lebanon's economic crisis and regional conflict spillover constrain deeper engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

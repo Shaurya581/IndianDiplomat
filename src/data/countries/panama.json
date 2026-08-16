@@ -1,0 +1,54 @@
+{
+  "id": "panama",
+  "name": "Panama",
+  "capital": "Panama City",
+  "region": "Central America",
+  "subregion": "Central America",
+  "flag": "🇵🇦",
+  "iso2": "PA",
+  "iso3": "PAN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Panama maintain steady relations, with the Panama Canal relevant to Indian shipping routes and a modest Indian business presence in the Colón Free Trade Zone.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Panama Canal shipping route",
+      "description": "A significant transit route for Indian trade with the Americas."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

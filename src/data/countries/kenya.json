@@ -1,0 +1,101 @@
+{
+  "id": "kenya",
+  "name": "Kenya",
+  "capital": "Nairobi",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇰🇪",
+  "iso2": "KE",
+  "iso3": "KEN",
+  "tier": "major",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 30,
+      "political": 58,
+      "technology": 40,
+      "energy": 20,
+      "peopleToPeople": 65,
+      "multilateral": 45,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "Kenya serves as India's key gateway to East Africa, with historic ties dating to 19th-century Indian railway labour migration and a substantial resident Indian-origin community today.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "East Africa gateway",
+      "description": "Kenya anchors much of India's trade and development engagement with East Africa."
+    },
+    {
+      "area": "Historic diaspora ties",
+      "description": "A long-settled Indian-origin community remains prominent in Kenyan business and civic life."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "East Africa gateway role continues",
+      "description": "Kenya remained India's primary commercial and diplomatic gateway to East Africa, with steady pharmaceutical and engineering-goods trade.",
+      "whyItMatters": "A stable, historically rooted relationship without major recent shifts."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1948,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India establishes a diplomatic mission in Nairobi even prior to Kenyan independence, reflecting the historic Indian community presence dating to railway construction in the 1890s."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$2 billion",
+    "imports": "~$0.15 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, machinery, iron and steel",
+    "majorImports": "Tea, soda ash, vegetables",
+    "majorSectors": "Pharmaceuticals, engineering goods"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "Indian Ocean Rim Association",
+      "detail": "Joint member on Indian Ocean cooperation."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

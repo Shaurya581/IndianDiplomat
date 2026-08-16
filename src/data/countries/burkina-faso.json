@@ -1,0 +1,54 @@
+{
+  "id": "burkina-faso",
+  "name": "Burkina Faso",
+  "capital": "Ouagadougou",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇧🇫",
+  "iso2": "BF",
+  "iso3": "BFA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 42,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 42,
+      "strategic": 42,
+      "economic": 42,
+      "defence": 42,
+      "political": 42,
+      "technology": 42,
+      "energy": 42,
+      "peopleToPeople": 42,
+      "multilateral": 42,
+      "momentum": 42
+    }
+  },
+  "shortSummary": "India's engagement with Burkina Faso is modest and has been complicated by political instability following recent military coups.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Political instability",
+      "description": "Recent coups and a shifting regional security situation in the Sahel constrain deeper ties."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "switzerland",
+  "name": "Switzerland",
+  "capital": "Bern",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇨🇭",
+  "iso2": "CH",
+  "iso3": "CHE",
+  "tier": "major",
+  "relationship": {
+    "overall": 56,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 55,
+      "economic": 75,
+      "defence": 30,
+      "political": 62,
+      "technology": 65,
+      "energy": 20,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 78
+    }
+  },
+  "shortSummary": "Switzerland led the European Free Trade Association to a landmark trade and investment pact with India in 2024, committing to substantial investment pledges over 15 years in exchange for tariff reductions.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Investment and trade agreement implementation",
+      "description": "TEPA is expected to substantially expand Swiss investment in India over the coming decade."
+    },
+    {
+      "area": "Pharmaceuticals and precision engineering",
+      "description": "Swiss pharmaceutical and machinery firms maintain a significant Indian market presence."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024-03",
+      "title": "India-EFTA trade agreement signed",
+      "description": "India signed the Trade and Economic Partnership Agreement with the European Free Trade Association (Switzerland, Norway, Iceland, Liechtenstein), with EFTA committing to a $100 billion investment target over 15 years.",
+      "whyItMatters": "One of India's most significant trade agreements with European economies, led by Switzerland."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2024,
+      "title": "India-EFTA Trade and Economic Partnership Agreement (TEPA)",
+      "category": "Trade",
+      "description": "India signs a trade and investment agreement with the European Free Trade Association (Switzerland, Norway, Iceland, Liechtenstein), with EFTA states committing to a $100 billion investment target over 15 years in exchange for phased tariff cuts.",
+      "impact": "One of India's most significant trade agreements with European economies to date."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-EFTA Trade and Economic Partnership Agreement",
+      "year": 2024,
+      "category": "Trade",
+      "description": "Trade and investment agreement between India and the four EFTA states, led by Switzerland.",
+      "status": "Signed"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$1.5 billion",
+    "imports": "~$16 billion (largely gold and precious metals)",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Organic chemicals, textiles, machinery",
+    "majorImports": "Gold, precious metals, pharmaceuticals, machinery",
+    "majorSectors": "Precious metals, pharmaceuticals, watches"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "EFTA",
+      "detail": "Switzerland led EFTA negotiations with India culminating in the 2024 TEPA."
+    },
+    {
+      "organization": "World Economic Forum",
+      "detail": "Switzerland hosts the WEF, a regular venue for high-level Indian economic diplomacy."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

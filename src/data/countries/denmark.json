@@ -1,0 +1,54 @@
+{
+  "id": "denmark",
+  "name": "Denmark",
+  "capital": "Copenhagen",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "flag": "🇩🇰",
+  "iso2": "DK",
+  "iso3": "DNK",
+  "tier": "standard",
+  "relationship": {
+    "overall": 64,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 64,
+      "strategic": 64,
+      "economic": 64,
+      "defence": 64,
+      "political": 64,
+      "technology": 64,
+      "energy": 64,
+      "peopleToPeople": 64,
+      "multilateral": 64,
+      "momentum": 64
+    }
+  },
+  "shortSummary": "India and Denmark elevated ties to a Green Strategic Partnership in 2020, focused on renewable energy, water management and sustainable urban development.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Green Strategic Partnership",
+      "description": "A 2020 framework centred on renewable energy and sustainability cooperation."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "eswatini",
+  "name": "Eswatini",
+  "capital": "Mbabane",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇸🇿",
+  "iso2": "SZ",
+  "iso3": "SWZ",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India and Eswatini maintain modest Commonwealth-linked relations with limited trade.",
+  "diplomaticRelationsEstablished": "1970",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

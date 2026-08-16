@@ -1,0 +1,145 @@
+{
+  "id": "united-kingdom",
+  "name": "United Kingdom",
+  "officialName": "United Kingdom of Great Britain and Northern Ireland",
+  "capital": "London",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇬🇧",
+  "iso2": "GB",
+  "iso3": "GBR",
+  "tier": "major",
+  "relationship": {
+    "overall": 73,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 80,
+      "strategic": 75,
+      "economic": 78,
+      "defence": 65,
+      "political": 78,
+      "technology": 75,
+      "energy": 40,
+      "peopleToPeople": 88,
+      "multilateral": 60,
+      "momentum": 78
+    }
+  },
+  "shortSummary": "India and the UK share a Comprehensive Strategic Partnership, culminating in a long-negotiated Free Trade Agreement signed in 2025, alongside a large Indian diaspora that anchors deep societal ties.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Free trade agreement implementation",
+      "description": "The 2025 CETA is expected to reshape goods and services trade over the coming years."
+    },
+    {
+      "area": "Education and diaspora ties",
+      "description": "A large Indian student population and diaspora underpin deep societal links."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Extradition disputes",
+      "description": "Long-running extradition cases involving economic offenders have periodically strained ties."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2025-07",
+      "title": "India-UK free trade agreement signed",
+      "description": "After nearly three years of negotiation, India and the UK signed a Comprehensive Economic and Trade Agreement, one of the UK's largest post-Brexit trade deals.",
+      "whyItMatters": "A major milestone expected to substantially expand two-way trade and investment, and a signature achievement of the 2021 \"Roadmap 2030\" partnership."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2004,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and the UK establish a Strategic Partnership covering trade, defence and education."
+    },
+    {
+      "year": 2021,
+      "title": "Comprehensive Strategic Partnership and Roadmap 2030",
+      "category": "Diplomacy",
+      "description": "India and the UK launch a \"Roadmap 2030\" elevating ties to a Comprehensive Strategic Partnership and setting a course toward a free trade agreement."
+    },
+    {
+      "year": 2025,
+      "title": "India-UK Free Trade Agreement Signed",
+      "category": "Trade",
+      "description": "After years of negotiation, India and the UK sign a Comprehensive Economic and Trade Agreement, one of the UK's largest post-Brexit trade deals.",
+      "impact": "Expected to substantially expand two-way trade and investment across goods and services."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-UK Comprehensive Economic and Trade Agreement",
+      "year": 2025,
+      "category": "Trade",
+      "description": "Bilateral free trade agreement covering goods, services and investment, concluded after nearly three years of negotiation.",
+      "status": "Signed"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Konkan Shakti",
+      "type": "Joint Exercise",
+      "description": "Tri-service exercise between the Indian and UK armed forces."
+    }
+  ],
+  "trade": {
+    "exports": "~$12.9 billion",
+    "imports": "~$8.6 billion",
+    "total": "~$21.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, pharmaceuticals, textiles",
+    "majorImports": "Machinery, precious stones and metals, chemicals",
+    "majorSectors": "Pharmaceuticals, IT services, financial services"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Keir Starmer",
+      "position": "Prime Minister of the United Kingdom",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

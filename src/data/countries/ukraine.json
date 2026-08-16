@@ -1,0 +1,114 @@
+{
+  "id": "ukraine",
+  "name": "Ukraine",
+  "capital": "Kyiv",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "flag": "🇺🇦",
+  "iso2": "UA",
+  "iso3": "UKR",
+  "tier": "major",
+  "relationship": {
+    "overall": 37,
+    "level": "POOR",
+    "status": "Balanced",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 45,
+      "economic": 30,
+      "defence": 20,
+      "political": 45,
+      "technology": 25,
+      "energy": 15,
+      "peopleToPeople": 55,
+      "multilateral": 35,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India has sought to balance humanitarian and economic engagement with Ukraine against its deep strategic ties to Russia, evacuating thousands of Indian students in 2022 and later becoming the first Indian prime minister to visit Kyiv since independence.",
+  "complexity": "India has consistently abstained on UN resolutions condemning Russia's invasion, calling instead for dialogue and diplomacy, a position that has drawn both criticism and appreciation from different quarters internationally.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Humanitarian evacuation",
+      "description": "Operation Ganga safely evacuated over 20,000 Indian nationals in 2022."
+    },
+    {
+      "area": "Agricultural trade",
+      "description": "Ukraine remains a significant, if war-disrupted, supplier of sunflower oil to India."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Balancing act with Russia",
+      "description": "India's deep defence ties with Russia constrain the depth of its engagement with Ukraine."
+    },
+    {
+      "title": "War-related trade disruption",
+      "description": "The conflict disrupted India's sunflower oil and fertiliser imports from the Black Sea region."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024-08",
+      "title": "PM Modi's Kyiv visit",
+      "description": "PM Modi visited Kyiv in August 2024, the first visit by an Indian prime minister since Ukraine's independence, meeting President Zelenskyy.",
+      "whyItMatters": "A symbolically significant re-engagement, signalling India's intent to maintain channels with Ukraine even as it sustains deep ties with Russia."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2022,
+      "title": "Operation Ganga",
+      "category": "Conflict",
+      "description": "India launches a large-scale evacuation of over 20,000 Indian students from Ukraine following Russia's full-scale invasion.",
+      "impact": "One of India's largest civilian evacuation operations, though it also exposed the deaths of Indian nationals caught in the conflict."
+    },
+    {
+      "year": 2024,
+      "title": "PM Modi's Visit to Kyiv",
+      "category": "Diplomacy",
+      "description": "PM Modi visits Kyiv, the first visit by an Indian prime minister since Ukraine's independence, days after also visiting Moscow — signalling India's balancing approach."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.5 billion",
+    "imports": "~$1.5 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, machinery",
+    "majorImports": "Sunflower oil, fertilisers, defence components",
+    "majorSectors": "Edible oils, agriculture inputs"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "United Nations",
+      "detail": "India has abstained on most UN resolutions condemning Russia's invasion, calling for dialogue."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

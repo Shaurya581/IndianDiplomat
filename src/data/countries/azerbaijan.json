@@ -1,0 +1,54 @@
+{
+  "id": "azerbaijan",
+  "name": "Azerbaijan",
+  "capital": "Baku",
+  "region": "Central Asia",
+  "subregion": "Caucasus",
+  "flag": "🇦🇿",
+  "iso2": "AZ",
+  "iso3": "AZE",
+  "tier": "standard",
+  "relationship": {
+    "overall": 35,
+    "level": "POOR",
+    "status": "Strained",
+    "dimensions": {
+      "diplomatic": 35,
+      "strategic": 35,
+      "economic": 35,
+      "defence": 35,
+      "political": 35,
+      "technology": 35,
+      "energy": 35,
+      "peopleToPeople": 35,
+      "multilateral": 35,
+      "momentum": 35
+    }
+  },
+  "shortSummary": "India-Azerbaijan relations are relatively distant, shaped by Azerbaijan's close alignment with Pakistan and Türkiye in a trilateral \"brotherhood\" framework that has drawn Indian wariness.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Alignment with Pakistan and Türkiye",
+      "description": "Azerbaijan's close ties with Pakistan and Türkiye have limited the warmth of its relationship with India."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

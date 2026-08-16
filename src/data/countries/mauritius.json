@@ -1,0 +1,134 @@
+{
+  "id": "mauritius",
+  "name": "Mauritius",
+  "capital": "Port Louis",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇲🇺",
+  "iso2": "MU",
+  "iso3": "MUS",
+  "tier": "major",
+  "relationship": {
+    "overall": 80,
+    "level": "EXCELLENT",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 92,
+      "strategic": 90,
+      "economic": 80,
+      "defence": 80,
+      "political": 90,
+      "technology": 60,
+      "energy": 30,
+      "peopleToPeople": 98,
+      "multilateral": 60,
+      "momentum": 82
+    }
+  },
+  "shortSummary": "Mauritius is arguably India's closest partner in Africa, with roughly two-thirds of its population of Indian origin, deep maritime-security cooperation, and historically one of the largest sources of foreign investment into India.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Maritime security",
+      "description": "Agalega Island facilities support joint Indian Ocean surveillance."
+    },
+    {
+      "area": "Diaspora and investment ties",
+      "description": "Roughly two-thirds of the Mauritian population is of Indian origin, and Mauritius has historically been a major investment conduit into India."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Agalega infrastructure and CECPA implementation continue",
+      "description": "Maritime infrastructure cooperation on Agalega Island and implementation of the 2021 trade agreement continued deepening.",
+      "whyItMatters": "Mauritius remains India's closest African partner by nearly every measure, from demographics to strategic trust."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1968,
+      "title": "Establishment of Diplomatic Relations at Independence",
+      "category": "Diplomacy",
+      "description": "India establishes diplomatic relations with Mauritius immediately upon its independence, reflecting deep historic ties to its majority Indian-origin population."
+    },
+    {
+      "year": 2015,
+      "title": "Agalega Island Infrastructure Agreement",
+      "category": "Defence",
+      "description": "India and Mauritius agree to develop infrastructure on Agalega Island to support maritime domain awareness in the western Indian Ocean.",
+      "impact": "Strengthened India's Indian Ocean maritime security posture."
+    },
+    {
+      "year": 2021,
+      "title": "Comprehensive Economic Cooperation and Partnership Agreement",
+      "category": "Trade",
+      "description": "India and Mauritius sign India's first trade agreement with an African nation."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Economic Cooperation and Partnership Agreement",
+      "year": 2021,
+      "category": "Trade",
+      "description": "India's first trade agreement with any African nation.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Agalega Island facilities",
+      "type": "Maritime Infrastructure",
+      "description": "Jointly developed airstrip and jetty supporting Indian Ocean maritime surveillance."
+    }
+  ],
+  "trade": {
+    "exports": "~$0.5 billion",
+    "imports": "~$0.03 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, pharmaceuticals, cereals",
+    "majorImports": "Requires verification",
+    "majorSectors": "Investment routing, maritime security cooperation"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Colombo Security Conclave",
+      "detail": "India-led regional maritime security grouping including Mauritius."
+    },
+    {
+      "organization": "Indian Ocean Rim Association",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

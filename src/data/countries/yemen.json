@@ -1,0 +1,54 @@
+{
+  "id": "yemen",
+  "name": "Yemen",
+  "capital": "Sana'a",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇾🇪",
+  "iso2": "YE",
+  "iso3": "YEM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 35,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 35,
+      "strategic": 35,
+      "economic": 35,
+      "defence": 35,
+      "political": 35,
+      "technology": 35,
+      "energy": 35,
+      "peopleToPeople": 35,
+      "multilateral": 35,
+      "momentum": 35
+    }
+  },
+  "shortSummary": "India's ties with Yemen have been constrained by the country's ongoing civil war; India conducted a major evacuation of its nationals and other foreign citizens during the 2015 crisis (Operation Raahat).",
+  "diplomaticRelationsEstablished": "1968",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Civil war",
+      "description": "Yemen's prolonged conflict severely limits the scope of bilateral engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

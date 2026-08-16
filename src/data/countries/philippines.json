@@ -1,0 +1,121 @@
+{
+  "id": "philippines",
+  "name": "Philippines",
+  "capital": "Manila",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇵🇭",
+  "iso2": "PH",
+  "iso3": "PHL",
+  "tier": "major",
+  "relationship": {
+    "overall": 56,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 70,
+      "economic": 45,
+      "defence": 70,
+      "political": 60,
+      "technology": 40,
+      "energy": 20,
+      "peopleToPeople": 50,
+      "multilateral": 55,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "India-Philippines ties have strengthened significantly through defence trade, highlighted by the Philippines becoming the first export customer for India's BrahMos supersonic cruise missile.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence exports",
+      "description": "BrahMos missile sales anchor a growing defence-industrial relationship."
+    },
+    {
+      "area": "Maritime security dialogue",
+      "description": "Shared interest in freedom of navigation in the South China Sea."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Limited trade volume",
+      "description": "Bilateral trade remains modest relative to India's other regional partnerships."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "BrahMos missile deliveries and follow-on interest",
+      "description": "Following the landmark 2022 BrahMos deal, the Philippines continued fielding the system and signalled interest in further defence acquisitions from India.",
+      "whyItMatters": "Cements India's emergence as a credible defence exporter and deepens strategic alignment amid shared South China Sea concerns."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2022,
+      "title": "BrahMos Missile Export Deal",
+      "category": "Defence",
+      "description": "The Philippines signs a $375 million deal to acquire the India-Russia jointly developed BrahMos supersonic cruise missile, India's first major missile export.",
+      "impact": "Marked a landmark moment for India's defence export ambitions and deepened strategic alignment amid shared concerns over the South China Sea."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "BrahMos Supersonic Cruise Missile Deal",
+      "year": 2022,
+      "category": "Defence",
+      "description": "Philippines' acquisition of shore-based anti-ship BrahMos missile batteries from India.",
+      "status": "Delivered"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "BrahMos missile supply",
+      "type": "Arms Export",
+      "description": "India's first major cruise missile export contract."
+    }
+  ],
+  "trade": {
+    "exports": "~$2.5 billion",
+    "imports": "~$0.5 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, refined petroleum, vehicles",
+    "majorImports": "Electronics, semiconductors",
+    "majorSectors": "Defence exports, pharmaceuticals"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "ASEAN",
+      "detail": "Engaged through India's Act East Policy."
+    },
+    {
+      "organization": "East Asia Summit",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

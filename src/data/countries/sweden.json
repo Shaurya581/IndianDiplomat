@@ -1,0 +1,105 @@
+{
+  "id": "sweden",
+  "name": "Sweden",
+  "capital": "Stockholm",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "flag": "🇸🇪",
+  "iso2": "SE",
+  "iso3": "SWE",
+  "tier": "major",
+  "relationship": {
+    "overall": 53,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 45,
+      "political": 58,
+      "technology": 65,
+      "energy": 20,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "Sweden and India cooperate closely on innovation and sustainability through the India-Sweden Innovation Partnership, alongside a long-running (though ultimately unsuccessful for India's fighter tender) defence-industrial dialogue involving Saab.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Clean technology and innovation",
+      "description": "Joint programmes on smart cities, e-mobility and industrial decarbonisation."
+    },
+    {
+      "area": "Telecom",
+      "description": "Ericsson maintains a significant presence in Indian telecom infrastructure."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Innovation partnership continues on clean technology",
+      "description": "The India-Sweden Innovation Partnership continued supporting joint smart-city and clean-technology projects.",
+      "whyItMatters": "A steady, low-profile but substantive technology and sustainability relationship."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2018,
+      "title": "India-Sweden Innovation Partnership",
+      "category": "Technology",
+      "description": "India and Sweden launch a joint innovation partnership focused on sustainability, smart cities and clean technology."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Sweden Innovation Partnership",
+      "year": 2018,
+      "category": "Technology",
+      "description": "Framework for joint innovation projects, particularly in sustainability and clean technology.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$1 billion",
+    "imports": "~$2 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Textiles, chemicals, engineering goods",
+    "majorImports": "Machinery, telecom equipment, paper products",
+    "majorSectors": "Telecom, engineering, defence industry dialogue"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Leadership Group for Industry Transition (LeadIT)",
+      "detail": "Co-founded by India and Sweden to promote low-carbon industrial transition."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

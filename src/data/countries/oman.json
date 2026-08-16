@@ -1,0 +1,123 @@
+{
+  "id": "oman",
+  "name": "Oman",
+  "capital": "Muscat",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇴🇲",
+  "iso2": "OM",
+  "iso3": "OMN",
+  "tier": "major",
+  "relationship": {
+    "overall": 67,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 80,
+      "strategic": 82,
+      "economic": 65,
+      "defence": 70,
+      "political": 70,
+      "technology": 45,
+      "energy": 50,
+      "peopleToPeople": 75,
+      "multilateral": 40,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "Oman is one of India's oldest Gulf partners, offering the Indian Navy access to the strategically located Port of Duqm — a key node for Indian Ocean and Indo-Pacific power projection.",
+  "diplomaticRelationsEstablished": "1955",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Naval logistics access",
+      "description": "Duqm access underpins Indian naval operations toward the Gulf of Aden and Horn of Africa."
+    },
+    {
+      "area": "Fertiliser and energy trade",
+      "description": "Joint ventures in fertiliser production supply Indian agriculture."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued naval access and logistics cooperation",
+      "description": "Indian Navy access to the Port of Duqm continued under the 2018 agreement, supporting operations toward the Gulf of Aden.",
+      "whyItMatters": "Remains one of India's few reliable foreign naval logistics footholds in the western Indian Ocean."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2008,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Oman establish a Strategic Partnership covering defence and energy."
+    },
+    {
+      "year": 2018,
+      "title": "Duqm Port and Military Access Agreement",
+      "category": "Defence",
+      "description": "Oman grants India logistical access to the Port of Duqm, strengthening India's Indian Ocean naval reach.",
+      "impact": "Provided India a rare foreign military logistics foothold near the Arabian Sea and Gulf of Aden."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Duqm Port Access Agreement",
+      "year": 2018,
+      "category": "Defence",
+      "description": "Framework granting the Indian Navy logistical support and access at the Port of Duqm.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Al Najah",
+      "type": "Joint Exercise",
+      "description": "Bilateral army exercise between India and Oman."
+    },
+    {
+      "name": "Duqm access",
+      "type": "Naval Logistics",
+      "description": "Indian naval access and berthing rights at Duqm port."
+    }
+  ],
+  "trade": {
+    "exports": "~$4 billion",
+    "imports": "~$8 billion",
+    "total": "~$12 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Iron and steel, cereals, textiles",
+    "majorImports": "Crude petroleum, LNG, fertilisers",
+    "majorSectors": "Petroleum, fertilisers, maritime logistics"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Indian Ocean Rim Association",
+      "detail": "Joint member on Indian Ocean cooperation."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

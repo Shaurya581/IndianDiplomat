@@ -1,0 +1,54 @@
+{
+  "id": "niger",
+  "name": "Niger",
+  "capital": "Niamey",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇳🇪",
+  "iso2": "NE",
+  "iso3": "NER",
+  "tier": "standard",
+  "relationship": {
+    "overall": 38,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 38,
+      "strategic": 38,
+      "economic": 38,
+      "defence": 38,
+      "political": 38,
+      "technology": 38,
+      "energy": 38,
+      "peopleToPeople": 38,
+      "multilateral": 38,
+      "momentum": 38
+    }
+  },
+  "shortSummary": "India's engagement with Niger is modest and has been complicated by the 2023 military coup and broader Sahel instability.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Post-coup instability",
+      "description": "The 2023 coup and subsequent political isolation have constrained diplomatic engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

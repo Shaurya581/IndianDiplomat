@@ -1,0 +1,49 @@
+{
+  "id": "togo",
+  "name": "Togo",
+  "capital": "Lomé",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇹🇬",
+  "iso2": "TG",
+  "iso3": "TGO",
+  "tier": "standard",
+  "relationship": {
+    "overall": 46,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 46,
+      "strategic": 46,
+      "economic": 46,
+      "defence": 46,
+      "political": 46,
+      "technology": 46,
+      "energy": 46,
+      "peopleToPeople": 46,
+      "multilateral": 46,
+      "momentum": 46
+    }
+  },
+  "shortSummary": "India and Togo maintain modest diplomatic relations with limited trade.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

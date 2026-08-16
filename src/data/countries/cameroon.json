@@ -1,0 +1,49 @@
+{
+  "id": "cameroon",
+  "name": "Cameroon",
+  "capital": "Yaoundé",
+  "region": "Africa",
+  "subregion": "Central Africa",
+  "flag": "🇨🇲",
+  "iso2": "CM",
+  "iso3": "CMR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 52,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 52,
+      "strategic": 52,
+      "economic": 52,
+      "defence": 52,
+      "political": 52,
+      "technology": 52,
+      "energy": 52,
+      "peopleToPeople": 52,
+      "multilateral": 52,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "India and Cameroon maintain modest relations, engaged through India-Africa Forum Summit development cooperation.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

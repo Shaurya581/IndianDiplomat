@@ -1,0 +1,54 @@
+{
+  "id": "sudan",
+  "name": "Sudan",
+  "capital": "Khartoum",
+  "region": "Middle East",
+  "subregion": "North Africa",
+  "flag": "🇸🇩",
+  "iso2": "SD",
+  "iso3": "SDN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 38,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 38,
+      "strategic": 38,
+      "economic": 38,
+      "defence": 38,
+      "political": 38,
+      "technology": 38,
+      "energy": 38,
+      "peopleToPeople": 38,
+      "multilateral": 38,
+      "momentum": 38
+    }
+  },
+  "shortSummary": "India's relationship with Sudan has been overshadowed by the civil war that erupted in April 2023 between rival military factions; India conducted a large evacuation of its nationals (Operation Kaveri) that year.",
+  "diplomaticRelationsEstablished": "1955",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "2023 civil war",
+      "description": "Ongoing conflict between Sudanese military factions has disrupted diplomatic and economic engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

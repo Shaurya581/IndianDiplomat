@@ -1,0 +1,54 @@
+{
+  "id": "central-african-republic",
+  "name": "Central African Republic",
+  "capital": "Bangui",
+  "region": "Africa",
+  "subregion": "Central Africa",
+  "flag": "🇨🇫",
+  "iso2": "CF",
+  "iso3": "CAF",
+  "tier": "standard",
+  "relationship": {
+    "overall": 38,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 38,
+      "strategic": 38,
+      "economic": 38,
+      "defence": 38,
+      "political": 38,
+      "technology": 38,
+      "energy": 38,
+      "peopleToPeople": 38,
+      "multilateral": 38,
+      "momentum": 38
+    }
+  },
+  "shortSummary": "India's engagement with the Central African Republic is minimal, constrained by the country's prolonged instability.",
+  "diplomaticRelationsEstablished": "1970",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Ongoing instability",
+      "description": "Chronic conflict has severely limited bilateral engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

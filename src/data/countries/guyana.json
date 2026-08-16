@@ -1,0 +1,54 @@
+{
+  "id": "guyana",
+  "name": "Guyana",
+  "capital": "Georgetown",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇬🇾",
+  "iso2": "GY",
+  "iso3": "GUY",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "Guyana is home to a large Indo-Guyanese population (roughly 40% of the population), anchoring close ties, alongside growing Indian interest in Guyana's recent oil discoveries.",
+  "diplomaticRelationsEstablished": "1966",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indo-Guyanese diaspora",
+      "description": "One of the largest Indian-origin populations by share in the world underpins deep cultural ties."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

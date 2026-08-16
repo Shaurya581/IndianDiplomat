@@ -1,0 +1,54 @@
+{
+  "id": "timor-leste",
+  "name": "Timor-Leste",
+  "capital": "Dili",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇹🇱",
+  "iso2": "TL",
+  "iso3": "TLS",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India established relations with Timor-Leste following its 2002 independence; ties remain limited but positive, with India supporting its integration into regional forums.",
+  "diplomaticRelationsEstablished": "2002",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Capacity building",
+      "description": "India has offered training slots and development cooperation as Timor-Leste builds state institutions."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

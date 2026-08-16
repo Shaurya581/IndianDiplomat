@@ -1,0 +1,54 @@
+{
+  "id": "trinidad-and-tobago",
+  "name": "Trinidad and Tobago",
+  "capital": "Port of Spain",
+  "region": "Caribbean",
+  "subregion": "Caribbean",
+  "flag": "🇹🇹",
+  "iso2": "TT",
+  "iso3": "TTO",
+  "tier": "standard",
+  "relationship": {
+    "overall": 68,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 68,
+      "strategic": 68,
+      "economic": 68,
+      "defence": 68,
+      "political": 68,
+      "technology": 68,
+      "energy": 68,
+      "peopleToPeople": 68,
+      "multilateral": 68,
+      "momentum": 68
+    }
+  },
+  "shortSummary": "Trinidad and Tobago is home to one of the world's largest Indo-Caribbean communities (roughly 35-40% of the population traces Indian descent), anchoring India's closest relationship in the Caribbean.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indo-Caribbean diaspora",
+      "description": "A large population of Indian descent, dating to 19th-century indentured labour migration, drives exceptionally deep cultural ties."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

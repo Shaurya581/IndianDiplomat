@@ -1,0 +1,54 @@
+{
+  "id": "namibia",
+  "name": "Namibia",
+  "capital": "Windhoek",
+  "region": "Africa",
+  "subregion": "Southern Africa",
+  "flag": "🇳🇦",
+  "iso2": "NA",
+  "iso3": "NAM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Namibia maintain warm relations, with growing interest in uranium supply given Namibia's significant reserves.",
+  "diplomaticRelationsEstablished": "1990",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Uranium resource interest",
+      "description": "Namibia's substantial uranium reserves are of growing interest to India's nuclear energy programme."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

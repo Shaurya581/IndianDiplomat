@@ -1,0 +1,55 @@
+{
+  "id": "palestine",
+  "name": "Palestine",
+  "officialName": "State of Palestine",
+  "capital": "Ramallah",
+  "region": "Middle East",
+  "subregion": "Levant",
+  "flag": "🇵🇸",
+  "iso2": "PS",
+  "iso3": "PSE",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Balanced",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India has long supported Palestinian statehood, recognizing the PLO in 1974 and consistently backing a two-state solution at the UN, while also maintaining full diplomatic relations with Israel.",
+  "diplomaticRelationsEstablished": "1974",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Development assistance",
+      "description": "India provides scholarships, training and development aid to the Palestinian Authority."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

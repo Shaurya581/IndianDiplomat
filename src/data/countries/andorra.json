@@ -1,0 +1,49 @@
+{
+  "id": "andorra",
+  "name": "Andorra",
+  "capital": "Andorra la Vella",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇦🇩",
+  "iso2": "AD",
+  "iso3": "AND",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India-Andorra relations are minimal given the microstate's size, with largely symbolic diplomatic engagement.",
+  "diplomaticRelationsEstablished": "2006",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

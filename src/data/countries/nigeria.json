@@ -1,0 +1,113 @@
+{
+  "id": "nigeria",
+  "name": "Nigeria",
+  "capital": "Abuja",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇳🇬",
+  "iso2": "NG",
+  "iso3": "NGA",
+  "tier": "major",
+  "relationship": {
+    "overall": 51,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 55,
+      "economic": 65,
+      "defence": 30,
+      "political": 55,
+      "technology": 35,
+      "energy": 65,
+      "peopleToPeople": 50,
+      "multilateral": 45,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "Nigeria is India's largest trading partner in Africa, driven substantially by crude oil imports and a sizeable Indian business community operating across Nigerian manufacturing and services.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Crude oil and LNG",
+      "description": "Nigeria is among India's largest African sources of crude oil and liquefied natural gas."
+    },
+    {
+      "area": "Business and investment community",
+      "description": "A large resident Indian business community operates across Nigerian manufacturing and pharmaceuticals."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued energy and defence-industrial ties",
+      "description": "Nigeria remained one of India's largest African trading partners, with continued crude oil and LNG trade alongside defence-industrial engagement.",
+      "whyItMatters": "Anchors India's broader West African economic engagement."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1962,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and Nigeria establish diplomatic relations shortly after Nigerian independence."
+    },
+    {
+      "year": 2022,
+      "title": "Offshore Patrol Vessel Export",
+      "category": "Defence",
+      "description": "Nigeria takes delivery of an Indian-built offshore patrol vessel, reflecting growing defence-industrial cooperation."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [
+    {
+      "name": "Offshore patrol vessel export",
+      "type": "Arms Export",
+      "description": "Indian shipyard-built patrol vessel delivered to the Nigerian Navy."
+    }
+  ],
+  "trade": {
+    "exports": "~$4 billion",
+    "imports": "~$8 billion",
+    "total": "~$12 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, machinery, vehicles",
+    "majorImports": "Crude petroleum, LNG, cashew nuts",
+    "majorSectors": "Crude oil, LNG, manufacturing investment"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "G20",
+      "detail": "Nigeria participates in G20 outreach engagements."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "russia",
+  "name": "Russia",
+  "officialName": "Russian Federation",
+  "capital": "Moscow",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "flag": "🇷🇺",
+  "iso2": "RU",
+  "iso3": "RUS",
+  "tier": "major",
+  "relationship": {
+    "overall": 78,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 82,
+      "strategic": 90,
+      "economic": 75,
+      "defence": 92,
+      "political": 78,
+      "technology": 55,
+      "energy": 90,
+      "peopleToPeople": 55,
+      "multilateral": 80,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "Russia remains India's \"Special and Privileged Strategic Partner,\" rooted in decades of Soviet-era defence supply, and has grown further as India became a top buyer of discounted Russian crude oil following Western sanctions after 2022.",
+  "complexity": "India has maintained strategic autonomy on the Russia-Ukraine war, abstaining on most UN resolutions condemning Russia while sharply increasing discounted Russian oil imports — a stance that has drawn criticism from Western partners, including tariff pressure from the US in 2025.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence supply",
+      "description": "Russia remains the single largest source of India's legacy and current military hardware."
+    },
+    {
+      "area": "Discounted energy imports",
+      "description": "Russia became India's top crude oil supplier by volume after 2022."
+    },
+    {
+      "area": "Civil nuclear power",
+      "description": "Russian-built reactors at Kudankulam form a major part of India's nuclear generation capacity."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Western sanctions exposure",
+      "description": "India's continued Russian oil and defence purchases have drawn secondary-sanctions risk and, in 2025, US tariff pressure."
+    },
+    {
+      "title": "Legacy defence dependency",
+      "description": "Russia's ability to reliably deliver spares and new platforms has been strained by its own wartime production demands."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024-08",
+      "title": "PM Modi visits Moscow and Kyiv in the same year",
+      "description": "PM Modi visited both Moscow and Kyiv in 2024, the Kyiv visit being the first by an Indian prime minister since Ukrainian independence, underscoring India's balancing approach to the Russia-Ukraine war.",
+      "whyItMatters": "Signals India is actively managing, not ignoring, the diplomatic complexity of sustaining ties with Russia while re-engaging Ukraine."
+    },
+    {
+      "date": "2025",
+      "title": "Russian crude imports remain elevated despite Western pressure",
+      "description": "India continued importing large volumes of discounted Russian crude oil, a practice that became a specific point of friction with the United States during 2025.",
+      "whyItMatters": "The energy relationship with Russia has become entangled with India's ties to Washington, illustrating the strategic trade-offs of India's multi-alignment approach."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1971,
+      "title": "Indo-Soviet Treaty of Peace, Friendship and Cooperation",
+      "category": "Treaty",
+      "description": "India and the Soviet Union sign a treaty of friendship shortly before the Bangladesh Liberation War, cementing Cold War-era strategic alignment."
+    },
+    {
+      "year": 2000,
+      "title": "\"Special and Privileged Strategic Partnership\" Declared",
+      "category": "Diplomacy",
+      "description": "India and Russia formalise a Strategic Partnership during President Putin's visit, later elevated to \"special and privileged\" status in 2010."
+    },
+    {
+      "year": 2018,
+      "title": "S-400 Triumf Air Defence Deal",
+      "category": "Defence",
+      "description": "India signs a $5.4 billion deal for the S-400 missile defence system despite the risk of US sanctions under CAATSA.",
+      "impact": "Tested India-US relations but proceeded, underscoring Indian strategic autonomy in defence procurement."
+    },
+    {
+      "year": 2022,
+      "title": "Surge in Discounted Crude Oil Imports",
+      "category": "Energy",
+      "description": "Following Western sanctions after Russia's invasion of Ukraine, India sharply increases imports of discounted Russian crude, making Russia its top oil supplier by volume.",
+      "impact": "Transformed bilateral trade composition and drew scrutiny, including 2025 US tariff measures targeting Indian purchases of Russian oil."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "S-400 Triumf Air Defence System",
+      "year": 2018,
+      "category": "Defence",
+      "description": "Procurement of the long-range S-400 surface-to-air missile system.",
+      "status": "Delivered (partial)"
+    },
+    {
+      "name": "Kudankulam Nuclear Power Plant Agreements",
+      "year": 2008,
+      "category": "Nuclear",
+      "description": "Russian-assisted construction of India's largest nuclear power plant, with additional reactor units under development.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "INDRA",
+      "type": "Joint Exercise",
+      "description": "Bilateral tri-service military exercise between India and Russia."
+    },
+    {
+      "name": "BrahMos missile",
+      "type": "Joint Development",
+      "description": "India-Russia jointly developed supersonic cruise missile, also exported to third countries such as the Philippines."
+    },
+    {
+      "name": "INS Vikramaditya",
+      "type": "Platform Transfer",
+      "description": "Refurbished Soviet-era aircraft carrier acquired and commissioned by the Indian Navy in 2013."
+    }
+  ],
+  "trade": {
+    "exports": "~$4.3 billion",
+    "imports": "~$61 billion",
+    "total": "~$65 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, tea, engineering goods",
+    "majorImports": "Crude petroleum, coal, fertilisers, defence equipment",
+    "majorSectors": "Crude oil, defence, fertilisers"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BRICS",
+      "detail": "Joint founding member."
+    },
+    {
+      "organization": "SCO",
+      "detail": "Joint member of the Shanghai Cooperation Organisation."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Vladimir Putin",
+      "position": "President of Russia",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

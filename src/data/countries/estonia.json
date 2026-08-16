@@ -1,0 +1,54 @@
+{
+  "id": "estonia",
+  "name": "Estonia",
+  "capital": "Tallinn",
+  "region": "Europe",
+  "subregion": "Baltics",
+  "flag": "🇪🇪",
+  "iso2": "EE",
+  "iso3": "EST",
+  "tier": "standard",
+  "relationship": {
+    "overall": 56,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 56,
+      "strategic": 56,
+      "economic": 56,
+      "defence": 56,
+      "political": 56,
+      "technology": 56,
+      "energy": 56,
+      "peopleToPeople": 56,
+      "multilateral": 56,
+      "momentum": 56
+    }
+  },
+  "shortSummary": "India and Estonia have deepened ties in recent years, particularly around digital governance, given Estonia's reputation as a digital-government pioneer.",
+  "diplomaticRelationsEstablished": "1991",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Digital governance cooperation",
+      "description": "Estonia's e-governance model has informed dialogue with India's own digital public infrastructure push."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

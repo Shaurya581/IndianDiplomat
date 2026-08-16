@@ -1,0 +1,97 @@
+{
+  "id": "belgium",
+  "name": "Belgium",
+  "capital": "Brussels",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇧🇪",
+  "iso2": "BE",
+  "iso3": "BEL",
+  "tier": "major",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 50,
+      "economic": 65,
+      "defence": 30,
+      "political": 55,
+      "technology": 50,
+      "energy": 20,
+      "peopleToPeople": 50,
+      "multilateral": 45,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "Belgium's relationship with India is anchored by the Antwerp-Surat diamond trade pipeline and its role as a diplomatic gateway to the European Union institutions headquartered in Brussels.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Diamond trade",
+      "description": "The Antwerp-Surat pipeline handles a large share of the world's rough and polished diamond trade."
+    },
+    {
+      "area": "EU gateway diplomacy",
+      "description": "Belgium hosts institutions central to India's broader EU engagement, including free trade agreement talks."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Diamond trade and EU-gateway engagement continue",
+      "description": "The Antwerp-Surat diamond pipeline and Belgium's role in broader India-EU engagement continued steadily.",
+      "whyItMatters": "A stable, low-friction relationship anchored in commercial ties and EU institutional access."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1947,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and Belgium establish diplomatic relations shortly after Indian independence."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$6 billion",
+    "imports": "~$5.5 billion",
+    "total": "~$11.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Cut and polished diamonds, textiles, chemicals",
+    "majorImports": "Rough diamonds, machinery, chemicals",
+    "majorSectors": "Diamonds and gems, chemicals"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "European Union dialogue",
+      "detail": "Brussels serves as the seat of EU institutions, making Belgium a key node for India-EU engagement."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

@@ -1,0 +1,140 @@
+{
+  "id": "nepal",
+  "name": "Nepal",
+  "capital": "Kathmandu",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇳🇵",
+  "iso2": "NP",
+  "iso3": "NPL",
+  "tier": "major",
+  "relationship": {
+    "overall": 59,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 60,
+      "economic": 70,
+      "defence": 55,
+      "political": 60,
+      "technology": 45,
+      "energy": 45,
+      "peopleToPeople": 85,
+      "multilateral": 40,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Nepal share an open border, deep cultural and religious ties, and a special relationship formalized in the 1950 Treaty of Peace and Friendship, though the relationship periodically strains over border and sovereignty issues.",
+  "complexity": "A 2020 Nepali political map claiming Kalapani, Lipulekh and Limpiyadhura — territory India administers — remains an unresolved friction point. A 2015-16 border blockade also left lasting resentment in Nepal.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Hydropower",
+      "description": "Indian public-sector investment in Nepali hydropower projects such as Arun-III."
+    },
+    {
+      "area": "Open border and labour mobility",
+      "description": "Nepali citizens can live and work in India without a visa, and vice versa."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Kalapani-Lipulekh border dispute",
+      "description": "Overlapping territorial claims remain unresolved despite multiple rounds of talks."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Hydropower cooperation expands",
+      "description": "Cross-border electricity trade under the 2014 Power Trade Agreement continued expanding, with new hydropower projects progressing.",
+      "whyItMatters": "Deepens economic interdependence even as the Kalapani-Lipulekh border dispute remains unresolved."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1950,
+      "title": "Treaty of Peace and Friendship",
+      "category": "Treaty",
+      "description": "India and Nepal sign a treaty establishing open borders and reciprocal rights of movement, residence and property for citizens."
+    },
+    {
+      "year": 2015,
+      "title": "Border Blockade",
+      "category": "Conflict",
+      "description": "Months-long disruption of supplies at the India-Nepal border coincides with unrest over Nepal's new constitution, straining ties."
+    },
+    {
+      "year": 2020,
+      "title": "Kalapani-Lipulekh Map Dispute",
+      "category": "Diplomacy",
+      "description": "Nepal issues a revised political map including Kalapani, Lipulekh and Limpiyadhura, which India administers; the dispute remains unresolved."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Treaty of Peace and Friendship",
+      "year": 1950,
+      "category": "Treaty",
+      "description": "Foundational treaty granting citizens of each country reciprocal rights.",
+      "status": "Active"
+    },
+    {
+      "name": "Power Trade Agreement",
+      "year": 2014,
+      "category": "Energy",
+      "description": "Framework for cross-border electricity trade and hydropower development.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Honorary Gorkha regiments",
+      "type": "Military Tradition",
+      "description": "India continues the long-standing recruitment of Nepali Gorkha soldiers into the Indian Army."
+    }
+  ],
+  "trade": {
+    "exports": "~$8 billion",
+    "imports": "~$0.7 billion",
+    "total": "~$9 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, vehicles, machinery, iron and steel",
+    "majorImports": "Textiles, juice, cardamom, chemicals",
+    "majorSectors": "Hydropower, petroleum, connectivity"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BIMSTEC",
+      "detail": "Joint member on regional connectivity."
+    },
+    {
+      "organization": "SAARC",
+      "detail": "Founding member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

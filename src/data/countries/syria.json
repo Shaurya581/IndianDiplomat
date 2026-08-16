@@ -1,0 +1,54 @@
+{
+  "id": "syria",
+  "name": "Syria",
+  "capital": "Damascus",
+  "region": "Middle East",
+  "subregion": "Levant",
+  "flag": "🇸🇾",
+  "iso2": "SY",
+  "iso3": "SYR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 35,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 35,
+      "strategic": 35,
+      "economic": 35,
+      "defence": 35,
+      "political": 35,
+      "technology": 35,
+      "energy": 35,
+      "peopleToPeople": 35,
+      "multilateral": 35,
+      "momentum": 35
+    }
+  },
+  "shortSummary": "India's engagement with Syria has been cautious and limited amid the country's prolonged civil war, deepened by the collapse of the Assad government in December 2024 and the resulting political transition.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Post-2024 political transition",
+      "description": "The fall of the Assad government has introduced significant uncertainty into an already-limited relationship."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

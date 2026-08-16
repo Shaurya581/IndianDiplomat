@@ -1,0 +1,59 @@
+{
+  "id": "venezuela",
+  "name": "Venezuela",
+  "capital": "Caracas",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇻🇪",
+  "iso2": "VE",
+  "iso3": "VEN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 42,
+    "level": "AVERAGE",
+    "status": "Balanced",
+    "dimensions": {
+      "diplomatic": 42,
+      "strategic": 42,
+      "economic": 42,
+      "defence": 42,
+      "political": 42,
+      "technology": 42,
+      "energy": 42,
+      "peopleToPeople": 42,
+      "multilateral": 42,
+      "momentum": 42
+    }
+  },
+  "shortSummary": "India has maintained pragmatic energy-focused ties with Venezuela, importing crude oil intermittently as US sanctions policy has shifted, while the country's political and economic crisis has limited broader engagement.",
+  "diplomaticRelationsEstablished": "1959",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Crude oil imports",
+      "description": "India has periodically imported Venezuelan crude oil depending on the prevailing US sanctions regime."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "US sanctions exposure",
+      "description": "Venezuela's sanctions status has repeatedly disrupted the energy trade relationship."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

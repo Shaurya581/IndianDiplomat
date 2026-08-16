@@ -1,0 +1,49 @@
+{
+  "id": "liberia",
+  "name": "Liberia",
+  "capital": "Monrovia",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇱🇷",
+  "iso2": "LR",
+  "iso3": "LBR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 45,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 45,
+      "strategic": 45,
+      "economic": 45,
+      "defence": 45,
+      "political": 45,
+      "technology": 45,
+      "energy": 45,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India and Liberia maintain modest relations; India has historically contributed to UN peacekeeping efforts in the country.",
+  "diplomaticRelationsEstablished": "1957",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

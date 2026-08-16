@@ -1,0 +1,54 @@
+{
+  "id": "finland",
+  "name": "Finland",
+  "capital": "Helsinki",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "flag": "🇫🇮",
+  "iso2": "FI",
+  "iso3": "FIN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Finland maintain a steady, low-friction relationship centred on clean technology and education cooperation.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Clean technology",
+      "description": "Finnish firms are engaged in Indian water and circular-economy projects."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

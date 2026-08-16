@@ -1,0 +1,49 @@
+{
+  "id": "chad",
+  "name": "Chad",
+  "capital": "N'Djamena",
+  "region": "Africa",
+  "subregion": "Central Africa",
+  "flag": "🇹🇩",
+  "iso2": "TD",
+  "iso3": "TCD",
+  "tier": "standard",
+  "relationship": {
+    "overall": 42,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 42,
+      "strategic": 42,
+      "economic": 42,
+      "defence": 42,
+      "political": 42,
+      "technology": 42,
+      "energy": 42,
+      "peopleToPeople": 42,
+      "multilateral": 42,
+      "momentum": 42
+    }
+  },
+  "shortSummary": "India's engagement with Chad is modest, constrained by regional Sahel instability.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

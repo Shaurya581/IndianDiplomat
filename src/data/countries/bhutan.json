@@ -1,0 +1,139 @@
+{
+  "id": "bhutan",
+  "name": "Bhutan",
+  "capital": "Thimphu",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇧🇹",
+  "iso2": "BT",
+  "iso3": "BTN",
+  "tier": "major",
+  "relationship": {
+    "overall": 86,
+    "level": "EXCELLENT",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 95,
+      "strategic": 95,
+      "economic": 85,
+      "defence": 90,
+      "political": 92,
+      "technology": 70,
+      "energy": 85,
+      "peopleToPeople": 90,
+      "multilateral": 40,
+      "momentum": 80
+    }
+  },
+  "shortSummary": "Bhutan is one of India's closest partners, bound by a 1949 friendship treaty (revised 2007), deep hydropower cooperation, and shared strategic concern over the tri-junction with China at Doklam.",
+  "diplomaticRelationsEstablished": "1968",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Hydropower",
+      "description": "India is Bhutan's principal partner and export market for hydroelectric power."
+    },
+    {
+      "area": "Development assistance",
+      "description": "India is Bhutan's largest source of development aid and its largest trading partner."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "China border pressure",
+      "description": "Continued Chinese infrastructure activity near the Doklam tri-junction remains a shared strategic concern."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued coordination on the Doklam tri-junction",
+      "description": "India and Bhutan maintained close coordination on border security near Doklam amid continued Chinese infrastructure activity in the area.",
+      "whyItMatters": "Reaffirms Bhutan's position as India's closest and most reliable regional partner on shared strategic concerns."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1949,
+      "title": "Treaty of Friendship",
+      "category": "Treaty",
+      "description": "India and Bhutan sign a treaty of peace and friendship, later revised in 2007 to grant Bhutan greater sovereignty in foreign policy while preserving close cooperation."
+    },
+    {
+      "year": 2017,
+      "title": "Doklam Standoff",
+      "category": "Security",
+      "description": "Indian troops intervene to halt Chinese road construction in Doklam, territory disputed between Bhutan and China near the strategic Siliguri Corridor, leading to a tense 73-day standoff.",
+      "impact": "Reinforced India-Bhutan strategic coordination on border security near the tri-junction."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Bhutan Friendship Treaty (revised)",
+      "year": 2007,
+      "category": "Treaty",
+      "description": "Updated treaty affirming close cooperation while expanding Bhutan's foreign-policy autonomy.",
+      "status": "Active"
+    },
+    {
+      "name": "Hydropower cooperation agreements",
+      "year": 2006,
+      "category": "Energy",
+      "description": "Framework agreements underpinning Indian-financed hydropower projects including Tala, Chukha and Punatsangchhu.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Indian Military Training Team (IMTRAT)",
+      "type": "Training Mission",
+      "description": "Long-standing Indian Army training mission supporting the Royal Bhutan Army."
+    }
+  ],
+  "trade": {
+    "exports": "~$0.5 billion",
+    "imports": "~$0.3 billion (mostly hydropower electricity)",
+    "total": "~$0.8 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, machinery, vehicles",
+    "majorImports": "Electricity, ferrosilicon, dolomite",
+    "majorSectors": "Hydropower, infrastructure development assistance"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BIMSTEC",
+      "detail": "Joint member on regional connectivity."
+    },
+    {
+      "organization": "SAARC",
+      "detail": "Founding member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Jigme Khesar Namgyel Wangchuck",
+      "position": "King (Druk Gyalpo) of Bhutan",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

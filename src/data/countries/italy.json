@@ -1,0 +1,123 @@
+{
+  "id": "italy",
+  "name": "Italy",
+  "capital": "Rome",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "flag": "🇮🇹",
+  "iso2": "IT",
+  "iso3": "ITA",
+  "tier": "major",
+  "relationship": {
+    "overall": 56,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 60,
+      "economic": 65,
+      "defence": 45,
+      "political": 60,
+      "technology": 55,
+      "energy": 30,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India-Italy ties were significantly strained by the 2012 \"Enrica Lexie\" case, in which Italian marines shot Indian fishermen; relations have since normalized following international arbitration and a renewed Strategic Partnership.",
+  "complexity": "The 2012 killing of two Indian fishermen by Italian marines aboard the oil tanker Enrica Lexie triggered a years-long legal and diplomatic dispute, resolved via a 2020 Permanent Court of Arbitration ruling.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Manufacturing and fashion",
+      "description": "Italian machinery and design expertise support Indian manufacturing and textile sectors."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Legacy of the Enrica Lexie case",
+      "description": "The 2012 incident left lasting sensitivities despite legal resolution."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2023-2024",
+      "title": "Strategic Partnership implementation continues",
+      "description": "Following the 2023 elevation to a Strategic Partnership under PM Meloni, both sides continued expanding defence and technology cooperation.",
+      "whyItMatters": "Marks a full normalization from the 2012-2020 Enrica Lexie-era strain."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2012,
+      "title": "Enrica Lexie Incident",
+      "category": "Conflict",
+      "description": "Italian marines aboard the tanker Enrica Lexie shoot and kill two Indian fishermen off the Kerala coast, triggering a prolonged bilateral legal dispute."
+    },
+    {
+      "year": 2020,
+      "title": "Permanent Court of Arbitration Ruling",
+      "category": "Diplomacy",
+      "description": "An international tribunal rules on jurisdiction and compensation in the Enrica Lexie case, allowing both governments to normalise relations."
+    },
+    {
+      "year": 2023,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Italy elevate ties to a Strategic Partnership during PM Meloni's visit."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Italy Strategic Partnership",
+      "year": 2023,
+      "category": "Diplomacy",
+      "description": "Framework agreement expanding defence, trade and technology cooperation.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$6.5 billion",
+    "imports": "~$5 billion",
+    "total": "~$11.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Textiles, machinery, chemicals",
+    "majorImports": "Machinery, precious stones, chemicals",
+    "majorSectors": "Machinery, textiles, fashion"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "Mediterranean dialogue",
+      "detail": "Italy engages India on Indo-Mediterranean connectivity, including IMEC."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

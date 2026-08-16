@@ -1,0 +1,54 @@
+{
+  "id": "liechtenstein",
+  "name": "Liechtenstein",
+  "capital": "Vaduz",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇱🇮",
+  "iso2": "LI",
+  "iso3": "LIE",
+  "tier": "standard",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 50,
+      "economic": 50,
+      "defence": 50,
+      "political": 50,
+      "technology": 50,
+      "energy": 50,
+      "peopleToPeople": 50,
+      "multilateral": 50,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "India-Liechtenstein ties are minimal given the microstate's size, engaged mainly through its EFTA membership and the 2024 India-EFTA trade agreement.",
+  "diplomaticRelationsEstablished": "1996",
+  "majorAreasOfCooperation": [
+    {
+      "area": "EFTA trade agreement",
+      "description": "Covered under the 2024 India-EFTA Trade and Economic Partnership Agreement."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

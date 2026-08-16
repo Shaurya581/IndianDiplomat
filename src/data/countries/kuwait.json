@@ -1,0 +1,54 @@
+{
+  "id": "kuwait",
+  "name": "Kuwait",
+  "capital": "Kuwait City",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇰🇼",
+  "iso2": "KW",
+  "iso3": "KWT",
+  "tier": "standard",
+  "relationship": {
+    "overall": 72,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 72,
+      "strategic": 72,
+      "economic": 72,
+      "defence": 72,
+      "political": 72,
+      "technology": 72,
+      "energy": 72,
+      "peopleToPeople": 72,
+      "multilateral": 72,
+      "momentum": 72
+    }
+  },
+  "shortSummary": "Kuwait is a significant energy supplier to India and home to roughly a million Indian expatriates; ties were elevated with a Strategic Partnership announced during PM Modi's December 2024 visit — the first Indian prime ministerial visit to Kuwait in decades.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Energy and diaspora ties",
+      "description": "Kuwait is a major crude and LPG supplier, and its large Indian workforce drives substantial remittances."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

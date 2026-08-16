@@ -1,0 +1,151 @@
+{
+  "id": "turkiye",
+  "name": "Türkiye",
+  "officialName": "Republic of Türkiye",
+  "capital": "Ankara",
+  "region": "Middle East",
+  "subregion": "Eastern Mediterranean",
+  "flag": "🇹🇷",
+  "iso2": "TR",
+  "iso3": "TUR",
+  "tier": "major",
+  "relationship": {
+    "overall": 30,
+    "level": "POOR",
+    "status": "Strained",
+    "dimensions": {
+      "diplomatic": 30,
+      "strategic": 25,
+      "economic": 45,
+      "defence": 15,
+      "political": 25,
+      "technology": 30,
+      "energy": 35,
+      "peopleToPeople": 50,
+      "multilateral": 30,
+      "momentum": 20
+    }
+  },
+  "shortSummary": "India-Türkiye relations are strained by Ankara's consistent vocal support for Pakistan's position on Kashmir at international forums and its defence ties to Islamabad, with tensions sharpening further in 2025.",
+  "complexity": "President Erdogan's repeated references to Kashmir in UN General Assembly speeches, and Türkiye's reported military and drone supplies to Pakistan — including during 2025 India-Pakistan tensions — have kept political relations cool, prompting an informal Indian consumer boycott of Turkish tourism and trade despite continued bilateral consultations.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Humanitarian relief",
+      "description": "India's 2023 earthquake relief effort was among its largest overseas disaster-response deployments."
+    },
+    {
+      "area": "Trade",
+      "description": "Bilateral trade has continued despite political friction."
+    },
+    {
+      "area": "Bilateral consultations",
+      "description": "Foreign-ministry-level consultations have continued through the tension, keeping a formal diplomatic channel open."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Türkiye-Pakistan defence ties",
+      "description": "Türkiye's consistent diplomatic support and reported defence supply relationship with Pakistan strains ties with India, particularly during periods of India-Pakistan tension."
+    },
+    {
+      "title": "Consumer-level boycott sentiment",
+      "description": "A 2025 informal Indian boycott of Turkish tourism and goods reflects how far public sentiment has soured alongside official relations."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2025",
+      "title": "Tensions sharpen over Türkiye-Pakistan defence ties",
+      "description": "Reports of Turkish-origin drones and matériel linked to Pakistan during a period of heightened India-Pakistan tension drew sharp criticism in India, alongside an informal consumer-level boycott movement affecting Turkish tourism and trade.",
+      "whyItMatters": "Pushed an already-cool political relationship toward its most strained point in years, with defence-related distrust now compounding the long-standing dispute over Kashmir statements."
+    },
+    {
+      "date": "2025",
+      "title": "Bilateral consultations resume",
+      "description": "Despite the tension, foreign-ministry-level bilateral consultations between India and Türkiye continued during the year, keeping a formal diplomatic channel open.",
+      "whyItMatters": "A sign that both sides are managing the strain through diplomatic channels rather than severing engagement entirely — evidence the relationship is strained but not fully ruptured."
+    },
+    {
+      "date": "2023",
+      "title": "Operation Dost earthquake relief",
+      "description": "India sent search-and-rescue teams and humanitarian assistance to Türkiye after the devastating February 2023 earthquakes.",
+      "whyItMatters": "A rare recent instance of warmth in an otherwise cool relationship, though it did not translate into a broader political thaw in subsequent years."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2019,
+      "title": "Erdogan's UNGA Kashmir Remarks",
+      "category": "Diplomacy",
+      "description": "President Erdogan raises Kashmir at the UN General Assembly, drawing formal Indian protest."
+    },
+    {
+      "year": 2023,
+      "title": "Operation Dost Earthquake Relief",
+      "category": "Diplomacy",
+      "description": "India dispatches search-and-rescue teams and humanitarian aid to Türkiye following the devastating February 2023 earthquakes, under \"Operation Dost.\"",
+      "impact": "Provided a rare moment of warmth in an otherwise cool political relationship."
+    },
+    {
+      "year": 2025,
+      "title": "Drone Supply Reports Deepen Distrust",
+      "category": "Security",
+      "description": "Reports of Turkish-origin drones and matériel linked to Pakistan during a period of heightened India-Pakistan tension draw sharp criticism in India, alongside an informal consumer-level boycott of Turkish tourism and trade.",
+      "impact": "Pushed the relationship to its most strained point in years, compounding the long-standing dispute over Kashmir statements."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$6.6 billion",
+    "imports": "~$3 billion",
+    "total": "~$9.6 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, engineering goods, chemicals",
+    "majorImports": "Marble, minerals, machinery",
+    "majorSectors": "Petroleum products, textiles, machinery"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "United Nations",
+      "detail": "Frequent divergence on South Asia-related resolutions."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10",
+  "aliases": [
+    "Turkey"
+  ]
+}

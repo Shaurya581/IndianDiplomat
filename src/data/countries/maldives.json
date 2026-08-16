@@ -1,0 +1,131 @@
+{
+  "id": "maldives",
+  "name": "Maldives",
+  "capital": "Malé",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇲🇻",
+  "iso2": "MV",
+  "iso3": "MDV",
+  "tier": "major",
+  "relationship": {
+    "overall": 47,
+    "level": "AVERAGE",
+    "status": "Balanced",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 50,
+      "economic": 55,
+      "defence": 45,
+      "political": 45,
+      "technology": 40,
+      "energy": 20,
+      "peopleToPeople": 60,
+      "multilateral": 35,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India has long been Maldives' first responder in crises, but the relationship cooled sharply after the 2023 election of President Mohamed Muizzu on an \"India Out\" platform, followed by a partial reset through 2024-25.",
+  "complexity": "President Muizzu's 2023 campaign demanded the withdrawal of Indian military personnel stationed in the Maldives; relations were further strained by a 2024 social-media row involving Maldivian officials, though high-level visits since have sought to stabilise ties.",
+  "diplomaticRelationsEstablished": "1965",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Disaster and medical evacuation support",
+      "description": "India remains a first responder for medical evacuations and humanitarian needs."
+    },
+    {
+      "area": "Maritime security",
+      "description": "Joint EEZ surveillance and hydrographic cooperation, though scaled back after 2023."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "\"India Out\" political sentiment",
+      "description": "Domestic Maldivian politics has periodically mobilised around reducing Indian military and strategic presence."
+    },
+    {
+      "title": "Strategic competition with China",
+      "description": "Maldives has deepened ties with China on infrastructure financing, complicating India's traditional primacy."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Diplomatic reset following 2023-24 friction",
+      "description": "Following tension over the \"India Out\" campaign and a 2024 social-media row, both governments worked through high-level visits to stabilise relations, including a Comprehensive Economic and Maritime Security Partnership.",
+      "whyItMatters": "Shows the relationship recovering from its lowest point in years, though the underlying strategic competition with China persists."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1988,
+      "title": "Operation Cactus",
+      "category": "Security",
+      "description": "Indian armed forces intervene rapidly to foil a coup attempt against the Maldivian government, cementing India's role as regional security guarantor."
+    },
+    {
+      "year": 2023,
+      "title": "Muizzu Election and \"India Out\" Campaign",
+      "category": "Diplomacy",
+      "description": "Mohamed Muizzu is elected president on a platform seeking the withdrawal of Indian military personnel, marking a diplomatic realignment toward China."
+    },
+    {
+      "year": 2024,
+      "title": "Diplomatic Reset",
+      "category": "Diplomacy",
+      "description": "Following friction over remarks by Maldivian officials, both governments work to stabilise relations through high-level visits and economic assistance."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Economic and Maritime Security Partnership",
+      "year": 2024,
+      "category": "Diplomacy",
+      "description": "Framework agreement reaffirming economic and maritime cooperation amid the broader diplomatic reset.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.5 billion",
+    "imports": "~$0.03 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Foodgrains, construction materials, pharmaceuticals",
+    "majorImports": "Scrap metal, fish products",
+    "majorSectors": "Tourism-linked trade, construction, healthcare"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "SAARC",
+      "detail": "Founding member."
+    },
+    {
+      "organization": "Colombo Security Conclave",
+      "detail": "India-led regional maritime security grouping."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

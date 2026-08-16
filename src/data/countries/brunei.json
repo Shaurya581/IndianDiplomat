@@ -1,0 +1,55 @@
+{
+  "id": "brunei",
+  "name": "Brunei",
+  "officialName": "Brunei Darussalam",
+  "capital": "Bandar Seri Begawan",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇧🇳",
+  "iso2": "BN",
+  "iso3": "BRN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India and Brunei maintain cordial, low-friction ties within the ASEAN framework, with defence training exchanges and modest hydrocarbon-linked trade.",
+  "diplomaticRelationsEstablished": "1984",
+  "majorAreasOfCooperation": [
+    {
+      "area": "ASEAN engagement",
+      "description": "Brunei is engaged through India's Act East Policy and ASEAN defence dialogues."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

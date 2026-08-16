@@ -1,0 +1,54 @@
+{
+  "id": "kyrgyzstan",
+  "name": "Kyrgyzstan",
+  "capital": "Bishkek",
+  "region": "Central Asia",
+  "subregion": "Central Asia",
+  "flag": "🇰🇬",
+  "iso2": "KG",
+  "iso3": "KGZ",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Kyrgyzstan maintain steady ties through defence training exchanges and the India-Central Asia Summit framework.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence training",
+      "description": "India provides military training slots to Kyrgyz armed forces personnel."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

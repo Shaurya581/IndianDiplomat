@@ -1,0 +1,54 @@
+{
+  "id": "peru",
+  "name": "Peru",
+  "capital": "Lima",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇵🇪",
+  "iso2": "PE",
+  "iso3": "PER",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Peru maintain steady relations, with a Preferential Trade Agreement in force since 2016 and growing pharmaceutical exports.",
+  "diplomaticRelationsEstablished": "1963",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Preferential Trade Agreement",
+      "description": "In force since 2016, covering a range of tariff lines."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

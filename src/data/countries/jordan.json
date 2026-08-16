@@ -1,0 +1,54 @@
+{
+  "id": "jordan",
+  "name": "Jordan",
+  "capital": "Amman",
+  "region": "Middle East",
+  "subregion": "Levant",
+  "flag": "🇯🇴",
+  "iso2": "JO",
+  "iso3": "JOR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 60,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 60,
+      "economic": 60,
+      "defence": 60,
+      "political": 60,
+      "technology": 60,
+      "energy": 60,
+      "peopleToPeople": 60,
+      "multilateral": 60,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "India and Jordan maintain cordial relations with growing defence cooperation and steady phosphate and fertiliser trade.",
+  "diplomaticRelationsEstablished": "1950",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Fertiliser trade",
+      "description": "Jordan is a source of phosphates important to Indian fertiliser production."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

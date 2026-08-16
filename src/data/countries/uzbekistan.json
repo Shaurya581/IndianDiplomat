@@ -1,0 +1,54 @@
+{
+  "id": "uzbekistan",
+  "name": "Uzbekistan",
+  "capital": "Tashkent",
+  "region": "Central Asia",
+  "subregion": "Central Asia",
+  "flag": "🇺🇿",
+  "iso2": "UZ",
+  "iso3": "UZB",
+  "tier": "standard",
+  "relationship": {
+    "overall": 60,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 60,
+      "economic": 60,
+      "defence": 60,
+      "political": 60,
+      "technology": 60,
+      "energy": 60,
+      "peopleToPeople": 60,
+      "multilateral": 60,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "Uzbekistan is one of India's more active Central Asian partners, with growing defence cooperation and participation in the India-Central Asia Summit framework.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence and security cooperation",
+      "description": "Joint military exercises and training exchanges have expanded in recent years."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

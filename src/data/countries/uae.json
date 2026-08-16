@@ -1,0 +1,145 @@
+{
+  "id": "uae",
+  "name": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇦🇪",
+  "iso2": "AE",
+  "iso3": "ARE",
+  "tier": "major",
+  "relationship": {
+    "overall": 81,
+    "level": "EXCELLENT",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 88,
+      "strategic": 85,
+      "economic": 90,
+      "defence": 65,
+      "political": 82,
+      "technology": 75,
+      "energy": 70,
+      "peopleToPeople": 95,
+      "multilateral": 75,
+      "momentum": 75
+    }
+  },
+  "shortSummary": "The UAE is one of India's most consequential Gulf partners — a top-three trading partner, home to roughly 3.5 million Indian expatriates, and India's first Comprehensive Economic Partnership Agreement signed in the 2020s.",
+  "diplomaticRelationsEstablished": "1972",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indian diaspora and remittances",
+      "description": "Roughly 3.5 million Indian expatriates make the UAE one of India's largest remittance sources."
+    },
+    {
+      "area": "Renewable energy and sovereign investment",
+      "description": "UAE sovereign funds are major investors in Indian infrastructure and renewable energy."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "CEPA-driven trade continues rapid growth",
+      "description": "Non-oil bilateral trade continued expanding rapidly under the 2022 Comprehensive Economic Partnership Agreement.",
+      "whyItMatters": "The UAE has become one of the clearest success stories of India's post-2020 trade agreement push."
+    },
+    {
+      "date": "2025",
+      "title": "Continued I2U2 and Gulf connectivity initiatives",
+      "description": "India and the UAE continued advancing I2U2 grouping initiatives alongside broader India-Middle East-Europe Economic Corridor (IMEC) planning.",
+      "whyItMatters": "Positions the UAE as a central node in India's wider West Asia and connectivity strategy."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2015,
+      "title": "Comprehensive Strategic Partnership",
+      "category": "Summit",
+      "description": "India and the UAE upgrade relations to a Comprehensive Strategic Partnership during PM Modi's visit."
+    },
+    {
+      "year": 2022,
+      "title": "Comprehensive Economic Partnership Agreement (CEPA)",
+      "category": "Trade",
+      "description": "India-UAE CEPA enters into force, one of India's fastest-negotiated and most comprehensive modern trade agreements.",
+      "impact": "Sharply accelerated non-oil bilateral trade."
+    },
+    {
+      "year": 2023,
+      "title": "UPI-Domestic Card Payment Linkage",
+      "category": "Technology",
+      "description": "India and the UAE link digital payment systems, enabling India's UPI to operate in the UAE."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Economic Partnership Agreement",
+      "year": 2022,
+      "category": "Trade",
+      "description": "Comprehensive tariff-reduction and services agreement, among the most extensive India has concluded.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Desert Eagle",
+      "type": "Joint Air Exercise",
+      "description": "Bilateral air force exercise between India and the UAE."
+    }
+  ],
+  "trade": {
+    "exports": "~$36 billion",
+    "imports": "~$48 billion",
+    "total": "~$84 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, gems and jewellery, engineering goods",
+    "majorImports": "Crude petroleum, gold, petroleum gases",
+    "majorSectors": "Petroleum, gems and jewellery, remittances"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "I2U2",
+      "detail": "India, Israel, UAE and US grouping focused on infrastructure and technology cooperation."
+    },
+    {
+      "organization": "Gulf Cooperation Council dialogue",
+      "detail": "India engages the GCC as a bloc alongside bilateral UAE ties."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Sheikh Mohamed bin Zayed Al Nahyan",
+      "position": "President of the United Arab Emirates",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

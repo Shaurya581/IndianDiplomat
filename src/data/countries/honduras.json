@@ -1,0 +1,49 @@
+{
+  "id": "honduras",
+  "name": "Honduras",
+  "capital": "Tegucigalpa",
+  "region": "Central America",
+  "subregion": "Central America",
+  "flag": "🇭🇳",
+  "iso2": "HN",
+  "iso3": "HND",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India and Honduras maintain modest diplomatic relations with limited trade.",
+  "diplomaticRelationsEstablished": "1979",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

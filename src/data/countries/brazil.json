@@ -1,0 +1,111 @@
+{
+  "id": "brazil",
+  "name": "Brazil",
+  "capital": "Brasília",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇧🇷",
+  "iso2": "BR",
+  "iso3": "BRA",
+  "tier": "major",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 75,
+      "strategic": 65,
+      "economic": 60,
+      "defence": 35,
+      "political": 68,
+      "technology": 50,
+      "energy": 30,
+      "peopleToPeople": 40,
+      "multilateral": 85,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "Brazil and India are BRICS founding partners and co-members of the IBSA Dialogue Forum, cooperating closely on Global South advocacy including joint calls for UN Security Council reform.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Agricultural trade",
+      "description": "Brazil supplies substantial edible oil and fertiliser volumes to India."
+    },
+    {
+      "area": "Global South advocacy",
+      "description": "Joint coordination on UN reform, climate finance and trade positions."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued BRICS and G20 coordination",
+      "description": "India and Brazil continued close coordination through BRICS and the G20 (Brazil hosted the G20 in 2024, following India's 2023 presidency), including joint advocacy for UN Security Council reform.",
+      "whyItMatters": "Reflects a deepening Global South partnership beyond bilateral trade alone."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2003,
+      "title": "IBSA Dialogue Forum Founded",
+      "category": "Diplomacy",
+      "description": "India, Brazil and South Africa launch the IBSA grouping to coordinate positions among major Global South democracies."
+    },
+    {
+      "year": 2010,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Brazil elevate bilateral ties to a Strategic Partnership."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$7 billion",
+    "imports": "~$8 billion",
+    "total": "~$15 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, chemicals, machinery",
+    "majorImports": "Crude petroleum, edible oils, fertilisers",
+    "majorSectors": "Agriculture, fertilisers, pharmaceuticals"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BRICS",
+      "detail": "Joint founding member."
+    },
+    {
+      "organization": "IBSA",
+      "detail": "Joint founding member alongside South Africa."
+    },
+    {
+      "organization": "G4 nations",
+      "detail": "Joint advocacy for UN Security Council reform alongside Japan and Germany."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

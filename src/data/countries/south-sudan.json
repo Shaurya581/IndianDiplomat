@@ -1,0 +1,54 @@
+{
+  "id": "south-sudan",
+  "name": "South Sudan",
+  "capital": "Juba",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇸🇸",
+  "iso2": "SS",
+  "iso3": "SSD",
+  "tier": "standard",
+  "relationship": {
+    "overall": 40,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 40,
+      "strategic": 40,
+      "economic": 40,
+      "defence": 40,
+      "political": 40,
+      "technology": 40,
+      "energy": 40,
+      "peopleToPeople": 40,
+      "multilateral": 40,
+      "momentum": 40
+    }
+  },
+  "shortSummary": "India has contributed peacekeeping forces to the UN mission in South Sudan (UNMISS) since the country's 2011 independence, amid its recurring internal conflict.",
+  "diplomaticRelationsEstablished": "2011",
+  "majorAreasOfCooperation": [
+    {
+      "area": "UN peacekeeping",
+      "description": "India is a significant troop contributor to the UN mission in South Sudan."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

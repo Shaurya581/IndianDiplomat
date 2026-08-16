@@ -1,0 +1,103 @@
+{
+  "id": "ethiopia",
+  "name": "Ethiopia",
+  "capital": "Addis Ababa",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇪🇹",
+  "iso2": "ET",
+  "iso3": "ETH",
+  "tier": "major",
+  "relationship": {
+    "overall": 43,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 50,
+      "economic": 45,
+      "defence": 20,
+      "political": 55,
+      "technology": 35,
+      "energy": 15,
+      "peopleToPeople": 40,
+      "multilateral": 40,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "India is a significant development partner for Ethiopia, extending lines of credit for infrastructure and industrial projects, with Ethiopian Airlines and Indian pharmaceutical exports anchoring commercial ties.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Development financing",
+      "description": "Indian lines of credit support Ethiopian industrial and infrastructure projects."
+    },
+    {
+      "area": "Telemedicine and education",
+      "description": "Pan-African e-Network connectivity projects link Indian expertise to Ethiopian institutions."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Development financing continues",
+      "description": "Indian lines of credit continued supporting Ethiopian industrial and infrastructure projects.",
+      "whyItMatters": "A steady development partnership largely insulated from Ethiopia's domestic political volatility."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1948,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and Ethiopia establish diplomatic relations shortly after Indian independence."
+    },
+    {
+      "year": 2011,
+      "title": "Pan-African e-Network Project",
+      "category": "Technology",
+      "description": "India extends telemedicine and tele-education connectivity to Ethiopia under the Pan-African e-Network initiative."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.6 billion",
+    "imports": "~$0.06 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, machinery, plastics",
+    "majorImports": "Pulses, oilseeds",
+    "majorSectors": "Pharmaceuticals, development financing"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "African Union dialogue",
+      "detail": "India engages the African Union, headquartered in Addis Ababa, as a key multilateral partner."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

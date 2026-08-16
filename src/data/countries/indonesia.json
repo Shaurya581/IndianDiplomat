@@ -1,0 +1,136 @@
+{
+  "id": "indonesia",
+  "name": "Indonesia",
+  "capital": "Jakarta",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇮🇩",
+  "iso2": "ID",
+  "iso3": "IDN",
+  "tier": "major",
+  "relationship": {
+    "overall": 59,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 65,
+      "economic": 60,
+      "defence": 55,
+      "political": 60,
+      "technology": 45,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 65,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Indonesia, the world's two largest democracies in their respective regions, maintain a Strategic Partnership with growing maritime cooperation, though trade remains heavily weighted toward Indonesian coal and palm oil exports.",
+  "diplomaticRelationsEstablished": "1951",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Maritime and Indo-Pacific cooperation",
+      "description": "Access to Sabang port supports Indian Ocean surveillance near the Malacca Strait."
+    },
+    {
+      "area": "Energy imports",
+      "description": "Indonesia is a major supplier of thermal coal to Indian power plants."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Trade imbalance",
+      "description": "India runs a substantial deficit driven by coal and palm oil imports."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued Comprehensive Strategic Partnership implementation",
+      "description": "India and Indonesia continued defence and maritime cooperation under their 2018 Comprehensive Strategic Partnership, including use of Sabang port access.",
+      "whyItMatters": "Steady progress in a relationship central to India's Indo-Pacific maritime strategy."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1951,
+      "title": "Treaty of Friendship",
+      "category": "Treaty",
+      "description": "India and Indonesia sign a treaty of friendship shortly after both gaining independence."
+    },
+    {
+      "year": 2005,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Indonesia elevate ties to a Strategic Partnership."
+    },
+    {
+      "year": 2018,
+      "title": "Comprehensive Strategic Partnership and Sabang Port Access",
+      "category": "Diplomacy",
+      "description": "Ties are further elevated, and Indonesia grants India access to the strategically located Sabang port near the Malacca Strait."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Strategic Partnership",
+      "year": 2018,
+      "category": "Diplomacy",
+      "description": "Framework covering defence, maritime, trade and connectivity cooperation.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Garuda Shakti",
+      "type": "Joint Exercise",
+      "description": "Bilateral special forces exercise between India and Indonesia."
+    }
+  ],
+  "trade": {
+    "exports": "~$8 billion",
+    "imports": "~$21 billion",
+    "total": "~$29 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Refined petroleum, meat, cotton yarn",
+    "majorImports": "Coal, palm oil, chemicals",
+    "majorSectors": "Coal, palm oil, maritime infrastructure"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "ASEAN",
+      "detail": "Engaged through India's Act East Policy."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member; Indonesia hosted the G20 in 2022, India in 2023."
+    },
+    {
+      "organization": "Indian Ocean Rim Association",
+      "detail": "Joint member on Indian Ocean maritime cooperation."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

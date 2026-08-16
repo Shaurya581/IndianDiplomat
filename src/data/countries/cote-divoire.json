@@ -1,0 +1,54 @@
+{
+  "id": "cote-divoire",
+  "name": "Côte d'Ivoire",
+  "capital": "Yamoussoukro",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇨🇮",
+  "iso2": "CI",
+  "iso3": "CIV",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Côte d'Ivoire maintain growing relations, with India a significant purchaser of Ivorian cashew nuts and cocoa.",
+  "diplomaticRelationsEstablished": "1962",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Cashew and cocoa trade",
+      "description": "India is a major buyer of Ivorian agricultural commodities."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

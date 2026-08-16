@@ -1,0 +1,54 @@
+{
+  "id": "kiribati",
+  "name": "Kiribati",
+  "capital": "South Tarawa",
+  "region": "Oceania",
+  "subregion": "Pacific Islands",
+  "flag": "🇰🇮",
+  "iso2": "KI",
+  "iso3": "KIR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 52,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 52,
+      "strategic": 52,
+      "economic": 52,
+      "defence": 52,
+      "political": 52,
+      "technology": 52,
+      "energy": 52,
+      "peopleToPeople": 52,
+      "multilateral": 52,
+      "momentum": 52
+    }
+  },
+  "shortSummary": "India engages Kiribati through the FIPIC framework, with development cooperation focused on climate resilience given the island nation's vulnerability to sea-level rise.",
+  "diplomaticRelationsEstablished": "1979",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Climate resilience cooperation",
+      "description": "India has offered support through FIPIC for climate adaptation given Kiribati's low-lying geography."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

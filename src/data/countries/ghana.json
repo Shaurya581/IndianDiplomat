@@ -1,0 +1,54 @@
+{
+  "id": "ghana",
+  "name": "Ghana",
+  "capital": "Accra",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇬🇭",
+  "iso2": "GH",
+  "iso3": "GHA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India and Ghana maintain a substantial relationship anchored by significant Indian investment and a sizeable resident Indian business community, alongside Commonwealth ties.",
+  "diplomaticRelationsEstablished": "1957",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Investment and trade",
+      "description": "India is among the largest sources of foreign direct investment into Ghana."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

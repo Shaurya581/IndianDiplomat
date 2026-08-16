@@ -1,0 +1,54 @@
+{
+  "id": "cuba",
+  "name": "Cuba",
+  "capital": "Havana",
+  "region": "Caribbean",
+  "subregion": "Caribbean",
+  "flag": "🇨🇺",
+  "iso2": "CU",
+  "iso3": "CUB",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India and Cuba share historic Non-Aligned Movement solidarity, with India providing pharmaceutical trade and humanitarian assistance including fuel and food aid during Cuba's economic difficulties.",
+  "diplomaticRelationsEstablished": "1960",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic NAM solidarity",
+      "description": "Longstanding political trust dating to the Non-Aligned Movement era."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

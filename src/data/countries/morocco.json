@@ -1,0 +1,54 @@
+{
+  "id": "morocco",
+  "name": "Morocco",
+  "capital": "Rabat",
+  "region": "Middle East",
+  "subregion": "North Africa",
+  "flag": "🇲🇦",
+  "iso2": "MA",
+  "iso3": "MAR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "Morocco is a major supplier of phosphates critical to Indian fertiliser production, anchoring a growing and largely friction-free relationship.",
+  "diplomaticRelationsEstablished": "1957",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Phosphate and fertiliser trade",
+      "description": "Morocco's OCP Group is a key long-term supplier for India's fertiliser industry."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

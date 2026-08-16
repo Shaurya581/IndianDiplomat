@@ -1,0 +1,54 @@
+{
+  "id": "austria",
+  "name": "Austria",
+  "capital": "Vienna",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇦🇹",
+  "iso2": "AT",
+  "iso3": "AUT",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India and Austria maintain cordial, EU-mediated ties with modest but steady trade in engineering goods and pharmaceuticals.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Engineering and machinery trade",
+      "description": "Austrian firms are active suppliers of industrial machinery to India."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

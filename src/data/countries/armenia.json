@@ -1,0 +1,57 @@
+{
+  "id": "armenia",
+  "name": "Armenia",
+  "capital": "Yerevan",
+  "region": "Central Asia",
+  "subregion": "Caucasus",
+  "flag": "🇦🇲",
+  "iso2": "AM",
+  "iso3": "ARM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India has become a significant defence supplier to Armenia in recent years, including Pinaka rocket systems and Akash air defence systems, as Armenia diversifies away from traditional Russian sourcing.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence exports",
+      "description": "India has emerged as a notable arms supplier to Armenia, including artillery and air-defence systems."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15",
+  "aliases": [
+    "Hayastan"
+  ]
+}

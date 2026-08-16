@@ -1,0 +1,54 @@
+{
+  "id": "tunisia",
+  "name": "Tunisia",
+  "capital": "Tunis",
+  "region": "Middle East",
+  "subregion": "North Africa",
+  "flag": "🇹🇳",
+  "iso2": "TN",
+  "iso3": "TUN",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Tunisia maintain modest, cordial ties rooted in historic Non-Aligned Movement solidarity, with limited but stable trade.",
+  "diplomaticRelationsEstablished": "1958",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic NAM ties",
+      "description": "Longstanding diplomatic goodwill with limited but growing economic engagement."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

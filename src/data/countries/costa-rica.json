@@ -1,0 +1,49 @@
+{
+  "id": "costa-rica",
+  "name": "Costa Rica",
+  "capital": "San José",
+  "region": "Central America",
+  "subregion": "Central America",
+  "flag": "🇨🇷",
+  "iso2": "CR",
+  "iso3": "CRI",
+  "tier": "standard",
+  "relationship": {
+    "overall": 56,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 56,
+      "strategic": 56,
+      "economic": 56,
+      "defence": 56,
+      "political": 56,
+      "technology": 56,
+      "energy": 56,
+      "peopleToPeople": 56,
+      "multilateral": 56,
+      "momentum": 56
+    }
+  },
+  "shortSummary": "India and Costa Rica maintain friendly, low-friction relations with modest trade and growing interest in renewable energy cooperation.",
+  "diplomaticRelationsEstablished": "1975",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

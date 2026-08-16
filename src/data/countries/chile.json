@@ -1,0 +1,96 @@
+{
+  "id": "chile",
+  "name": "Chile",
+  "capital": "Santiago",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇨🇱",
+  "iso2": "CL",
+  "iso3": "CHL",
+  "tier": "major",
+  "relationship": {
+    "overall": 43,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 45,
+      "economic": 55,
+      "defence": 20,
+      "political": 52,
+      "technology": 40,
+      "energy": 25,
+      "peopleToPeople": 30,
+      "multilateral": 35,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "Chile was among the first Latin American countries to sign a Preferential Trade Agreement with India, and the two cooperate increasingly on copper and lithium supply for India's clean-energy manufacturing needs.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Copper and lithium supply",
+      "description": "Chile is a key supplier of critical minerals for Indian manufacturing and clean-energy goals."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Copper and lithium trade continues",
+      "description": "Chile remained a steady supplier of copper and lithium carbonate to India.",
+      "whyItMatters": "A quiet but strategically relevant relationship for India's critical-minerals needs."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2006,
+      "title": "Preferential Trade Agreement",
+      "category": "Trade",
+      "description": "India and Chile sign a Preferential Trade Agreement, later expanded in scope."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Chile Preferential Trade Agreement",
+      "year": 2006,
+      "category": "Trade",
+      "description": "Tariff-preference agreement covering a range of goods, expanded in subsequent years.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.6 billion",
+    "imports": "~$2 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, textiles, engineering goods",
+    "majorImports": "Copper, lithium carbonate, fruits",
+    "majorSectors": "Copper, critical minerals"
+  },
+  "multilateralRelations": [],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

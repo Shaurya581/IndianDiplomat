@@ -1,0 +1,112 @@
+{
+  "id": "spain",
+  "name": "Spain",
+  "capital": "Madrid",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "flag": "🇪🇸",
+  "iso2": "ES",
+  "iso3": "ESP",
+  "tier": "major",
+  "relationship": {
+    "overall": 54,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 58,
+      "economic": 55,
+      "defence": 55,
+      "political": 58,
+      "technology": 50,
+      "energy": 25,
+      "peopleToPeople": 45,
+      "multilateral": 50,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "Spain's partnership with India gained significant momentum through the 2022 Tata-Airbus C295 military transport aircraft manufacturing agreement, establishing India's first private-sector military aircraft assembly line.",
+  "diplomaticRelationsEstablished": "1956",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence manufacturing",
+      "description": "The Vadodara C295 facility anchors growing India-Spain defence-industrial cooperation."
+    },
+    {
+      "area": "Renewable energy",
+      "description": "Spanish firms are active in Indian wind and solar power development."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "C295 aircraft manufacturing ramps up in Vadodara",
+      "description": "The Airbus-Tata C295 final assembly line in Vadodara continued production, delivering aircraft for the Indian Air Force.",
+      "whyItMatters": "A flagship \"Make in India\" defence-manufacturing success story anchoring the wider relationship."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2022,
+      "title": "C295 Aircraft Manufacturing Agreement",
+      "category": "Defence",
+      "description": "Tata Advanced Systems and Airbus Spain finalise a deal to manufacture C295 military transport aircraft in Vadodara, India — the first time a private Indian company will assemble military aircraft domestically.",
+      "impact": "Marked a milestone for India's \"Make in India\" defence manufacturing push."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "C295 Transport Aircraft Programme",
+      "year": 2022,
+      "category": "Defence",
+      "description": "Airbus-Tata joint programme to manufacture C295 aircraft in India for the Indian Air Force and export markets.",
+      "status": "Under implementation"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "C295 aircraft manufacturing",
+      "type": "Joint Manufacturing",
+      "description": "India's first private-sector military aircraft final assembly line, based in Vadodara, Gujarat."
+    }
+  ],
+  "trade": {
+    "exports": "~$4.5 billion",
+    "imports": "~$4 billion",
+    "total": "~$8.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, textiles, chemicals",
+    "majorImports": "Machinery, iron and steel, vehicles",
+    "majorSectors": "Defence manufacturing, textiles, renewable energy"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

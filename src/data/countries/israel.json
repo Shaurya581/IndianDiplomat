@@ -1,0 +1,146 @@
+{
+  "id": "israel",
+  "name": "Israel",
+  "capital": "Jerusalem",
+  "region": "Middle East",
+  "subregion": "Levant",
+  "flag": "🇮🇱",
+  "iso2": "IL",
+  "iso3": "ISR",
+  "tier": "major",
+  "relationship": {
+    "overall": 73,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 78,
+      "strategic": 85,
+      "economic": 65,
+      "defence": 92,
+      "political": 70,
+      "technology": 80,
+      "energy": 15,
+      "peopleToPeople": 55,
+      "multilateral": 60,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "India and Israel have built a close defence and technology partnership since establishing full diplomatic relations in 1992, with Israel a top-three supplier of Indian military equipment including missile defence and drone systems.",
+  "complexity": "India has traditionally balanced strong Israel ties with longstanding support for Palestinian statehood, a position tested amid the 2023-25 Gaza war, during which India provided humanitarian aid to Gaza while deepening defence ties with Israel.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence technology",
+      "description": "Missile defence, drones and precision-guided munitions form the backbone of the relationship."
+    },
+    {
+      "area": "Agricultural technology",
+      "description": "Israeli drip-irrigation and precision farming techniques are deployed across Indian Centres of Excellence."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Israel-Palestine balance",
+      "description": "India seeks to maintain defence and technology ties with Israel while continuing to support a two-state solution for Palestine."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2023-2024",
+      "title": "Gaza war reshapes regional context",
+      "description": "Following the October 2023 Hamas attack and subsequent Gaza war, India condemned terrorism while continuing to call for humanitarian access and a two-state solution, even as thousands of Indian workers took up construction jobs in Israel amid labour shortages.",
+      "whyItMatters": "Tested India's traditional balancing act between close Israeli defence ties and longstanding support for Palestinian statehood."
+    },
+    {
+      "date": "2024",
+      "title": "Defence and agri-tech cooperation continues",
+      "description": "Core defence procurement and agricultural technology cooperation continued largely unaffected by the regional conflict.",
+      "whyItMatters": "Shows the bilateral relationship's institutional ties proved resilient through a highly volatile regional period."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1992,
+      "title": "Establishment of Full Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and Israel establish full diplomatic relations after decades of limited engagement following India's independence."
+    },
+    {
+      "year": 2017,
+      "title": "First Indian Prime Ministerial Visit",
+      "category": "Diplomacy",
+      "description": "PM Modi becomes the first Indian prime minister to visit Israel, marking a symbolic deepening of ties."
+    },
+    {
+      "year": 2021,
+      "title": "I2U2 Grouping Formed",
+      "category": "Diplomacy",
+      "description": "India, Israel, the UAE and the US launch the I2U2 grouping to coordinate infrastructure and technology investment."
+    },
+    {
+      "year": 2023,
+      "title": "Gaza War and Indian Workforce Deployment",
+      "category": "Conflict",
+      "description": "Following the October 7 Hamas attack and subsequent Gaza war, India expresses condemnation of terrorism while calling for humanitarian access; thousands of Indian workers subsequently take up construction jobs in Israel amid labour shortages."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Agriculture Cooperation MoU / Centres of Excellence",
+      "year": 2006,
+      "category": "Technology",
+      "description": "Framework establishing Indo-Israel Agriculture Project Centres of Excellence across Indian states.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Barak-8 (LR-SAM/MR-SAM)",
+      "type": "Joint Development",
+      "description": "Long-range surface-to-air missile system co-developed by India's DRDO and Israel Aerospace Industries."
+    },
+    {
+      "name": "Heron and Searcher drones",
+      "type": "Arms Import",
+      "description": "Israeli-made unmanned aerial systems widely used by the Indian armed forces."
+    }
+  ],
+  "trade": {
+    "exports": "~$2.3 billion",
+    "imports": "~$1.9 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, chemicals, textiles",
+    "majorImports": "Defence equipment, diamonds, fertilisers",
+    "majorSectors": "Defence, agriculture technology, diamonds"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "I2U2",
+      "detail": "India, Israel, UAE and US grouping on technology and infrastructure cooperation."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

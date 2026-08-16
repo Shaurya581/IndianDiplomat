@@ -1,0 +1,49 @@
+{
+  "id": "tuvalu",
+  "name": "Tuvalu",
+  "capital": "Funafuti",
+  "region": "Oceania",
+  "subregion": "Pacific Islands",
+  "flag": "🇹🇻",
+  "iso2": "TV",
+  "iso3": "TUV",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India engages Tuvalu through the FIPIC framework, with development cooperation focused on climate adaptation given the island nation's extreme vulnerability to sea-level rise.",
+  "diplomaticRelationsEstablished": "2006",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

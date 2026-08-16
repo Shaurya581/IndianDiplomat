@@ -1,0 +1,126 @@
+{
+  "id": "thailand",
+  "name": "Thailand",
+  "capital": "Bangkok",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇹🇭",
+  "iso2": "TH",
+  "iso3": "THA",
+  "tier": "major",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 60,
+      "economic": 55,
+      "defence": 50,
+      "political": 60,
+      "technology": 40,
+      "energy": 30,
+      "peopleToPeople": 65,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Thailand share deep Buddhist and cultural ties, formalized cooperation through the Act East Policy, and are jointly developing the India-Myanmar-Thailand Trilateral Highway to boost overland connectivity.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Buddhist cultural diplomacy",
+      "description": "Shared Buddhist heritage anchors tourism and cultural exchange."
+    },
+    {
+      "area": "Regional connectivity",
+      "description": "Joint infrastructure development under the Act East Policy."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Trilateral Highway delays",
+      "description": "Construction of the connectivity corridor through Myanmar has been repeatedly delayed by security conditions there."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Trilateral Highway construction continues amid delays",
+      "description": "Work on the India-Myanmar-Thailand Trilateral Highway continued, though security conditions in Myanmar kept the project behind schedule.",
+      "whyItMatters": "A key regional connectivity ambition remains only partly realized, limiting the pace of deeper integration."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2003,
+      "title": "Free Trade Framework Agreement",
+      "category": "Trade",
+      "description": "India and Thailand sign an early-harvest trade liberalisation framework, a precursor to broader ASEAN engagement."
+    },
+    {
+      "year": 2012,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Thailand elevate ties to a Strategic Partnership."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Myanmar-Thailand Trilateral Highway",
+      "year": 2002,
+      "category": "Infrastructure",
+      "description": "Overland connectivity project linking India's northeast to Southeast Asia, still under phased completion.",
+      "status": "Under construction"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Maitree Exercise",
+      "type": "Joint Exercise",
+      "description": "Bilateral army exercise between India and Thailand."
+    }
+  ],
+  "trade": {
+    "exports": "~$6 billion",
+    "imports": "~$6 billion",
+    "total": "~$12 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Iron and steel, cotton, machinery",
+    "majorImports": "Chemicals, machinery, rubber products",
+    "majorSectors": "Automobiles, electronics, tourism"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "ASEAN",
+      "detail": "Engaged through India's Act East Policy."
+    },
+    {
+      "organization": "BIMSTEC",
+      "detail": "Joint member on Bay of Bengal regional cooperation."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

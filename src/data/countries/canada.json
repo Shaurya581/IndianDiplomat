@@ -1,0 +1,136 @@
+{
+  "id": "canada",
+  "name": "Canada",
+  "capital": "Ottawa",
+  "region": "North America",
+  "subregion": "North America",
+  "flag": "🇨🇦",
+  "iso2": "CA",
+  "iso3": "CAN",
+  "tier": "major",
+  "relationship": {
+    "overall": 34,
+    "level": "POOR",
+    "status": "Strained",
+    "dimensions": {
+      "diplomatic": 25,
+      "strategic": 30,
+      "economic": 55,
+      "defence": 20,
+      "political": 20,
+      "technology": 45,
+      "energy": 25,
+      "peopleToPeople": 65,
+      "multilateral": 45,
+      "momentum": 30
+    }
+  },
+  "shortSummary": "India-Canada relations, long anchored by one of the world's largest Indian diasporas, deteriorated sharply after September 2023, when Canada publicly alleged Indian government involvement in the killing of Sikh separatist Hardeep Singh Nijjar on Canadian soil.",
+  "complexity": "Prime Minister Trudeau's September 2023 allegation of Indian involvement in Nijjar's killing led to reciprocal expulsion of diplomats and a diplomatic downgrade; India has denied the allegations and cited Canada's tolerance of Khalistani separatist activity as a longstanding concern.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Diaspora and education ties",
+      "description": "A large Indian-origin population and Indian student enrolment in Canadian universities remain significant despite political friction."
+    },
+    {
+      "area": "Agriculture and fertiliser trade",
+      "description": "Canada remains a major supplier of pulses and potash to India."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Khalistan separatism dispute",
+      "description": "India cites Canadian tolerance of Khalistani separatist activity as a core irritant; Canada cites due process for the Nijjar investigation."
+    },
+    {
+      "title": "Suspended trade negotiations",
+      "description": "Talks on a bilateral trade agreement have been repeatedly paused amid the diplomatic rupture."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2023-09",
+      "title": "Nijjar killing rupture",
+      "description": "PM Trudeau alleged \"credible\" links between Indian agents and the killing of Khalistani separatist Hardeep Singh Nijjar in British Columbia; both countries expelled diplomats and downgraded ties.",
+      "whyItMatters": "Triggered the most serious diplomatic rupture in the relationship's history, with trade talks and visa services suspended for extended periods."
+    },
+    {
+      "date": "2024-2025",
+      "title": "Ties remain cool with limited normalization",
+      "description": "Diplomatic relations remained strained through 2024-2025, with only limited steps toward normalization amid continued disagreement over the Khalistan separatism issue.",
+      "whyItMatters": "The rupture has proven more durable than initially expected, keeping one of India's major diaspora relationships in an unusually cold state."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1973,
+      "title": "Establishment of Diplomatic Relations Deepen",
+      "category": "Diplomacy",
+      "description": "India and Canada expand formal diplomatic and consular engagement through the early Cold War period."
+    },
+    {
+      "year": 2015,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Canada elevate ties to a Strategic Partnership during PM Modi's visit to Ottawa."
+    },
+    {
+      "year": 2023,
+      "title": "Nijjar Killing and Diplomatic Rupture",
+      "category": "Diplomacy",
+      "description": "PM Trudeau alleges \"credible\" links between Indian agents and the killing of Khalistani separatist Hardeep Singh Nijjar in British Columbia; both countries expel diplomats and downgrade ties.",
+      "impact": "Triggered the most serious diplomatic rupture in the relationship's history, with trade talks and visa services suspended for extended periods."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$6 billion",
+    "imports": "~$4 billion",
+    "total": "~$10 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, textiles, gems and jewellery",
+    "majorImports": "Pulses, potash, newsprint",
+    "majorSectors": "Agriculture, fertilisers, education services"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

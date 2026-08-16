@@ -1,0 +1,54 @@
+{
+  "id": "comoros",
+  "name": "Comoros",
+  "capital": "Moroni",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇰🇲",
+  "iso2": "KM",
+  "iso3": "COM",
+  "tier": "standard",
+  "relationship": {
+    "overall": 50,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 50,
+      "strategic": 50,
+      "economic": 50,
+      "defence": 50,
+      "political": 50,
+      "technology": 50,
+      "energy": 50,
+      "peopleToPeople": 50,
+      "multilateral": 50,
+      "momentum": 50
+    }
+  },
+  "shortSummary": "India and Comoros maintain friendly relations within the Indian Ocean regional security architecture, including the Colombo Security Conclave framework.",
+  "diplomaticRelationsEstablished": "1976",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Indian Ocean security cooperation",
+      "description": "Engaged through regional maritime security frameworks."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

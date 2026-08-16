@@ -1,0 +1,54 @@
+{
+  "id": "tajikistan",
+  "name": "Tajikistan",
+  "capital": "Dushanbe",
+  "region": "Central Asia",
+  "subregion": "Central Asia",
+  "flag": "🇹🇯",
+  "iso2": "TJ",
+  "iso3": "TJK",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India has valued Tajikistan as a strategic partner in Central Asia, including reported logistics and medical-facility cooperation, given the country's proximity to Afghanistan.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Strategic proximity to Afghanistan",
+      "description": "Tajikistan's location has made it relevant to India's regional security interests."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "cyprus",
+  "name": "Cyprus",
+  "capital": "Nicosia",
+  "region": "Middle East",
+  "subregion": "Eastern Mediterranean",
+  "flag": "🇨🇾",
+  "iso2": "CY",
+  "iso3": "CYP",
+  "tier": "standard",
+  "relationship": {
+    "overall": 62,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 62,
+      "strategic": 62,
+      "economic": 62,
+      "defence": 62,
+      "political": 62,
+      "technology": 62,
+      "energy": 62,
+      "peopleToPeople": 62,
+      "multilateral": 62,
+      "momentum": 62
+    }
+  },
+  "shortSummary": "India and Cyprus share historic Non-Aligned Movement solidarity, with India traditionally supportive of a unified Cyprus; ties today are modest and EU-mediated.",
+  "diplomaticRelationsEstablished": "1960",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic NAM solidarity",
+      "description": "India has long supported Cyprus's territorial integrity and reunification efforts."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

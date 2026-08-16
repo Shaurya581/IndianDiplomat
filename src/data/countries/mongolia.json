@@ -1,0 +1,122 @@
+{
+  "id": "mongolia",
+  "name": "Mongolia",
+  "capital": "Ulaanbaatar",
+  "region": "East Asia",
+  "subregion": "East Asia",
+  "flag": "🇲🇳",
+  "iso2": "MN",
+  "iso3": "MNG",
+  "tier": "major",
+  "relationship": {
+    "overall": 46,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 50,
+      "economic": 35,
+      "defence": 40,
+      "political": 55,
+      "technology": 30,
+      "energy": 25,
+      "peopleToPeople": 55,
+      "multilateral": 35,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India describes Mongolia as a \"spiritual neighbour\" through shared Buddhist heritage, and has extended development financing including a line of credit for Mongolia's first oil refinery.",
+  "diplomaticRelationsEstablished": "1955",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Buddhist cultural ties",
+      "description": "India funds restoration of Buddhist heritage and provides scholarships to Mongolian monks and students."
+    },
+    {
+      "area": "Energy infrastructure",
+      "description": "Indian line-of-credit financing for Mongolia's refinery project."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Landlocked geography",
+      "description": "Mongolia's location between Russia and China constrains the practical scope of direct bilateral trade and connectivity."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued implementation of oil refinery financing",
+      "description": "Work continued on the India-financed oil refinery project in Mongolia under the 2015 line of credit.",
+      "whyItMatters": "A long-running but steady development cooperation track, insulated from broader geopolitical shifts."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1955,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India becomes one of the first countries outside the Soviet bloc to establish diplomatic relations with Mongolia."
+    },
+    {
+      "year": 2015,
+      "title": "\"Spiritual Neighbour\" Visit",
+      "category": "Diplomacy",
+      "description": "PM Modi becomes the first Indian prime minister to visit Mongolia, extending a $1 billion line of credit including for an oil refinery."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Line of Credit for Mongolia Oil Refinery",
+      "year": 2015,
+      "category": "Energy",
+      "description": "Indian concessional financing to help Mongolia build its first domestic oil refinery.",
+      "status": "Under implementation"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Nomadic Elephant",
+      "type": "Joint Exercise",
+      "description": "Annual India-Mongolia joint army exercise."
+    }
+  ],
+  "trade": {
+    "exports": "~$0.03 billion",
+    "imports": "~$0.003 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, machinery",
+    "majorImports": "Copper concentrates",
+    "majorSectors": "Energy infrastructure financing, Buddhist cultural exchange"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "United Nations",
+      "detail": "Cooperate on peacekeeping and multilateral issues."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

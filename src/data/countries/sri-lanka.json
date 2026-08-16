@@ -1,0 +1,148 @@
+{
+  "id": "sri-lanka",
+  "name": "Sri Lanka",
+  "capital": "Sri Jayawardenepura Kotte",
+  "region": "South Asia",
+  "subregion": "South Asia",
+  "flag": "🇱🇰",
+  "iso2": "LK",
+  "iso3": "LKA",
+  "tier": "major",
+  "relationship": {
+    "overall": 56,
+    "level": "AVERAGE",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 55,
+      "economic": 60,
+      "defence": 50,
+      "political": 62,
+      "technology": 45,
+      "energy": 40,
+      "peopleToPeople": 75,
+      "multilateral": 45,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "India and Sri Lanka maintain close ties strengthened by India's $4 billion-plus support package during Sri Lanka's 2022 economic crisis, though the relationship carries legacy sensitivities from the IPKF intervention and Tamil minority issues.",
+  "complexity": "India's 1987-90 IPKF peacekeeping intervention remains a sensitive memory; the unresolved political status of Sri Lanka's Tamil minority (13th Amendment devolution) continues to be a point of engagement.",
+  "diplomaticRelationsEstablished": "1948",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Economic crisis assistance",
+      "description": "India's 2022 support package covered fuel, food and currency stabilisation."
+    },
+    {
+      "area": "Renewable energy",
+      "description": "Indian investment in Sri Lankan solar and wind projects."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Fishermen disputes",
+      "description": "Recurring arrests of Indian and Sri Lankan fishermen crossing the maritime boundary in the Palk Strait."
+    },
+    {
+      "title": "Chinese port investments",
+      "description": "Chinese-financed projects such as Hambantota Port raise Indian strategic concerns."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Post-crisis economic engagement continues",
+      "description": "India continued supporting Sri Lanka's economic recovery following the 2022 crisis, including renewable energy investment.",
+      "whyItMatters": "Consolidated India's standing as Sri Lanka's most reliable crisis-era partner."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1987,
+      "title": "Indo-Sri Lanka Accord and IPKF Deployment",
+      "category": "Conflict",
+      "description": "India deploys the Indian Peace Keeping Force to Sri Lanka to help implement a Tamil devolution accord amid civil war; the mission withdraws in 1990 after significant casualties."
+    },
+    {
+      "year": 2000,
+      "title": "India-Sri Lanka Free Trade Agreement",
+      "category": "Trade",
+      "description": "ISFTA comes into force, becoming one of India's earliest bilateral free trade agreements."
+    },
+    {
+      "year": 2022,
+      "title": "Economic Crisis Support",
+      "category": "Trade",
+      "description": "India extends over $4 billion in credit lines, currency swaps and fuel assistance as Sri Lanka faces its worst economic crisis since independence.",
+      "impact": "Positioned India as Sri Lanka's first responder during the crisis, expanding its regional standing."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "India-Sri Lanka Free Trade Agreement (ISFTA)",
+      "year": 2000,
+      "category": "Trade",
+      "description": "Bilateral free trade agreement covering goods trade between the two countries.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Dosti trilateral exercise",
+      "type": "Joint Exercise",
+      "description": "India, Sri Lanka and Maldives coast guard exercise focused on maritime security."
+    }
+  ],
+  "trade": {
+    "exports": "~$4.1 billion",
+    "imports": "~$0.4 billion",
+    "total": "~$4.5 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Petroleum products, motor vehicles, pharmaceuticals",
+    "majorImports": "Tea, rubber products, spices",
+    "majorSectors": "Petroleum, tourism, renewable energy"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "BIMSTEC",
+      "detail": "Joint member on regional connectivity."
+    },
+    {
+      "organization": "SAARC",
+      "detail": "Founding member."
+    },
+    {
+      "organization": "Colombo Security Conclave",
+      "detail": "India-led regional maritime security grouping including Sri Lanka, Maldives and Mauritius."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

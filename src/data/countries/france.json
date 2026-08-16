@@ -1,0 +1,157 @@
+{
+  "id": "france",
+  "name": "France",
+  "capital": "Paris",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇫🇷",
+  "iso2": "FR",
+  "iso3": "FRA",
+  "tier": "major",
+  "relationship": {
+    "overall": 81,
+    "level": "EXCELLENT",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 92,
+      "strategic": 95,
+      "economic": 65,
+      "defence": 95,
+      "political": 88,
+      "technology": 80,
+      "energy": 35,
+      "peopleToPeople": 65,
+      "multilateral": 70,
+      "momentum": 80
+    }
+  },
+  "shortSummary": "France is one of India's most reliable defence and strategic partners, supplying Rafale fighter jets and Scorpene submarines, and co-founding the International Solar Alliance with India.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Defence-industrial cooperation",
+      "description": "Rafale jets and Scorpene submarines anchor one of India's deepest defence-industrial relationships."
+    },
+    {
+      "area": "Space cooperation",
+      "description": "ISRO and the French space agency CNES collaborate on satellite and launch technology."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued defence-industrial deepening",
+      "description": "India and France continued discussions on additional Rafale acquisitions (including for the Navy) and expanded submarine and space cooperation.",
+      "whyItMatters": "France remains one of India's most consistent major-power defence partners, largely insulated from the volatility seen elsewhere."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1998,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and France become one of India's earliest Strategic Partnerships, notably continuing even after India's 1998 nuclear tests."
+    },
+    {
+      "year": 2005,
+      "title": "Scorpene Submarine Deal",
+      "category": "Defence",
+      "description": "India signs a deal for six French-designed Scorpene-class submarines to be built in India under the P-75 project."
+    },
+    {
+      "year": 2015,
+      "title": "International Solar Alliance Launched",
+      "category": "Diplomacy",
+      "description": "India and France co-launch the International Solar Alliance at the Paris climate conference (COP21)."
+    },
+    {
+      "year": 2016,
+      "title": "Rafale Fighter Jet Deal",
+      "category": "Defence",
+      "description": "India signs a government-to-government deal for 36 Dassault Rafale fighter jets worth approximately €7.8 billion.",
+      "impact": "Significantly modernised the Indian Air Force's fighter fleet and deepened bilateral defence-industrial ties."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Rafale Fighter Jet Agreement",
+      "year": 2016,
+      "category": "Defence",
+      "description": "Procurement of 36 Rafale multirole fighter aircraft for the Indian Air Force.",
+      "status": "Delivered"
+    },
+    {
+      "name": "International Solar Alliance Framework Agreement",
+      "year": 2015,
+      "category": "Energy",
+      "description": "India-France co-founded initiative to mobilise solar energy deployment across sun-rich nations.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Varuna",
+      "type": "Joint Naval Exercise",
+      "description": "Long-running bilateral naval exercise between India and France."
+    },
+    {
+      "name": "Scorpene submarines (Project 75)",
+      "type": "Technology Transfer",
+      "description": "License-built French-designed submarines constructed at Mazagon Dock, Mumbai."
+    }
+  ],
+  "trade": {
+    "exports": "~$7 billion",
+    "imports": "~$5 billion",
+    "total": "~$12 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Machinery, chemicals, textiles",
+    "majorImports": "Aircraft and aircraft parts, machinery, precious stones",
+    "majorSectors": "Defence, aerospace, luxury goods"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "International Solar Alliance",
+      "detail": "Co-founded by India and France."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Emmanuel Macron",
+      "position": "President of France",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "belarus",
+  "name": "Belarus",
+  "capital": "Minsk",
+  "region": "Europe",
+  "subregion": "Eastern Europe",
+  "flag": "🇧🇾",
+  "iso2": "BY",
+  "iso3": "BLR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 48,
+    "level": "AVERAGE",
+    "status": "Balanced",
+    "dimensions": {
+      "diplomatic": 48,
+      "strategic": 48,
+      "economic": 48,
+      "defence": 48,
+      "political": 48,
+      "technology": 48,
+      "energy": 48,
+      "peopleToPeople": 48,
+      "multilateral": 48,
+      "momentum": 48
+    }
+  },
+  "shortSummary": "India maintains a functional but modest relationship with Belarus, with some defence-industrial and pharmaceutical trade continuing despite Belarus's international isolation following the 2020 political crisis and its alignment with Russia.",
+  "diplomaticRelationsEstablished": "1992",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "International isolation",
+      "description": "Belarus's close alignment with Russia and Western sanctions complicate deeper engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

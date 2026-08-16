@@ -1,0 +1,49 @@
+{
+  "id": "mauritania",
+  "name": "Mauritania",
+  "capital": "Nouakchott",
+  "region": "Africa",
+  "subregion": "West Africa",
+  "flag": "🇲🇷",
+  "iso2": "MR",
+  "iso3": "MRT",
+  "tier": "standard",
+  "relationship": {
+    "overall": 45,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 45,
+      "strategic": 45,
+      "economic": 45,
+      "defence": 45,
+      "political": 45,
+      "technology": 45,
+      "energy": 45,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India and Mauritania maintain modest relations, with some fisheries-linked trade interest.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

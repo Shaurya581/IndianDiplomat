@@ -1,0 +1,121 @@
+{
+  "id": "germany",
+  "name": "Germany",
+  "capital": "Berlin",
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "flag": "🇩🇪",
+  "iso2": "DE",
+  "iso3": "DEU",
+  "tier": "major",
+  "relationship": {
+    "overall": 66,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 75,
+      "strategic": 65,
+      "economic": 78,
+      "defence": 45,
+      "political": 72,
+      "technology": 80,
+      "energy": 40,
+      "peopleToPeople": 70,
+      "multilateral": 55,
+      "momentum": 68
+    }
+  },
+  "shortSummary": "Germany is India's largest trading partner in the European Union, with a Strategic Partnership spanning skilled migration, green hydrogen, and substantial German industrial investment in India.",
+  "diplomaticRelationsEstablished": "1951",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Skilled migration",
+      "description": "The 2022 mobility partnership addresses German demand for skilled Indian professionals."
+    },
+    {
+      "area": "Green hydrogen and renewables",
+      "description": "German development financing supports Indian clean-energy infrastructure."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Skilled migration and green energy financing expand",
+      "description": "Implementation of the 2022 migration and mobility partnership continued alongside German financing for Indian green hydrogen projects.",
+      "whyItMatters": "Reflects Germany's growing role as both a labour-market partner and a green-transition financier for India."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2000,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Germany establish a Strategic Partnership."
+    },
+    {
+      "year": 2022,
+      "title": "Migration and Mobility Partnership Agreement",
+      "category": "Diplomacy",
+      "description": "India and Germany sign an agreement to facilitate skilled migration amid Germany's labour shortages."
+    },
+    {
+      "year": 2023,
+      "title": "Green and Sustainable Development Partnership",
+      "category": "Energy",
+      "description": "Germany commits substantial financing toward Indian green hydrogen and renewable energy projects."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Migration and Mobility Partnership Agreement",
+      "year": 2022,
+      "category": "Diplomacy",
+      "description": "Framework easing skilled-worker migration between India and Germany.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$10 billion",
+    "imports": "~$14 billion",
+    "total": "~$24 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Organic chemicals, textiles, machinery",
+    "majorImports": "Machinery, electronics, chemicals",
+    "majorSectors": "Automobiles, machinery, chemicals"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "G4 nations",
+      "detail": "India and Germany jointly advocate UN Security Council reform alongside Japan and Brazil."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

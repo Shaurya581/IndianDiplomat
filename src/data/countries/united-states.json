@@ -1,0 +1,213 @@
+{
+  "id": "united-states",
+  "name": "United States",
+  "officialName": "United States of America",
+  "capital": "Washington, D.C.",
+  "region": "North America",
+  "subregion": "North America",
+  "flag": "🇺🇸",
+  "iso2": "US",
+  "iso3": "USA",
+  "tier": "major",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Complex",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 72,
+      "economic": 38,
+      "defence": 75,
+      "political": 40,
+      "technology": 72,
+      "energy": 40,
+      "peopleToPeople": 82,
+      "multilateral": 72,
+      "momentum": 22
+    }
+  },
+  "shortSummary": "The United States remains India's most significant strategic partner in defence, technology and the Indo-Pacific, but 2025's steep tariffs and friction over Russian oil purchases mark the most serious strain in the relationship in years, pulling the overall analytical score down from its earlier highs even as the underlying strategic partnership continues.",
+  "complexity": "The relationship strengthened dramatically since the 2008 civil nuclear deal and deepened further through QUAD, iCET and the foundational defence agreements — but 2025 brought a genuine rupture on trade, as the Trump administration imposed some of the highest US tariffs on any major partner, explicitly citing India's continued purchases of discounted Russian crude. Defence and technology cooperation have so far proven more insulated from the friction than trade and energy policy.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Critical and emerging technology",
+      "description": "iCET drives cooperation on semiconductors, AI and space technology."
+    },
+    {
+      "area": "Defence trade and interoperability",
+      "description": "The foundational agreements (LEMOA, COMCASA, BECA) underpin growing military interoperability."
+    },
+    {
+      "area": "Diaspora and education",
+      "description": "Roughly 4-5 million Indian-Americans and hundreds of thousands of Indian students anchor deep societal ties."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "2025 tariff dispute",
+      "description": "Renewed trade tensions over tariffs and Russian oil purchases have introduced friction into the relationship."
+    },
+    {
+      "title": "H-1B visa policy uncertainty",
+      "description": "Periodic US immigration policy shifts affect the large Indian skilled-worker and student population."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2025-08",
+      "title": "US imposes steep tariffs tied to Russian oil purchases",
+      "description": "The Trump administration imposed some of the highest US tariffs on any major trading partner on a wide range of Indian exports, explicitly citing India's continued purchases of discounted Russian crude as a factor alongside the broader trade deficit.",
+      "whyItMatters": "The most serious rupture in the economic relationship in years, forcing India to weigh trade diversification even as defence and technology cooperation continued."
+    },
+    {
+      "date": "2025",
+      "title": "Trade negotiations continue amid the tariff dispute",
+      "description": "Despite the tariff measures, both governments kept trade-deal negotiations open, alongside continued iCET technology cooperation and defence engagement.",
+      "whyItMatters": "Signals the relationship's underlying strategic ballast — Indo-Pacific alignment and defence ties have not been suspended even as trade ties are strained."
+    },
+    {
+      "date": "2024",
+      "title": "iCET and defence cooperation continue",
+      "description": "The Initiative on Critical and Emerging Technology continued advancing semiconductor and AI cooperation, and defence trade discussions proceeded under the existing foundational agreements.",
+      "whyItMatters": "Underlines that the strategic and technology tracks remained largely insulated from the trade friction that emerged the following year."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2005,
+      "title": "Next Steps in Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and the US launch a framework for expanded cooperation in civil nuclear energy, space and high-technology trade."
+    },
+    {
+      "year": 2008,
+      "title": "Civil Nuclear Cooperation Agreement (123 Agreement)",
+      "category": "Treaty",
+      "description": "A landmark agreement ends India's three-decade nuclear isolation, enabling civilian nuclear trade despite India remaining outside the NPT.",
+      "impact": "Reshaped India's global nuclear-trade status and anchored the broader strategic partnership."
+    },
+    {
+      "year": 2016,
+      "title": "Major Defense Partner Designation and LEMOA",
+      "category": "Defence",
+      "description": "The US designates India a \"Major Defense Partner,\" and both sides sign the Logistics Exchange Memorandum of Agreement (LEMOA), the first of four foundational defence pacts."
+    },
+    {
+      "year": 2020,
+      "title": "BECA Signed, Completing Foundational Defence Agreements",
+      "category": "Defence",
+      "description": "India and the US sign the Basic Exchange and Cooperation Agreement (BECA), completing a suite of interoperability agreements alongside LEMOA (2016) and COMCASA (2018)."
+    },
+    {
+      "year": 2022,
+      "title": "Initiative on Critical and Emerging Technology (iCET)",
+      "category": "Technology",
+      "description": "India and the US launch iCET to deepen cooperation on semiconductors, AI, space and defence technology."
+    },
+    {
+      "year": 2025,
+      "title": "Tariff Dispute",
+      "category": "Trade",
+      "description": "The US imposes tariffs on a range of Indian exports, citing trade deficits and India's continued purchase of discounted Russian oil amid the Ukraine war.",
+      "impact": "Introduced friction into an otherwise strengthening relationship and prompted renewed trade negotiations."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Civil Nuclear Cooperation Agreement (123 Agreement)",
+      "year": 2008,
+      "category": "Nuclear",
+      "description": "Landmark agreement enabling civil nuclear trade between India and the US.",
+      "status": "Active"
+    },
+    {
+      "name": "COMCASA",
+      "year": 2018,
+      "category": "Defence",
+      "description": "Communications Compatibility and Security Agreement enabling secure military communications interoperability.",
+      "status": "Active"
+    },
+    {
+      "name": "BECA",
+      "year": 2020,
+      "category": "Defence",
+      "description": "Basic Exchange and Cooperation Agreement for geospatial intelligence sharing.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "LEMOA",
+      "type": "Logistics Agreement",
+      "description": "Reciprocal access to military logistics and refuelling facilities."
+    },
+    {
+      "name": "Malabar Exercise",
+      "type": "Joint Naval Exercise",
+      "description": "Major multilateral naval exercise with the US, Japan and Australia."
+    },
+    {
+      "name": "COMCASA / BECA",
+      "type": "Interoperability Agreements",
+      "description": "Foundational agreements enabling secure communications and geospatial data sharing."
+    }
+  ],
+  "trade": {
+    "exports": "~$77.5 billion",
+    "imports": "~$42 billion",
+    "total": "~$120 billion (goods); over $190 billion including services",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, IT services, textiles, gems and jewellery",
+    "majorImports": "Crude oil, aircraft, machinery, electronics",
+    "majorSectors": "IT services, pharmaceuticals, defence, energy"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "QUAD",
+      "detail": "Founding member alongside the US, Japan and Australia."
+    },
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    },
+    {
+      "organization": "I2U2",
+      "detail": "Joint member alongside Israel and the UAE."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    },
+    {
+      "name": "Donald Trump",
+      "position": "President of the United States",
+      "isIndian": false
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

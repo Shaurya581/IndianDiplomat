@@ -1,0 +1,103 @@
+{
+  "id": "norway",
+  "name": "Norway",
+  "capital": "Oslo",
+  "region": "Europe",
+  "subregion": "Northern Europe",
+  "flag": "🇳🇴",
+  "iso2": "NO",
+  "iso3": "NOR",
+  "tier": "major",
+  "relationship": {
+    "overall": 49,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 50,
+      "economic": 60,
+      "defence": 30,
+      "political": 55,
+      "technology": 55,
+      "energy": 25,
+      "peopleToPeople": 40,
+      "multilateral": 40,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "Norway's sovereign wealth fund is among the largest portfolio investors in Indian equity markets, and the two countries cooperate on ocean/maritime economy initiatives through the \"Blue Economy\" partnership.",
+  "diplomaticRelationsEstablished": "1947",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Portfolio investment",
+      "description": "Norway's sovereign wealth fund is among the largest foreign portfolio investors in Indian markets."
+    },
+    {
+      "area": "Ocean economy",
+      "description": "Joint initiatives on sustainable fisheries and maritime resource management."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Norwegian sovereign fund investment in India continues",
+      "description": "Norway's sovereign wealth fund remained among the larger foreign portfolio investors in Indian equity markets.",
+      "whyItMatters": "Reflects continued financial-market confidence in India even amid global volatility."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2006,
+      "title": "Establishment of Regular Political Dialogue",
+      "category": "Diplomacy",
+      "description": "India and Norway institute regular high-level political consultations."
+    },
+    {
+      "year": 2019,
+      "title": "India-Norway Ocean Dialogue",
+      "category": "Diplomacy",
+      "description": "The two countries launch cooperation on sustainable ocean and \"Blue Economy\" management."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.4 billion",
+    "imports": "~$1.5 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Marine products, pharmaceuticals, textiles",
+    "majorImports": "Fertilisers, machinery, chemicals",
+    "majorSectors": "Sovereign wealth investment, maritime economy"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "International Solar Alliance",
+      "detail": "Norway is a partner country."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

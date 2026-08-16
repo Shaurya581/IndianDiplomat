@@ -1,0 +1,54 @@
+{
+  "id": "libya",
+  "name": "Libya",
+  "capital": "Tripoli",
+  "region": "Middle East",
+  "subregion": "North Africa",
+  "flag": "🇱🇾",
+  "iso2": "LY",
+  "iso3": "LBY",
+  "tier": "standard",
+  "relationship": {
+    "overall": 30,
+    "level": "POOR",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 30,
+      "strategic": 30,
+      "economic": 30,
+      "defence": 30,
+      "political": 30,
+      "technology": 30,
+      "energy": 30,
+      "peopleToPeople": 30,
+      "multilateral": 30,
+      "momentum": 30
+    }
+  },
+  "shortSummary": "India's engagement with Libya has been minimal since the country descended into instability following the 2011 uprising, with limited diplomatic and commercial activity since.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [],
+  "majorChallenges": [
+    {
+      "title": "Ongoing instability",
+      "description": "Political fragmentation since 2011 has severely limited bilateral engagement."
+    }
+  ],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

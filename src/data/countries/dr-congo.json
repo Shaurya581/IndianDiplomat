@@ -1,0 +1,54 @@
+{
+  "id": "dr-congo",
+  "name": "Democratic Republic of the Congo",
+  "capital": "Kinshasa",
+  "region": "Africa",
+  "subregion": "Central Africa",
+  "flag": "🇨🇩",
+  "iso2": "CD",
+  "iso3": "COD",
+  "tier": "standard",
+  "relationship": {
+    "overall": 45,
+    "level": "AVERAGE",
+    "status": "Developing",
+    "dimensions": {
+      "diplomatic": 45,
+      "strategic": 45,
+      "economic": 45,
+      "defence": 45,
+      "political": 45,
+      "technology": 45,
+      "energy": 45,
+      "peopleToPeople": 45,
+      "multilateral": 45,
+      "momentum": 45
+    }
+  },
+  "shortSummary": "India has contributed significant peacekeeping forces to the UN mission in the Democratic Republic of the Congo (MONUSCO) over the years, alongside modest bilateral trade.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [
+    {
+      "area": "UN peacekeeping",
+      "description": "India has been among the largest troop contributors to the UN stabilisation mission in the DRC."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

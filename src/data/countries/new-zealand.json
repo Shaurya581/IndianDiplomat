@@ -1,0 +1,102 @@
+{
+  "id": "new-zealand",
+  "name": "New Zealand",
+  "capital": "Wellington",
+  "region": "Oceania",
+  "subregion": "Oceania",
+  "flag": "🇳🇿",
+  "iso2": "NZ",
+  "iso3": "NZL",
+  "tier": "major",
+  "relationship": {
+    "overall": 46,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 50,
+      "economic": 45,
+      "defence": 30,
+      "political": 55,
+      "technology": 45,
+      "energy": 15,
+      "peopleToPeople": 60,
+      "multilateral": 35,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and New Zealand maintain warm but modest ties, with ongoing negotiations toward a free trade agreement and a growing Indian-origin population in New Zealand.",
+  "diplomaticRelationsEstablished": "1952",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Education and diaspora",
+      "description": "A growing Indian-origin population and student community in New Zealand."
+    },
+    {
+      "area": "Agricultural trade",
+      "description": "New Zealand dairy exporters have long sought greater market access in India."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "Stalled FTA talks",
+      "description": "Free trade agreement negotiations have proceeded slowly since first launching in 2010."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Renewed trade agreement talks",
+      "description": "India and New Zealand continued discussions toward a bilateral free trade agreement, building on talks that first launched in 2010.",
+      "whyItMatters": "Modest but real momentum in a relationship that has historically moved slowly."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2016,
+      "title": "Renewed Trade Negotiations",
+      "category": "Trade",
+      "description": "India and New Zealand hold renewed discussions toward a bilateral free trade agreement after talks first launched in 2010."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$0.5 billion",
+    "imports": "~$0.3 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, textiles, machinery",
+    "majorImports": "Wool, dairy products, fruits",
+    "majorSectors": "Dairy and agriculture, education services"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Commonwealth",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

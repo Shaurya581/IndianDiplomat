@@ -1,0 +1,54 @@
+{
+  "id": "antigua-and-barbuda",
+  "name": "Antigua and Barbuda",
+  "capital": "St. John's",
+  "region": "Caribbean",
+  "subregion": "Caribbean",
+  "flag": "🇦🇬",
+  "iso2": "AG",
+  "iso3": "ATG",
+  "tier": "standard",
+  "relationship": {
+    "overall": 55,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 55,
+      "economic": 55,
+      "defence": 55,
+      "political": 55,
+      "technology": 55,
+      "energy": 55,
+      "peopleToPeople": 55,
+      "multilateral": 55,
+      "momentum": 55
+    }
+  },
+  "shortSummary": "India and Antigua and Barbuda maintain warm Commonwealth ties, engaged through the India-CARICOM framework.",
+  "diplomaticRelationsEstablished": "1988",
+  "majorAreasOfCooperation": [
+    {
+      "area": "India-CARICOM cooperation",
+      "description": "Engaged through summit-level India-Caribbean Community dialogue."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

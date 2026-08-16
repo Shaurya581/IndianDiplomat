@@ -1,0 +1,150 @@
+{
+  "id": "vietnam",
+  "name": "Vietnam",
+  "capital": "Hanoi",
+  "region": "Southeast Asia",
+  "subregion": "Southeast Asia",
+  "flag": "🇻🇳",
+  "iso2": "VN",
+  "iso3": "VNM",
+  "tier": "major",
+  "relationship": {
+    "overall": 72,
+    "level": "GOOD",
+    "status": "Strategic Partner",
+    "dimensions": {
+      "diplomatic": 82,
+      "strategic": 88,
+      "economic": 65,
+      "defence": 85,
+      "political": 75,
+      "technology": 55,
+      "energy": 40,
+      "peopleToPeople": 60,
+      "multilateral": 60,
+      "momentum": 65
+    }
+  },
+  "shortSummary": "India and Vietnam share a Comprehensive Strategic Partnership dating to Cold War-era solidarity, with substantial defence cooperation including training support and lines of credit, and joint interest in South China Sea freedom of navigation.",
+  "diplomaticRelationsEstablished": "1972",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Oil and gas exploration",
+      "description": "ONGC Videsh holds exploration blocks in Vietnamese waters."
+    },
+    {
+      "area": "Defence training and equipment",
+      "description": "India supports Vietnamese naval and air force capacity building."
+    }
+  ],
+  "majorChallenges": [
+    {
+      "title": "South China Sea tensions",
+      "description": "Indian oil exploration blocks off Vietnam's coast have drawn objections from China."
+    }
+  ],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Continued defence and maritime cooperation",
+      "description": "India and Vietnam sustained defence training cooperation and joint naval engagement amid shared concern over Chinese assertiveness in the South China Sea.",
+      "whyItMatters": "One of India's most consistent Southeast Asian defence partnerships, unaffected by broader regional volatility."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1972,
+      "title": "Establishment of Diplomatic Relations",
+      "category": "Diplomacy",
+      "description": "India and Vietnam formalise diplomatic relations amid Cold War-era non-aligned solidarity."
+    },
+    {
+      "year": 2007,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "Ties are elevated to a Strategic Partnership."
+    },
+    {
+      "year": 2016,
+      "title": "Comprehensive Strategic Partnership",
+      "category": "Summit",
+      "description": "Relations are upgraded further during PM Modi's visit to Hanoi, alongside a $500 million defence line of credit."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "Comprehensive Strategic Partnership",
+      "year": 2016,
+      "category": "Diplomacy",
+      "description": "Framework elevating political, defence and economic cooperation.",
+      "status": "Active"
+    },
+    {
+      "name": "Defence Line of Credit",
+      "year": 2016,
+      "category": "Defence",
+      "description": "$500 million credit line to support Vietnamese defence acquisitions from India.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "VINBAX",
+      "type": "Joint Exercise",
+      "description": "Bilateral army exercise between India and Vietnam."
+    },
+    {
+      "name": "Naval training assistance",
+      "type": "Training Cooperation",
+      "description": "India trains Vietnamese submarine crews and provides naval vessels."
+    }
+  ],
+  "trade": {
+    "exports": "~$8 billion",
+    "imports": "~$7 billion",
+    "total": "~$15 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Cotton, iron and steel, machinery",
+    "majorImports": "Electronics, mobile phones, machinery",
+    "majorSectors": "Defence, oil exploration, electronics"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "ASEAN",
+      "detail": "India engages Vietnam through the ASEAN framework and Act East Policy."
+    },
+    {
+      "organization": "East Asia Summit",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

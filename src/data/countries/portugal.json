@@ -1,0 +1,54 @@
+{
+  "id": "portugal",
+  "name": "Portugal",
+  "capital": "Lisbon",
+  "region": "Europe",
+  "subregion": "Southern Europe",
+  "flag": "🇵🇹",
+  "iso2": "PT",
+  "iso3": "PRT",
+  "tier": "standard",
+  "relationship": {
+    "overall": 60,
+    "level": "GOOD",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 60,
+      "economic": 60,
+      "defence": 60,
+      "political": 60,
+      "technology": 60,
+      "energy": 60,
+      "peopleToPeople": 60,
+      "multilateral": 60,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "India and Portugal share a complex colonial history — Goa remained under Portuguese rule until 1961 — but relations today are warm, with Portugal often serving as a bridge for India-EU engagement.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "EU gateway diplomacy",
+      "description": "Portugal has positioned itself as a supportive voice for India's engagement with the European Union."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

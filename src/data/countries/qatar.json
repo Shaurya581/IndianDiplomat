@@ -1,0 +1,136 @@
+{
+  "id": "qatar",
+  "name": "Qatar",
+  "capital": "Doha",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇶🇦",
+  "iso2": "QA",
+  "iso3": "QAT",
+  "tier": "major",
+  "relationship": {
+    "overall": 64,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 75,
+      "strategic": 65,
+      "economic": 70,
+      "defence": 45,
+      "political": 70,
+      "technology": 45,
+      "energy": 75,
+      "peopleToPeople": 80,
+      "multilateral": 45,
+      "momentum": 78
+    }
+  },
+  "shortSummary": "Qatar is India's largest supplier of liquefied natural gas and home to a large Indian expatriate community; the 2023-24 commutation and release of eight former Indian Navy personnel marked a notable diplomatic resolution.",
+  "diplomaticRelationsEstablished": "1973",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Liquefied natural gas supply",
+      "description": "Qatar is India's single largest LNG supplier under long-term contracts."
+    },
+    {
+      "area": "Expatriate community",
+      "description": "A large Indian workforce in Qatar, including around the 2022 FIFA World Cup infrastructure build-out."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024-02",
+      "title": "Release of former Indian Navy personnel",
+      "description": "Qatar commuted the death sentences of eight former Indian Navy personnel and released them following sustained diplomatic engagement; they returned to India in early 2024.",
+      "whyItMatters": "A significant diplomatic success that reinforced bilateral trust after a tense 18-month period."
+    },
+    {
+      "date": "2024",
+      "title": "Renegotiated LNG terms take effect",
+      "description": "India continued receiving Qatari LNG under revised long-term contract terms secured in the preceding years.",
+      "whyItMatters": "Anchors continued energy security cooperation on more favourable terms for India."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2015,
+      "title": "Strategic Partnership Declaration",
+      "category": "Diplomacy",
+      "description": "India and Qatar elevate relations during PM Modi's visit to Doha."
+    },
+    {
+      "year": 2022,
+      "title": "Detention of Former Indian Navy Personnel",
+      "category": "Diplomacy",
+      "description": "Eight former Indian Navy personnel are detained in Qatar on espionage-related charges, initially sentenced to death."
+    },
+    {
+      "year": 2024,
+      "title": "Release of Former Navy Personnel",
+      "category": "Diplomacy",
+      "description": "Following sustained diplomatic engagement, Qatar commutes the sentences and the men are released and return to India.",
+      "impact": "Widely seen as a significant diplomatic success reinforcing bilateral trust."
+    }
+  ],
+  "agreements": [
+    {
+      "name": "LNG Supply Agreement",
+      "year": 2015,
+      "category": "Energy",
+      "description": "Long-term renegotiated agreement for Qatari LNG supply to India at revised, more favourable terms.",
+      "status": "Active"
+    }
+  ],
+  "defenceCooperation": [
+    {
+      "name": "Zayed Talwar",
+      "type": "Joint Naval Exercise",
+      "description": "Bilateral naval exercise between India and Qatar."
+    }
+  ],
+  "trade": {
+    "exports": "~$2 billion",
+    "imports": "~$9 billion",
+    "total": "~$11 billion",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Cereals, food products, machinery",
+    "majorImports": "LNG, petroleum products, chemicals",
+    "majorSectors": "Liquefied natural gas, petrochemicals"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "Gulf Cooperation Council dialogue",
+      "detail": "India engages Qatar bilaterally alongside broader GCC dialogue."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Official government statements and summit readouts.",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://pib.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

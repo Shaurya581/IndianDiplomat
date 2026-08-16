@@ -1,0 +1,54 @@
+{
+  "id": "papua-new-guinea",
+  "name": "Papua New Guinea",
+  "capital": "Port Moresby",
+  "region": "Oceania",
+  "subregion": "Pacific Islands",
+  "flag": "🇵🇬",
+  "iso2": "PG",
+  "iso3": "PNG",
+  "tier": "standard",
+  "relationship": {
+    "overall": 58,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 58,
+      "strategic": 58,
+      "economic": 58,
+      "defence": 58,
+      "political": 58,
+      "technology": 58,
+      "energy": 58,
+      "peopleToPeople": 58,
+      "multilateral": 58,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "Papua New Guinea has hosted high-level Indian engagement including a 2023 FIPIC summit co-chaired with PM Modi, reflecting India's growing Pacific outreach amid competition with China for regional influence.",
+  "diplomaticRelationsEstablished": "1976",
+  "majorAreasOfCooperation": [
+    {
+      "area": "FIPIC leadership",
+      "description": "Papua New Guinea co-hosted the 2023 India-Pacific Islands summit."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

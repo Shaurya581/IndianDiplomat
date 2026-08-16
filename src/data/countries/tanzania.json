@@ -1,0 +1,54 @@
+{
+  "id": "tanzania",
+  "name": "Tanzania",
+  "capital": "Dodoma",
+  "region": "Africa",
+  "subregion": "East Africa",
+  "flag": "🇹🇿",
+  "iso2": "TZ",
+  "iso3": "TZA",
+  "tier": "standard",
+  "relationship": {
+    "overall": 60,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 60,
+      "strategic": 60,
+      "economic": 60,
+      "defence": 60,
+      "political": 60,
+      "technology": 60,
+      "energy": 60,
+      "peopleToPeople": 60,
+      "multilateral": 60,
+      "momentum": 60
+    }
+  },
+  "shortSummary": "India and Tanzania maintain a substantial East African relationship with a long-established Indian-origin business community and growing defence and development cooperation.",
+  "diplomaticRelationsEstablished": "1961",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Development and defence cooperation",
+      "description": "India has extended lines of credit and modest defence training support."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}

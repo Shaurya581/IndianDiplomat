@@ -1,0 +1,103 @@
+{
+  "id": "poland",
+  "name": "Poland",
+  "capital": "Warsaw",
+  "region": "Europe",
+  "subregion": "Central Europe",
+  "flag": "🇵🇱",
+  "iso2": "PL",
+  "iso3": "POL",
+  "tier": "major",
+  "relationship": {
+    "overall": 49,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 65,
+      "strategic": 50,
+      "economic": 55,
+      "defence": 35,
+      "political": 55,
+      "technology": 45,
+      "energy": 20,
+      "peopleToPeople": 55,
+      "multilateral": 40,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "India-Poland ties carry historic goodwill from World War II, when Poland's Nawanagar state sheltered Polish refugees at \"Little Poland\" in Balachadi, and have grown through expanding trade and 2022 evacuation cooperation.",
+  "diplomaticRelationsEstablished": "1954",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Historic goodwill",
+      "description": "The WWII-era Balachadi refuge remains a touchstone of the bilateral relationship."
+    },
+    {
+      "area": "Trade and connectivity",
+      "description": "Growing machinery and chemical trade alongside logistics cooperation."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Trade and logistics ties continue growing",
+      "description": "India-Poland trade continued its steady growth trajectory, building on Poland's role as a logistics gateway to Central Europe.",
+      "whyItMatters": "A quietly expanding relationship without major friction points."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 1942,
+      "title": "Refuge for Polish Civilians at Balachadi",
+      "category": "Diplomacy",
+      "description": "The princely state of Nawanagar shelters hundreds of Polish refugee children and civilians fleeing World War II, an episode still commemorated by both nations as \"Little Poland.\""
+    },
+    {
+      "year": 2022,
+      "title": "Evacuation Transit Support",
+      "category": "Diplomacy",
+      "description": "Poland serves as a key transit point for Indian citizens evacuated from Ukraine under Operation Ganga following Russia's invasion."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$2.5 billion",
+    "imports": "~$1.5 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Textiles, chemicals, machinery",
+    "majorImports": "Machinery, coal, chemicals",
+    "majorSectors": "Machinery, chemicals, defence-industry dialogue"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "European Union dialogue",
+      "detail": "Poland is engaged as part of India's broader EU relationship."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

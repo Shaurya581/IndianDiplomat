@@ -1,0 +1,103 @@
+{
+  "id": "argentina",
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "region": "South America",
+  "subregion": "South America",
+  "flag": "🇦🇷",
+  "iso2": "AR",
+  "iso3": "ARG",
+  "tier": "major",
+  "relationship": {
+    "overall": 44,
+    "level": "AVERAGE",
+    "status": "Cooperative",
+    "dimensions": {
+      "diplomatic": 55,
+      "strategic": 45,
+      "economic": 55,
+      "defence": 20,
+      "political": 55,
+      "technology": 40,
+      "energy": 20,
+      "peopleToPeople": 35,
+      "multilateral": 45,
+      "momentum": 58
+    }
+  },
+  "shortSummary": "Argentina and India share historic non-aligned solidarity and a growing critical-minerals relationship, with Indian public-sector firms investing in Argentina's lithium reserves for battery supply chains.",
+  "diplomaticRelationsEstablished": "1949",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Critical minerals",
+      "description": "Indian investment in Argentine lithium reserves supports India's electric-vehicle battery supply chain ambitions."
+    },
+    {
+      "area": "Edible oil trade",
+      "description": "Argentina is a significant supplier of soybean oil to India."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [
+    {
+      "date": "2024",
+      "title": "Lithium investment continues",
+      "description": "Indian public-sector investment in Argentine lithium blocks continued as part of India's critical-minerals strategy.",
+      "whyItMatters": "Positions Argentina as an increasingly important supplier for India's electric-vehicle battery supply chain."
+    }
+  ],
+  "historicalEvents": [
+    {
+      "year": 2019,
+      "title": "Strategic Partnership",
+      "category": "Diplomacy",
+      "description": "India and Argentina elevate ties to a Strategic Partnership."
+    },
+    {
+      "year": 2023,
+      "title": "Lithium Mining Investment",
+      "category": "Energy",
+      "description": "An Indian public-sector consortium (KABIL) secures stakes in Argentine lithium blocks to secure battery-grade mineral supply."
+    }
+  ],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": {
+    "exports": "~$1.5 billion",
+    "imports": "~$2 billion",
+    "total": "Latest verified bilateral trade data unavailable — requires verification against Ministry of Commerce & Industry (GoI) records.",
+    "dataYear": "Recent FY (approximate)",
+    "majorExports": "Pharmaceuticals, chemicals, engineering goods",
+    "majorImports": "Edible oils, gold, leather",
+    "majorSectors": "Agriculture, critical minerals (lithium)"
+  },
+  "multilateralRelations": [
+    {
+      "organization": "G20",
+      "detail": "Joint member."
+    }
+  ],
+  "leaders": [
+    {
+      "name": "Narendra Modi",
+      "position": "Prime Minister of India",
+      "isIndian": true
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bilateral briefs, press releases and treaty texts.",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    },
+    {
+      "title": "Export/import and bilateral trade statistics.",
+      "publisher": "Ministry of Commerce & Industry, Government of India",
+      "url": "https://commerce.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-10"
+}

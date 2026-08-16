@@ -1,0 +1,54 @@
+{
+  "id": "bahrain",
+  "name": "Bahrain",
+  "capital": "Manama",
+  "region": "Middle East",
+  "subregion": "Gulf",
+  "flag": "🇧🇭",
+  "iso2": "BH",
+  "iso3": "BHR",
+  "tier": "standard",
+  "relationship": {
+    "overall": 68,
+    "level": "GOOD",
+    "status": "Strong Partner",
+    "dimensions": {
+      "diplomatic": 68,
+      "strategic": 68,
+      "economic": 68,
+      "defence": 68,
+      "political": 68,
+      "technology": 68,
+      "energy": 68,
+      "peopleToPeople": 68,
+      "multilateral": 68,
+      "momentum": 68
+    }
+  },
+  "shortSummary": "Bahrain hosts a large Indian expatriate community and maintains warm, low-friction relations with India, with growing defence and naval engagement in the Gulf.",
+  "diplomaticRelationsEstablished": "1971",
+  "majorAreasOfCooperation": [
+    {
+      "area": "Diaspora and labour ties",
+      "description": "A large Indian workforce anchors deep people-to-people links."
+    }
+  ],
+  "majorChallenges": [],
+  "recentDevelopments": [],
+  "historicalEvents": [],
+  "agreements": [],
+  "defenceCooperation": [],
+  "trade": null,
+  "multilateralRelations": [],
+  "leaders": [],
+  "sources": [
+    {
+      "title": "Bilateral brief",
+      "publisher": "Ministry of External Affairs, Government of India",
+      "url": "https://mea.gov.in",
+      "type": "government"
+    }
+  ],
+  "lastVerified": "2026-08-15",
+  "lastMajorUpdate": "2026-08-15"
+}
